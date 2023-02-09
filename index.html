@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Visuddhimagga — digital</title>
+		<style>dt { font-weight:bold; }</style>
+	</head>
+	<body>
+		<h1>Visuddhimagga digital</h1>
+		<h2>Motivation</h2>
+			<p><em>Visuddhimagga</em> is one of the most important commenterial works in Theravada, yet, in 2023, we still don't have a good electronic edition. Buddhist Publication Society (BPS) created and published one in 2011, but released it in print and PDF hardcopy. <em>Sadhu</em> for their work, but it is still not good enough for electronic devices, let alone future-proof.</p>
+		<h2>Goals</h2>
+			<p>This project aims at providing high-quality machine-readable Visuddhimagga, which can serve as a basis for various electronic editions (such as HTML and ePub).</p>
+			Is this legal? Probably not because of ©. That said, I believe BPS is motivated by the benefit of all practitioners, not making money off the <em>Dhamma</em>; as the Roman law teaches us: <em>ubi non accusator, ibi non iudex</em>.
+		<h3>Done and not done</h3>
+			<p>The BPS edition was used as a basis for XML (semantic) representation of the contents. This was done in a <a href="https://github.com/eudoxos/vism/blob/main/03-lxml-html.ipynb">pretty ugly way</a> (conversion to HTML via pdfminer, then processing that with LXML, with bunch of hacks and heuristics), but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such) and example tools validate the output (see below).</p>
+			<p>There are some known errors in the data, such as
+				<ul>
+					<li>obvious errors in the BPS edition (few);</li>
+					<li>trailing lines broken off paragraphs (since pdfminer's <tt>pdf2txt</tt> uses lots of heuristics);</li>
+					<li>cross-references which were not parsed correctly;</li>
+					<li>incorrectly parsed entries in the index and glossary;</li>
+					<li>some (sub)section header are missing, as they were not parsed correctly;</li>
+					<li>tables were not processed at all (one in introduction is missing, one is rendered as text; and 4 tables at the end are not included at all);</li>
+					<li>and perhaps others.</li>
+				</ul>
+		<h3>Next steps</h3>
+			<dl>
+				<dt>1. verification</dt><dd>make sure that current data are fairly complete and don't suffer from a structural problem.</dd>
+				<dt>2. corrections</dt><dd>Start hand-editing the data to fix non-structural errors mentioned above. <b>This must only be done once the verification is complete:</b> should the data be re-generated, all hand-tuning will be lost and will have to be re-applied.</dd>
+				<dt>3. enhancements</dt><dd>Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
+				<dt>4. publication</dt><dd>Actually produce something digestible, such as various PDFs, HTML, ePub, <tt>mobi</tt>, an offline app (why not?).</dd>
+				<dt>5. politics</dt><dd>Leave the grey zone, get in touch with the publisher (BPS) which has © on the 2011 edition we used for the start, get permission to disseminate the work freely. It should absolutely be available at sites such as <a href="https://accesstoinsight.org">accesstoinsight.org</a>.</dd>
+				<dt>6. beyond</dt><dd>Vimuttimagga? Patisambhidamagga?</dd>
+			</dl>
+		</h3>
+		<h3>How can you help?</h3>
+			<p><em>Yes, you who are reading this page right now.</em></p>
+			<p>At this moment, the most useful thing would be to work on the <b>1. verification</b>.
+			<ul>
+				<li>Look at the current outputs below and do a cursory check that nothing is completely off. I did that already quite a bit, obviously, but more eyes see more.</li>
+				<li>If you are fluent with XML, look at the data sources and see if there is not something obviously wrong with the.</li>
+			</ul>
+			<p>If you spot anything worth attention, <a href="https://github.com/eudoxos/vism/issues">file an issue at github</a> (I don't think anyone will open a pull request for the current processing notebook). Do not yet file issues about minor corrections (such as listed above).</p>
+			<p>If you want to work on any of the other points, go ahead and let me know! Pull Requests are welcome.</p>
+		<h2>Inputs &amp; outputs</h2>
+		<h3>Inputs</h3>
+			<p>All the data are in the <a href="https://github.com/eudoxos/vism">GitHub repository</a>.</p>
+			<p>The data are split into 3 XML files (with <a href="https://github.com/eudoxos/vism/blob/main/xml/README.md">custom tags</a>): <a href="https://raw.githubusercontent.com/eudoxos/vism/main/xml/book.6.xml" download="1">book</a> (all the normal text), <a href="https://raw.githubusercontent.com/eudoxos/vism/main/xml/index.3.xml" download="1">index</a> and <a href="gttps://raw.githubusercontent.com/eudoxos/vism/main/xml/gloss.d.xml" download="1">glossary</a>.
+		<h3>Processing</h3>
+			<p>Current processing routines to spit out <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a> and <a href="https://sphinx-doc">Sphinx</a> sources (at the end of <a href="https://github.com/eudoxos/vism/blob/main/03-lxml-html.ipynb">the notebook</a>) and are fairly simple: English editions of <em>Visuddhimagga</em> use traditional book organization, which is straightfoward with LaTeX.</p>
+			<p>The reason for Sphinx was that it has good support for ebooks (ePub and others), but lacks customizations which seem to be important for this kind of book — such as chapters in roman numbers and others.</p>
+			<p><a href="https://plastex.github.io/plastex/">PlasTeX</a>'s HTML output if far superior to Sphinx's (and was almost no extra work, as we mostly use vanilla LaTeX with little customizations), but it lacks ePub output.</p>
+			<p>Perhaps another exporter will have to be created for better ePub version (see <a href="https://standardebooks.org/">Standard Ebooks</a> which set a good standard; <a href="https://git.matthewbutterick.com/mbutterick/pollen">Pollen</a> create exceptional web books, but seems to be a small and declining project).</p>
+		</ul>
+		<h3>Outputs</h3>
+		<ul>
+			<li><a href="latex/vism.pdf" download="1">PDF</a> (via XML → LaTeX source → LuaLaTeX)
+			<li><a href="latex/html/index.html">HTML</a> (via XML → LaTeX source → PlastTeX)
+			<li><a href="sphinx/build/html/index.html">HTML</a>(via XML → Sphinx)
+			<li><a href="sphinx/build/epub/vism.epub" download="1">ePub</a> (via XML → Sphinx)
+		</ul>
+	</body>
+</html>
