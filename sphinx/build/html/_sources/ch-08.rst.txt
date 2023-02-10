@@ -57,7 +57,7 @@ direct-knowledge, etc.; likewise (11) as limited with limited object, etc., (12)
 
 **§6** *1.* Herein, the section dealing with that of one kind is evident in meaning. 
 
-*2.* In the section dealing with that of two kinds, *access* concentration is the unification of mind obtained by the following, that is to say, the six recollections, mindfulness of death, the recollection of peace, the perception of repulsiveness in nutriment, and the defining of the four elements, and it is the unification that precedes absorption concentration. *Absorption* concentration is the unification that follows immediately upon the preliminary-work (:ref:`IV.74 <IV.74>` ) because of the words, “The first-jhāna preliminary-work is a condition, as proximity condition, for the first jhāna” ( [Paṭṭh II]_  *350*\   (Se). So it is of two kinds as access and absorption. 
+*2.* In the section dealing with that of two kinds, *access* concentration is the unification of mind obtained by the following, that is to say, the six recollections, mindfulness of death, the recollection of peace, the perception of repulsiveness in nutriment, and the defining of the four elements, and it is the unification that precedes absorption concentration. *Absorption* concentration is the unification that follows immediately upon the preliminary-work (:ref:`IV.74 <IV.74>` ) because of the words, “The first-jhāna preliminary-work is a condition, as proximity condition, for the first jhāna” ( [Paṭṭh]_  *II 350*\   (Se). So it is of two kinds as access and absorption. 
 
 
 
@@ -515,7 +515,7 @@ habitual attendant, ask his permission to do the duties. If he does not allow it
 
 .. _III.71:
 
-**§71** Why so many words? All should be done as prescribed by the Blessed One in the Khandhakas as the right duties in the passage beginning: “Bhikkhus, a pupil should perform the duties to the teacher  ``101``  rightly. Herein, this is the right performance of duties. He should rise early; removing his sandals and arranging his robe on one shoulder, he should give the tooth-sticks and the mouth-washing water, and he should prepare the seat. If there is rice gruel, he should wash the dish and bring the rice gruel” ( [Vin I]_  *61*\  ). 
+**§71** Why so many words? All should be done as prescribed by the Blessed One in the Khandhakas as the right duties in the passage beginning: “Bhikkhus, a pupil should perform the duties to the teacher  ``101``  rightly. Herein, this is the right performance of duties. He should rise early; removing his sandals and arranging his robe on one shoulder, he should give the tooth-sticks and the mouth-washing water, and he should prepare the seat. If there is rice gruel, he should wash the dish and bring the rice gruel” ( [Vin]_  *I 61*\  ). 
 
 
 
@@ -1034,10 +1034,10 @@ The third chapter called “The Description of Taking a Meditation Subject” in
 .. [#III.n8]  One of the principal monasteries in Anurādhapura. 
 
 
-.. [#III.n9]  *Dve mātikā—*\ the “two codes”: see Ch. I, n. 
+.. [#III.n9]  *Dve mātikā—*\ the “two codes”: see :ref:`Ch. I <I>` , n. 
 
 
-.. [#III.n10]  *Pavāraṇa:* ceremony held at the end of the rains, during three months of which season bhikkhus have to undertake to live in one place in order to avoid travel while crops are growing. It consists in a meeting of the bhikkhus who have spent the rains together, at which each member present invites *(pavāreti)* the Community to point out his faults (breaches of Vinaya rules) committed during the preceding three months ( [Vin I]_  *155*\  ). 11. “*Pācinakhaṇḍarājā ti puratthimadisāya pabbatakhaṇḍānaṃ antare vanarājīṭṭhānaṃ*\ ” ( [Vism-mhṭ]_  *97*\  ). 
+.. [#III.n10]  *Pavāraṇa:* ceremony held at the end of the rains, during three months of which season bhikkhus have to undertake to live in one place in order to avoid travel while crops are growing. It consists in a meeting of the bhikkhus who have spent the rains together, at which each member present invites *(pavāreti)* the Community to point out his faults (breaches of Vinaya rules) committed during the preceding three months ( [Vin]_  *I 155*\  ). 11. “*Pācinakhaṇḍarājā ti puratthimadisāya pabbatakhaṇḍānaṃ antare vanarājīṭṭhānaṃ*\ ” ( [Vism-mhṭ]_  *97*\  ). 
 
 
 .. [#III.n11]  But  [Vism-mhṭ]_   says here: *“‘Observers of the codes’* are observers of the codes (summaries) of the Dhamma and Vinaya” ( [Vism-mhṭ]_  *117*\  ). 
@@ -1061,7 +1061,7 @@ The third chapter called “The Description of Taking a Meditation Subject” in
 .. [#III.n17]  *Atthayitabba—”*\ needed”: not in PED, not in CPD. 
 
 
-.. [#III.n18]  *Māna,* usually rendered by “pride,” is rendered here both by “pride” and “conceit.” Etymologically it is derived perhaps from *māneti* (to honour) or *mināti* (to measure). In sense, however, it tends to become associated with *maññati,* to conceive (false notions, see  [M]_  *I 1*\  ), to imagine, to think (as e.g. at Nidd I 80, Vibh 390 and comy.). As one of the “defilements” (see  [M]_  *I 36*\  ) it is probably best rendered by “pride.” In the expression *asmi-māna* (often rendered by “the pride that says ‘I am’”) it more nearly approaches *maññanā* (false imagining, misconception, see  [M]_  *III 246*\  ) and is better rendered by the “conceit ‘I am,’” since the word “conceit” straddles both the meanings of “pride” (i.e. haughtiness) and “conception.” 
+.. [#III.n18]  *Māna,* usually rendered by “pride,” is rendered here both by “pride” and “conceit.” Etymologically it is derived perhaps from *māneti* (to honour) or *mināti* (to measure). In sense, however, it tends to become associated with *maññati,* to conceive (false notions, see  [M]_  *I 1*\  ), to imagine, to think (as e.g. at  [Nidd]_  *I 80*\  , Vibh 390 and comy.). As one of the “defilements” (see  [M]_  *I 36*\  ) it is probably best rendered by “pride.” In the expression *asmi-māna* (often rendered by “the pride that says ‘I am’”) it more nearly approaches *maññanā* (false imagining, misconception, see  [M]_  *III 246*\  ) and is better rendered by the “conceit ‘I am,’” since the word “conceit” straddles both the meanings of “pride” (i.e. haughtiness) and “conception.” 
 
 
 .. [#III.n19]  “*‘Some’* is said with reference to the Elder Upatissa. For it is put in this way by him in the *Vimuttimagga*\ . The word *‘apparently’* indicates dissent from what follows” ( [Vism-mhṭ]_  *103*\  ). A similar passage to that referred to appears in Ch. 6 (Taisho ed. p. 410a) of the Chinese version of the *Vimuttimagga*\ , the only one extant. 

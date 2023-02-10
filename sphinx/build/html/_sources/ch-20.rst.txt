@@ -403,7 +403,7 @@ The fifteenth chapter called “The Description of the Bases and Elements” in 
 .. [#XV.n2]  The following words in §4 are not in PED: *āyatana*\  (actuating: verbal n. fm. *āyatati*\ , to actuate); *tanana*\  (range: verbal n. fm. *tanoti*\ , to provide a range for, to extend—q.v. PED—; mentioned under *āyatana*\ , base); *nayana*\  (lead in on: verbal n. fm. *neti*\ , to lead on; lit, meaning not in PED); *āyatati*\  (to actuate—*cakkhuviññāṇādīnaṃ uppādanaṃ āyatanaṃ*\ ,  [Vism-mhṭ]_  ). See also *āyāpenti*\   [Paṭis]_  *II 21*\  . 3. *Ākara*\  means either a mine or a store (PED apparently believes in mining for pearls—see *ratanākara*\ ). 
 
 
-.. [#XV.n3]  are not in PED: *cakkhati*\  (it relishes), *rūpayati*\  (it makes visible—only referred to under *rūpa*\ ), *sappati*\  (it is emitted; pass. of *sapati*\ , to swear ( [Ud]_  *45*\  )), *udāhariyati*\  (it is uttered, lit. “is carried up to”), *gandhayati*\  (it is smelt), *sūcayati* (it betrays), *rasati*\  (it tastes). Be ed. of  [Vibh]_  -a reads *manayati*\  (not in PED) for *muṇāti*\  in parallel passage. 
+.. [#XV.n3]  are not in PED: *cakkhati*\  (it relishes), *rūpayati*\  (it makes visible—only referred to under *rūpa*\ ), *sappati*\  (it is emitted; pass. of *sapati*\ , to swear ( [Ud]_  *45*\  )), *udāhariyati*\  (it is uttered, lit. “is carried up to”), *gandhayati*\  (it is smelt), *sūcayati* (it betrays), *rasati*\  (it tastes). Be ed. of  [Vibh-a]_   reads *manayati*\  (not in PED) for *muṇāti*\  in parallel passage. 
     
      [Vism-mhṭ]_  *(p. 508)*\   explains *cakkhati* (relishes) semantically by “tasting a flavour as in ‘relishing’ honey or sauce” and cites  [M]_  *I 503*\  . Linguistically it connects the word with *ācikkhati*\  (to show). 
     
@@ -443,10 +443,10 @@ The fifteenth chapter called “The Description of the Bases and Elements” in 
 .. [#XV.n14]  “It is the mere cessation of the mind-consciousness element and mental-data element because it is the ceasedness of thought-arisings in the fourth immaterial state” ( [Vism-mhṭ]_  *514*\  ). 
 
 
-.. [#XV.n15]  In :ref:`XIV.35 <XIV.35>` –:ref:`70 <XIV.70>` , the material instances listed total 28, that is, 4 primary elements, 9 sense faculties (excluding the tangible-data faculty, which is the 3 elements except water), and 15 kinds of subtle materiality beginning with the femininity faculty (cf. treatment at  [Dhs]_  *§596*\  ). Other lists, however, sometimes give a total of 26 kinds, that is, 10 sense faculties (including the tangible-data faculty, which is the 3 primary elements) and 
+.. [#XV.n15]  In :ref:`XIV.35 <XIV.35>` –:ref:`70 <XIV.70>` , the material instances listed total 28, that is, 4 primary elements, 9 sense faculties (excluding the tangible-data faculty, which is the 3 elements except water), and 15 kinds of subtle materiality beginning with the femininity faculty (cf. treatment at Dhs §596). Other lists, however, sometimes give a total of 26 kinds, that is, 10 sense faculties (including the tangible-data faculty, which is the 3 primary elements) and 16 kinds of subtle materiality, that is, the above-mentioned 15 plus the water element, which is listed then after the space element (cf. treatment at Dhs §653 and list at  [M-a]_  *II 261*\  ). See Table I. 
 
 
-.. [#XV.n16]  kinds of subtle materiality, that is, the above-mentioned 15 plus the water element, which is listed then after the space element (cf. treatment at Dhs §653 and list at  [M-a]_  *II 261*\  ). See Table I. 16. “Here the word ‘etc.’ stands for the mind-consciousness element’s states where suitable as root-cause, predominance, kamma, kamma-result, nutriment, faculty, jhāna, and path conditions” ( [Vism-mhṭ]_  *516*\  ). 
+.. [#XV.n16]  “Here the word ‘etc.’ stands for the mind-consciousness element’s states where suitable as root-cause, predominance, kamma, kamma-result, nutriment, faculty, jhāna, and path conditions” ( [Vism-mhṭ]_  *516*\  ). 
 
 
 .. [#XV.n17]  “I.e. subtle materiality and Nibbāna” ( [Vism-mhṭ]_  *516*\  ). 

@@ -80,7 +80,7 @@ Consequently, it should be understood that dependent origination has the charact
 
 **§9** (1) No sutta describes the dependent origination as simple arising. 
 
-(2) Anyone who asserts that dependent origination is of that kind involves himself in conflict with the Padesavihāra Sutta. How? The Newly Enlightened One’s abiding (*vihāra*\ ) is the bringing of the dependent origination to mind, because, of these words of the Blessed One’s: “Then in the first watch of the night the Blessed One brought to mind the dependent origination in direct and reverse order” [as origination and cessation] ( [Vin I]_  *1*\  ;  [Ud]_  *2*\  ). Now, “*padesavihāra*\ ” is the abiding (*vihāra*\ ) in one part (*desa*\ ) of that, according as it is said, “Bhikkhus, I abode in a part of the abiding in which I abode when I was newly enlightened” ( [S]_  *V 12*\  ;  [Paṭis]_  *I 107*\  ). And there he abode in the vision of structure of conditions, not in the vision of simple arising, according as it is said, “So I understood feeling with wrong view as its condition, and feeling with right view as its condition, and feeling with wrong thinking as its condition …” ( [S]_  *V 12*\  ), all of which should be quoted in full. So anyone who asserts that dependent origination is simple arising involves himself in conflict with the Padesavihāra Sutta. 
+(2) Anyone who asserts that dependent origination is of that kind involves himself in conflict with the Padesavihāra Sutta. How? The Newly Enlightened One’s abiding (*vihāra*\ ) is the bringing of the dependent origination to mind, because, of these words of the Blessed One’s: “Then in the first watch of the night the Blessed One brought to mind the dependent origination in direct and reverse order” [as origination and cessation] ( [Vin]_  *I 1*\  ;  [Ud]_  *2*\  ). Now, “*padesavihāra*\ ” is the abiding (*vihāra*\ ) in one part (*desa*\ ) of that, according as it is said, “Bhikkhus, I abode in a part of the abiding in which I abode when I was newly enlightened” ( [S]_  *V 12*\  ;  [Paṭis]_  *I 107*\  ). And there he abode in the vision of structure of conditions, not in the vision of simple arising, according as it is said, “So I understood feeling with wrong view as its condition, and feeling with right view as its condition, and feeling with wrong thinking as its condition …” ( [S]_  *V 12*\  ), all of which should be quoted in full. So anyone who asserts that dependent origination is simple arising involves himself in conflict with the Padesavihāra Sutta. 
 
 
 
@@ -584,7 +584,7 @@ One as follows.”
 .. _XVII.66:
 
 **§66** “(1) Root-cause condition, (2) object condition, (3) predominance condition, (4) proximity condition, (5) contiguity condition, (6) conascence condition, (7) mutuality condition, (8) support condition, (9) decisive-support condition, (10) prenascence condition, (11) postnascence condition, (12) repetition condition, (13) kamma condition, (14) kamma-result condition, (15) nutriment condition, (16) faculty condition, (17) jhāna condition, (18) path condition, (19) association condition, (20) dissociation condition, (21) presence condition, (22) absence *[550/608]*
-condition, (23) disappearance condition, (24) non-disappearance condition” ( [Paṭṭh I]_  *1*\  ). 
+condition, (23) disappearance condition, (24) non-disappearance condition” ( [Paṭṭh]_  *I 1*\  ). 
 
 
 
@@ -592,7 +592,7 @@ condition, (23) disappearance condition, (24) non-disappearance condition” ( [
 
 **§67** (1) Herein, it is a root-cause and a condition, thus it is *root-cause condition*\ . It is by its being a root-cause that it is a condition; what is meant is that it is a condition owing to its status as root-cause. The same method applies in the case of object condition and the rest. 
 
-Herein, “cause” (*hetu*\ ) is a term for a part of a syllogism, for a reason, and for a root. For with the words “proposition” (*paṭiññā*\ ), “cause” (*hetu*\  = middle term), etc., in the world it is a member of a syllogism (*vacanāvayava*\ ) that is called a cause. But in the Dispensation, in such passages as “Those states that are produced from a cause” ( [Vin I]_  *40*\  ), it is a reason (*kāraṇa*\ ); and in such passages as “Three profitable [root-] causes, three unprofitable [root-]causes” ( [Dhs]_  *§1053*\  ), it is a root (*mūla*\ ) that is called a cause. The last is intended here. 
+Herein, “cause” (*hetu*\ ) is a term for a part of a syllogism, for a reason, and for a root. For with the words “proposition” (*paṭiññā*\ ), “cause” (*hetu*\  = middle term), etc., in the world it is a member of a syllogism (*vacanāvayava*\ ) that is called a cause. But in the Dispensation, in such passages as “Those states that are produced from a cause” ( [Vin]_  *I 40*\  ), it is a reason (*kāraṇa*\ ); and in such passages as “Three profitable [root-] causes, three unprofitable [root-]causes” ( [Dhs]_  *§1053*\  ), it is a root (*mūla*\ ) that is called a cause. The last is intended here. 
 
 
 
@@ -604,7 +604,7 @@ Herein, “cause” (*hetu*\ ) is a term for a part of a syllogism, for a reason
 
 .. _XVII.69:
 
-**§69** The intention of [some] teachers is that it establishes the profitable, etc., state in what is profitable, etc., as paddy seeds, etc., do for paddy, etc., and as the colour of gems, etc., do for the lustre of gems, and so on. [#XVII.n10]_  But if that is so, then [it follows that] the state of root-cause condition does not apply to the kinds of materiality originated by it, for it does not establish any profitableness, etc., in them. Nevertheless, it is a condition for them, for this is said: “Root-causes are a condition, as root-cause condition, for the states associated with a root-cause and for the kinds of materiality originated thereby” ( [Paṭṭh I]_  *1*\  ). Again, the indeterminateness of root-causeless consciousness is established without it. And the profitableness, etc., of those with root-cause is bound up with wise attention, etc., not with the associated root-causes. And if the profitableness, etc., resided in the associated root-causes as an individual essence, then either the non-greed bound up with the root-cause in the associated states would be only profitable or it would be only indeterminate; but since it can be both, profitableness, etc., in the root-causes must still be sought for, just as in the associated states [such as wise attention, and so on]. 
+**§69** The intention of [some] teachers is that it establishes the profitable, etc., state in what is profitable, etc., as paddy seeds, etc., do for paddy, etc., and as the colour of gems, etc., do for the lustre of gems, and so on. [#XVII.n10]_  But if that is so, then [it follows that] the state of root-cause condition does not apply to the kinds of materiality originated by it, for it does not establish any profitableness, etc., in them. Nevertheless, it is a condition for them, for this is said: “Root-causes are a condition, as root-cause condition, for the states associated with a root-cause and for the kinds of materiality originated thereby” ( [Paṭṭh]_  *I 1*\  ). Again, the indeterminateness of root-causeless consciousness is established without it. And the profitableness, etc., of those with root-cause is bound up with wise attention, etc., not with the associated root-causes. And if the profitableness, etc., resided in the associated root-causes as an individual essence, then either the non-greed bound up with the root-cause in the associated states would be only profitable or it would be only indeterminate; but since it can be both, profitableness, etc., in the root-causes must still be sought for, just as in the associated states [such as wise attention, and so on]. 
 
 
 
@@ -617,20 +617,20 @@ but those without root-cause are, like moss [with roots no bigger than] sesame s
 
 .. _XVII.71:
 
-**§71** (2) As to the others that follow, a state that assists by being an object is an *object condition*\ . Now, there are no states that are not object conditions; for the passage beginning “The visible-data base [is a condition, as object condition,] for the eye-consciousness element” concludes thus: “When any states, as states of consciousness and consciousness-concomitants, arise contingent upon any states, these [latter] states are conditions, as object condition, for those [former] states” ( [Paṭṭh I]_  *1*\  ). [#XVII.n11]_  For just as a weak man both gets up and stands by hanging on to (*ālambitvā*\ ) a stick or rope, so states of consciousness and consciousness-concomitants always arise and are present contingent upon visible data, etc., as their object (*ārammaṇa = ālambana*\ ). Therefore all states that are objects of consciousness and consciousness-concomitants should be understood as object condition.  ``534``  
+**§71** (2) As to the others that follow, a state that assists by being an object is an *object condition*\ . Now, there are no states that are not object conditions; for the passage beginning “The visible-data base [is a condition, as object condition,] for the eye-consciousness element” concludes thus: “When any states, as states of consciousness and consciousness-concomitants, arise contingent upon any states, these [latter] states are conditions, as object condition, for those [former] states” ( [Paṭṭh]_  *I 1*\  ). [#XVII.n11]_  For just as a weak man both gets up and stands by hanging on to (*ālambitvā*\ ) a stick or rope, so states of consciousness and consciousness-concomitants always arise and are present contingent upon visible data, etc., as their object (*ārammaṇa = ālambana*\ ). Therefore all states that are objects of consciousness and consciousness-concomitants should be understood as object condition.  ``534``  
 
 
 
 .. _XVII.72:
 
-**§72** (3) A state that assists in the sense of being foremost is a *predominance condition*\ . It is of two kinds as conascent and as object. Herein, because of the passage beginning “Predominance of zeal is a condition, as predominance condition, for states associated with zeal and for the kinds of materiality originated thereby” ( [Paṭṭh  I]_  *2*\  ), it is the four states called zeal, [purity of] consciousness, energy, and inquiry, that should be understood as predominance condition; but not simultaneously, for when consciousness occurs with emphasis on zeal and putting zeal foremost, then it is zeal and not the others that is predominant. So with the rest. But the state, by giving importance to which, immaterial states occur, is their *object-predominance*\ . Hence it is said: “When any states, as states of consciousness and consciousness-concomitants, arise by giving importance to any states, these [latter] states are a condition, as predominance condition, for those [former] states” ( [Paṭṭh I]_  *2*\  ). 
+**§72** (3) A state that assists in the sense of being foremost is a *predominance condition*\ . It is of two kinds as conascent and as object. Herein, because of the passage beginning “Predominance of zeal is a condition, as predominance condition, for states associated with zeal and for the kinds of materiality originated thereby” ( [Paṭṭh]_  *I  2*\  ), it is the four states called zeal, [purity of] consciousness, energy, and inquiry, that should be understood as predominance condition; but not simultaneously, for when consciousness occurs with emphasis on zeal and putting zeal foremost, then it is zeal and not the others that is predominant. So with the rest. But the state, by giving importance to which, immaterial states occur, is their *object-predominance*\ . Hence it is said: “When any states, as states of consciousness and consciousness-concomitants, arise by giving importance to any states, these [latter] states are a condition, as predominance condition, for those [former] states” ( [Paṭṭh]_  *I 2*\  ). 
 
 
 
 .. _XVII.73:
 
 **§73** (4), (5) A state that assists by being proximate is a *proximity condition*\ . A state that assists by being contiguous is a *contiguity condition*\ . The explanation of this pair of conditions is very diffuse, but substantially it is this: [#XVII.n12]_  the regular order of consciousness begins thus, mind element is proximate (next) after eye-consciousness, mind-consciousness element is proximate (next) after mind element, and this is established only by each preceding consciousness, not otherwise; consequently, a state that is capable of arousing an appropriate kind *[552/610]*
-of consciousness proximate (next) to itself is a proximity condition. Hence it is said: “Proximity condition: eye-consciousness and the states associated therewith are a condition, as proximity condition, for mind element and for the states associated therewith” ( [Paṭṭh  I]_  *2*\  ). 
+of consciousness proximate (next) to itself is a proximity condition. Hence it is said: “Proximity condition: eye-consciousness and the states associated therewith are a condition, as proximity condition, for mind element and for the states associated therewith” ( [Paṭṭh]_  *I  2*\  ). 
 
 
 
@@ -640,7 +640,7 @@ of consciousness proximate (next) to itself is a proximity condition. Hence it i
 
 .. _XVII.75:
 
-**§75**  The opinion of [certain] teachers [#XVII.n13]_  is that proximity condition refers to proximity of aim (fruit) and contiguity condition refers to proximity of time. But that is contradicted by such statements as “The profitable [consciousness] belonging to the base consisting of neither perception nor non-perception in one who emerges from cessation is a condition, as contiguity condition, for fruition attainment [consciousness]” ( [Paṭṭh  I]_  *160*\  ). 
+**§75**  The opinion of [certain] teachers [#XVII.n13]_  is that proximity condition refers to proximity of aim (fruit) and contiguity condition refers to proximity of time. But that is contradicted by such statements as “The profitable [consciousness] belonging to the base consisting of neither perception nor non-perception in one who emerges from cessation is a condition, as contiguity condition, for fruition attainment [consciousness]” ( [Paṭṭh]_  *I  160*\  ). 
 
 
 
@@ -653,19 +653,19 @@ of consciousness proximate (next) to itself is a proximity condition. Hence it i
 .. _XVII.77:
 
 **§77** (6) A state that, while arising, assists [another state] by making it arise together with itself is a *conascence condition*\ , as a lamp is for illumination. With the immaterial aggregates, etc., it is sixfold, according as it is said: “(i) The four immaterial aggregates are a condition, as conascence condition, for each other, (ii) the four great primaries are … for each other; (iii) at the moment of descent into the womb mentality and materiality are … for each other; (iv) states of consciousness and its concomitants are … for the kinds of materiality originated *[553/611]*
-by consciousness; (v) the great primaries are … for derived materiality; (vi) material states are sometimes [as at rebirth-linking] a condition, as conascence condition, and sometimes [as in the course of an existence] not a condition as conascence condition, for immaterial states” ( [Paṭṭh I]_  *3*\  ). This refers only to the heart-basis. 
+by consciousness; (v) the great primaries are … for derived materiality; (vi) material states are sometimes [as at rebirth-linking] a condition, as conascence condition, and sometimes [as in the course of an existence] not a condition as conascence condition, for immaterial states” ( [Paṭṭh]_  *I 3*\  ). This refers only to the heart-basis. 
 
 
 
 .. _XVII.78:
 
-**§78** (7) A state that assists by means of mutual arousing and consolidating is a *mutuality condition*\ , as the three sticks of a tripod give each other consolidating support. With the immaterial aggregates, etc., it is threefold, according as it is said: “The four immaterial aggregates are a condition, as mutuality condition, [for each other]; the four great primaries are a condition, as mutuality condition, [for each other]; at the moment of descent into the womb mentality and materiality are a condition, as mutuality condition, [for each other]” ( [Paṭṭh I]_  *3*\  ). 
+**§78** (7) A state that assists by means of mutual arousing and consolidating is a *mutuality condition*\ , as the three sticks of a tripod give each other consolidating support. With the immaterial aggregates, etc., it is threefold, according as it is said: “The four immaterial aggregates are a condition, as mutuality condition, [for each other]; the four great primaries are a condition, as mutuality condition, [for each other]; at the moment of descent into the womb mentality and materiality are a condition, as mutuality condition, [for each other]” ( [Paṭṭh]_  *I 3*\  ). 
 
 
 
 .. _XVII.79:
 
-**§79** (8) A state that assists in the mode of foundation and in the mode of support is a *support condition*\ , as the earth is for trees, as canvas is for paintings, and so on. It should be understood in the way stated for conascence thus: “The four immaterial aggregates are a condition, as support condition, for each other” ( [Paṭṭh  I]_  *3*\  ), but the sixth instance has been set forth in this way here: “The eye base [is a condition, as support condition,] for the eye-consciousness element [and for the states associated therewith]; the ear base … the nose base … the tongue base … the body base is a condition, as support condition, for the body-consciousness element and for the states associated therewith; the materiality with which as their support the mind element and the mind-consciousness element occur is a condition, as support condition, for the mind element, for the mind-consciousness element, and for the states associated therewith” ( [Paṭṭh I]_  *4*\  ). 
+**§79** (8) A state that assists in the mode of foundation and in the mode of support is a *support condition*\ , as the earth is for trees, as canvas is for paintings, and so on. It should be understood in the way stated for conascence thus: “The four immaterial aggregates are a condition, as support condition, for each other” ( [Paṭṭh]_  *I  3*\  ), but the sixth instance has been set forth in this way here: “The eye base [is a condition, as support condition,] for the eye-consciousness element [and for the states associated therewith]; the ear base … the nose base … the tongue base … the body base is a condition, as support condition, for the body-consciousness element and for the states associated therewith; the materiality with which as their support the mind element and the mind-consciousness element occur is a condition, as support condition, for the mind element, for the mind-consciousness element, and for the states associated therewith” ( [Paṭṭh]_  *I 4*\  ). 
 
 
 
@@ -681,14 +681,14 @@ It is threefold, namely, (a) object-decisive-support, (b) proximate-decisive-sup
 
 .. _XVII.81:
 
-**§81** (a) Herein, firstly, *object-decisive-support*\  condition is set forth without differentiating it from object-predominance in the way beginning: “Having given a gift, having undertaken the precepts of virtue, having done the duties of the Uposatha, a man gives that importance and reviews it; he gives importance to former things well done and reviews them. Having emerged from jhāna, he gives jhāna importance and reviews it. Trainers give importance to change-of-lineage and review it. They give importance to cleansing and review it. [#XVII.n15]_  Trainers, having emerged from a path, give importance to the path and review it” ( [Paṭṭh I]_  *165*\  ). Herein, the object in giving importance to which consciousness *[554/612]*
+**§81** (a) Herein, firstly, *object-decisive-support*\  condition is set forth without differentiating it from object-predominance in the way beginning: “Having given a gift, having undertaken the precepts of virtue, having done the duties of the Uposatha, a man gives that importance and reviews it; he gives importance to former things well done and reviews them. Having emerged from jhāna, he gives jhāna importance and reviews it. Trainers give importance to change-of-lineage and review it. They give importance to cleansing and review it. [#XVII.n15]_  Trainers, having emerged from a path, give importance to the path and review it” ( [Paṭṭh]_  *I 165*\  ). Herein, the object in giving importance to which consciousness *[554/612]*
 and consciousness concomitants arise, is necessarily a cogent one among these objects. So their difference may be understood in this way: *object-predominance*\  is in the sense of what is to be given importance to, and *object-decisive-support*\  is in the sense of a cogent reason. 
 
 
 
 .. _XVII.82:
 
-**§82** (b) Also *proximate-decisive-support condition*\  is set forth without differentiating it from the proximity condition in the way beginning, “Any preceding profitable aggregates are a condition, as decisive-support condition, for any succeeding aggregates” ( [Paṭṭh  I]_  *165*\  ). But in the exposition there is a distinction, because in the exposition of the schedule (*mātikā-nikkhepa*\ ) they are given as proximity in the way beginning, “Eye-consciousness element and the states associated therewith are a condition, as proximity condition, for mind element and for the states associated therewith” ( [Paṭṭh  I]_  *2*\  ) and as decisive-support in the way beginning, “Any preceding profitable states are a condition as decisive-support condition, for any succeeding profitable states” ( [Paṭṭh  I]_  *4*\  ), though it comes to the same thing as regards the meaning. Nevertheless, *proximity*\  may be understood as the ability to cause the occurrence of an appropriate conscious arising proximate (next) to itself, and *decisive support*\  as the preceding consciousness’s cogency in the arousing of the succeeding consciousnesses. 
+**§82** (b) Also *proximate-decisive-support condition*\  is set forth without differentiating it from the proximity condition in the way beginning, “Any preceding profitable aggregates are a condition, as decisive-support condition, for any succeeding aggregates” ( [Paṭṭh]_  *I  165*\  ). But in the exposition there is a distinction, because in the exposition of the schedule (*mātikā-nikkhepa*\ ) they are given as proximity in the way beginning, “Eye-consciousness element and the states associated therewith are a condition, as proximity condition, for mind element and for the states associated therewith” ( [Paṭṭh]_  *I  2*\  ) and as decisive-support in the way beginning, “Any preceding profitable states are a condition as decisive-support condition, for any succeeding profitable states” ( [Paṭṭh]_  *I  4*\  ), though it comes to the same thing as regards the meaning. Nevertheless, *proximity*\  may be understood as the ability to cause the occurrence of an appropriate conscious arising proximate (next) to itself, and *decisive support*\  as the preceding consciousness’s cogency in the arousing of the succeeding consciousnesses. 
 
 
 
@@ -700,64 +700,64 @@ and consciousness concomitants arise, is necessarily a cogent one among these ob
 
 .. _XVII.84:
 
-**§84** (c) As to *natural-decisive-support*\ : the decisive-support is natural, thus it is a natural-decisive-support. Faith, virtue, etc., produced in, or climate, food, etc., habitual to, one’s own continuity are called natural. Or else, it is a decisive-support by nature,  ``537``  thus it is a natural-decisive-support. The meaning is that it is unmixed with object and proximity. It should be understood as variously divided up in the way beginning: “Natural-decisive-support: with faith as decisive-support a man gives a gift, undertakes the precepts of virtue, does the duties of the Uposatha, arouses jhāna, arouses insight, arouses the path, arouses direct-knowledge, arouses an attainment. With virtue … With learning … With generosity … With understanding as decisive-support a man gives a gift … arouses an attainment. Faith, virtue, learning, generosity, understanding, are conditions, as decisive-support condition, for [the repeated arising of] faith, virtue, learning, generosity, understanding” ( [Paṭṭh  I]_  *165*\  ). So these things beginning with faith are natural-decisive-support since they are both natural and decisive-supports in the sense of a cogent reason. 
+**§84** (c) As to *natural-decisive-support*\ : the decisive-support is natural, thus it is a natural-decisive-support. Faith, virtue, etc., produced in, or climate, food, etc., habitual to, one’s own continuity are called natural. Or else, it is a decisive-support by nature,  ``537``  thus it is a natural-decisive-support. The meaning is that it is unmixed with object and proximity. It should be understood as variously divided up in the way beginning: “Natural-decisive-support: with faith as decisive-support a man gives a gift, undertakes the precepts of virtue, does the duties of the Uposatha, arouses jhāna, arouses insight, arouses the path, arouses direct-knowledge, arouses an attainment. With virtue … With learning … With generosity … With understanding as decisive-support a man gives a gift … arouses an attainment. Faith, virtue, learning, generosity, understanding, are conditions, as decisive-support condition, for [the repeated arising of] faith, virtue, learning, generosity, understanding” ( [Paṭṭh]_  *I  165*\  ). So these things beginning with faith are natural-decisive-support since they are both natural and decisive-supports in the sense of a cogent reason. 
 
 
 
 .. _XVII.85:
 
 **§85** (10) A state that assists by being present, having arisen previously, is a *prenascence condition*\ . It is elevenfold as physical basis and object in the five doors, and as the heart-basis, according as it is said: “The eye base is a condition, as prenascence condition, for the eye-consciousness element and for the states associated therewith. The ear base … The nose base … The tongue base … The *[555/613]*
-body base … The visible-data base … The sound base … The odour base … The flavour base … The tangible-data base is a condition, as prenascence condition, for the body-consciousness element and for the states associated therewith. The visible-data base … The sound base … The odour base … The flavour base … the tangible data base [is a condition, as prenascence condition,] for the mind element. The materiality with which as their support the mind element and mind-consciousness element occur is a condition, as prenascence condition, for the mind-element and for the states associated therewith, and it is sometimes [as in the course of an existence] a condition, as prenascence condition, sometimes [as at rebirth-linking] not a condition, as prenascence condition, for the mind-consciousness element and for the states associated therewith” ( [Paṭṭh I]_  *4–5*\  ). 
+body base … The visible-data base … The sound base … The odour base … The flavour base … The tangible-data base is a condition, as prenascence condition, for the body-consciousness element and for the states associated therewith. The visible-data base … The sound base … The odour base … The flavour base … the tangible data base [is a condition, as prenascence condition,] for the mind element. The materiality with which as their support the mind element and mind-consciousness element occur is a condition, as prenascence condition, for the mind-element and for the states associated therewith, and it is sometimes [as in the course of an existence] a condition, as prenascence condition, sometimes [as at rebirth-linking] not a condition, as prenascence condition, for the mind-consciousness element and for the states associated therewith” ( [Paṭṭh]_  *I 4–5*\  ). 
 
 
 
 .. _XVII.86:
 
-**§86** (11) An immaterial state that [while present] assists prenascent material states [also present] by consolidating them is a *postnascence condition*\ , like the volition of appetite for food, which assists the bodies of vultures’ young. Hence it is said: “Postnascent  ``538``  states of consciousness and its concomitants are a condition, as postnascence condition, for the prenascent [co-present] body” ( [Paṭṭh I]_  *5*\  ). 
+**§86** (11) An immaterial state that [while present] assists prenascent material states [also present] by consolidating them is a *postnascence condition*\ , like the volition of appetite for food, which assists the bodies of vultures’ young. Hence it is said: “Postnascent  ``538``  states of consciousness and its concomitants are a condition, as postnascence condition, for the prenascent [co-present] body” ( [Paṭṭh]_  *I 5*\  ). 
 
 
 
 .. _XVII.87:
 
-**§87** (12) A state that assists the efficiency and power of the proximate (next) in the sense of repetition is a *repetition condition*\ , like repeated application to books and so on. It is threefold as profitable, unprofitable, and functional impulsion; for it is said: “Preceding profitable states are a condition, as repetition condition, for succeeding profitable states … Preceding unprofitable … Preceding functional indeterminate states are a condition, as repetition condition, for succeeding functional indeterminate states” ( [Paṭṭh  I]_  *5*\  ). 
+**§87** (12) A state that assists the efficiency and power of the proximate (next) in the sense of repetition is a *repetition condition*\ , like repeated application to books and so on. It is threefold as profitable, unprofitable, and functional impulsion; for it is said: “Preceding profitable states are a condition, as repetition condition, for succeeding profitable states … Preceding unprofitable … Preceding functional indeterminate states are a condition, as repetition condition, for succeeding functional indeterminate states” ( [Paṭṭh]_  *I  5*\  ). 
 
 
 
 .. _XVII.88:
 
-**§88** (13) A state that assists by means of the action called intervening of consciousness is a *kamma condition*\ . It is twofold as (a) profitable and unprofitable volition acting from a different time, and (b) as all conascent volition (see  [Paṭṭh I]_ *
-172*\  ), according as it is said: “Profitable and unprofitable kamma is a condition, as kamma condition, for resultant aggregates and for the kinds of materiality due to kamma performed. Conascent volition is a condition, as kamma condition, for associated states and for the kinds of materiality originated thereby” ( [Paṭṭh I]_  *5*\  ). 
+**§88** (13) A state that assists by means of the action called intervening of consciousness is a *kamma condition*\ . It is twofold as (a) profitable and unprofitable volition acting from a different time, and (b) as all conascent volition (see  [Paṭṭh]_  *I
+172*\  ), according as it is said: “Profitable and unprofitable kamma is a condition, as kamma condition, for resultant aggregates and for the kinds of materiality due to kamma performed. Conascent volition is a condition, as kamma condition, for associated states and for the kinds of materiality originated thereby” ( [Paṭṭh]_  *I 5*\  ). 
 
 
 
 .. _XVII.89:
 
-**§89** (14) A resultant state that, by effortless quiet, assists effortless quiet [in other states] is a *kamma-result condition*\ . In the course of an existence it is a condition for states originated by it, and at rebirth-linking for the kinds of materiality due to kamma performed, and in both cases for the associated states, according as it is said: “One resultant indeterminate aggregate is a condition, as kamma-result condition, for three aggregates and for the kinds of materiality originated by consciousness … At the moment of rebirth-linking one resultant indeterminate aggregate [is a condition …] for three aggregates … Three aggregates [are a condition …] for one aggregate … Two aggregates are a condition, as kamma-result condition, for two aggregates and for the kinds of materiality due to kamma performed. Aggregates are a condition, as kamma-result condition, for the physical basis” ( [Paṭṭh  I]_  *173*\  ). 
+**§89** (14) A resultant state that, by effortless quiet, assists effortless quiet [in other states] is a *kamma-result condition*\ . In the course of an existence it is a condition for states originated by it, and at rebirth-linking for the kinds of materiality due to kamma performed, and in both cases for the associated states, according as it is said: “One resultant indeterminate aggregate is a condition, as kamma-result condition, for three aggregates and for the kinds of materiality originated by consciousness … At the moment of rebirth-linking one resultant indeterminate aggregate [is a condition …] for three aggregates … Three aggregates [are a condition …] for one aggregate … Two aggregates are a condition, as kamma-result condition, for two aggregates and for the kinds of materiality due to kamma performed. Aggregates are a condition, as kamma-result condition, for the physical basis” ( [Paṭṭh]_  *I  173*\  ). 
 
 
 
 .. _XVII.90:
 
 **§90** (15) The four kinds of nutriment, which assist material and immaterial states by consolidating them, are *nutriment conditions*\ , according as it is said: *[556/614]*
-“Physical nutriment is a condition, as nutriment condition, for this body. Immaterial nutriments are conditions, as nutriment condition, for associated states and for the kinds of materiality originated by them” ( [Paṭṭh I]_  *5*\  ). But in the Question Section it is said: “At the moment of rebirth-linking, resultant indeterminate nutriments are conditions, as nutriment condition, for aggregates associated therewith and for the kinds of materiality due to kamma performed” ( [Paṭṭh I]_  *174*\  ). 
+“Physical nutriment is a condition, as nutriment condition, for this body. Immaterial nutriments are conditions, as nutriment condition, for associated states and for the kinds of materiality originated by them” ( [Paṭṭh]_  *I 5*\  ). But in the Question Section it is said: “At the moment of rebirth-linking, resultant indeterminate nutriments are conditions, as nutriment condition, for aggregates associated therewith and for the kinds of materiality due to kamma performed” ( [Paṭṭh]_  *I 174*\  ). 
 
 
 
 .. _XVII.91:
 
-**§91** (16) Leaving out the femininity and masculinity faculties, the twenty remaining faculties (see :ref:`XIV.1 <XIV.1>` ), which assist in the sense of predominance,  ``539``  are *faculty conditions*\ . Herein, the five, namely, the eye faculty, etc., are conditions only for immaterial states, the rest are conditions for material and immaterial states, according as it is said: “The eye faculty [is a condition, as faculty condition,] for eye-consciousness element [and for the states associated therewith]. The ear faculty … The nose faculty … The tongue faculty … The body faculty is a condition, as faculty condition, for the body-consciousness element and for the states associated therewith. The material life faculty is a condition, as faculty condition, for the kinds of materiality due to kamma performed. The immaterial faculties are a condition, as faculty condition, for the states associated therewith and for the kinds of materiality originated thereby” (Paṭṭh 1, 5–6). But in the Question Section it is said: “At the moment of rebirth-linking resultant indeterminate faculties are a condition, as faculty condition, for associated aggregates and for the kinds of materiality due to kamma performed” ( [Paṭṭh I]_  *175*\  ). 
+**§91** (16) Leaving out the femininity and masculinity faculties, the twenty remaining faculties (see :ref:`XIV.1 <XIV.1>` ), which assist in the sense of predominance,  ``539``  are *faculty conditions*\ . Herein, the five, namely, the eye faculty, etc., are conditions only for immaterial states, the rest are conditions for material and immaterial states, according as it is said: “The eye faculty [is a condition, as faculty condition,] for eye-consciousness element [and for the states associated therewith]. The ear faculty … The nose faculty … The tongue faculty … The body faculty is a condition, as faculty condition, for the body-consciousness element and for the states associated therewith. The material life faculty is a condition, as faculty condition, for the kinds of materiality due to kamma performed. The immaterial faculties are a condition, as faculty condition, for the states associated therewith and for the kinds of materiality originated thereby” (Paṭṭh 1, 5–6). But in the Question Section it is said: “At the moment of rebirth-linking resultant indeterminate faculties are a condition, as faculty condition, for associated aggregates and for the kinds of materiality due to kamma performed” ( [Paṭṭh]_  *I 175*\  ). 
 
 
 
 .. _XVII.92:
 
-**§92** (17) All the seven jhāna factors classed as profitable, etc.—leaving out the pair, pleasant and painful feeling, in the case of the two sets of five consciousnesses—which factors assist in the sense of constituting a state of jhāna, are *jhāna conditions*\ , according as it is said: “The jhāna factors are a condition, as jhāna condition, for the states associated with jhāna and for the kinds of materiality originated thereby” ( [Paṭṭh I]_  *6*\  ). But in the Question Section it is said: “At the moment of rebirth-linking, resultant indeterminate jhāna factors are a condition, as jhāna condition, for associated aggregates and for the kinds of materiality due to kamma performed” ( [Paṭṭh I]_  *175*\  ). 
+**§92** (17) All the seven jhāna factors classed as profitable, etc.—leaving out the pair, pleasant and painful feeling, in the case of the two sets of five consciousnesses—which factors assist in the sense of constituting a state of jhāna, are *jhāna conditions*\ , according as it is said: “The jhāna factors are a condition, as jhāna condition, for the states associated with jhāna and for the kinds of materiality originated thereby” ( [Paṭṭh]_  *I 6*\  ). But in the Question Section it is said: “At the moment of rebirth-linking, resultant indeterminate jhāna factors are a condition, as jhāna condition, for associated aggregates and for the kinds of materiality due to kamma performed” ( [Paṭṭh]_  *I 175*\  ). 
 
 
 
 .. _XVII.93:
 
-**§93** (18) The twelve path factors classed as profitable, etc., which assist in the sense of an outlet from whatever it may be, are *path conditions*\ , according as it is said: “The path factors are a condition, as path condition, for states associated therewith and for the kinds of materiality originated thereby” ( [Paṭṭh I]_  *6*\  ). But in the Question Section it is said: “At the moment of rebirth-linking, resultant indeterminate path factors are a condition, as path condition, for aggregates associated therewith and for the kinds of materiality due to kamma performed” ( [Paṭṭh I]_  *176*\  ). 
+**§93** (18) The twelve path factors classed as profitable, etc., which assist in the sense of an outlet from whatever it may be, are *path conditions*\ , according as it is said: “The path factors are a condition, as path condition, for states associated therewith and for the kinds of materiality originated thereby” ( [Paṭṭh]_  *I 6*\  ). But in the Question Section it is said: “At the moment of rebirth-linking, resultant indeterminate path factors are a condition, as path condition, for aggregates associated therewith and for the kinds of materiality due to kamma performed” ( [Paṭṭh]_  *I 176*\  ). 
 
 But these two, namely, jhāna and path conditions, should be understood as inapplicable to the two sets of five consciousnesses and to the consciousnesses without root-cause ((34)–(41), (50)–(56), (70)–(72)). 
 
@@ -766,39 +766,39 @@ But these two, namely, jhāna and path conditions, should be understood as inapp
 .. _XVII.94:
 
 **§94** (19) Immaterial states that assist by the kind of association consisting in having the same physical basis, same object, same arising, same cessation, are *[557/615]*
-*association conditions*\ , according as it is said: “The four immaterial aggregates are a condition, as association condition, for each other” ( [Paṭṭh I]_  *6*\  ). 
+*association conditions*\ , according as it is said: “The four immaterial aggregates are a condition, as association condition, for each other” ( [Paṭṭh]_  *I 6*\  ). 
 
 
 
 .. _XVII.95:
 
-**§95** (20) Material states that assist immaterial states, and immaterial states that assist material states by not having sameness of physical basis, etc., are *dissociation conditions*\ . This is threefold as conascent, postnascent, and prenascent, for this is said: “Conascent profitable aggregates are a condition, as dissociation condition, for the kinds of materiality originated by consciousness. Postnascent  ``540``  profitable [mental] aggregates are a condition, as dissociation condition, for this prenascent body” ( [Paṭṭh I]_  *176*\  ). But in the analysis of the conascent in the indeterminate clause it is said: “At the moment of rebirth-linking, resultant indeterminate aggregates are a condition, as dissociation condition, for the kinds of materiality due to kamma performed. The aggregates are a condition, as dissociation condition, for the physical basis, and the physical basis for the aggregates” ( [Paṭṭh  I]_  *176*\  ). But the prenascent should be understood as the eye faculty, etc., and the physical basis, according as it is said: “The prenascent eye base [is a condition, as dissociation condition,] for eye-consciousness … The body base is a condition, as dissociation condition, for body-consciousness. The physical basis [is a condition, as dissociation condition,] for resultant-indeterminate and functional-indeterminate aggregates … The physical basis [is a condition, as dissociation condition,] for profitable aggregates … The physical basis [is a condition, as dissociation condition,] for unprofitable aggregates” ( [Paṭṭh  I]_  *176–77*\  ). 
+**§95** (20) Material states that assist immaterial states, and immaterial states that assist material states by not having sameness of physical basis, etc., are *dissociation conditions*\ . This is threefold as conascent, postnascent, and prenascent, for this is said: “Conascent profitable aggregates are a condition, as dissociation condition, for the kinds of materiality originated by consciousness. Postnascent  ``540``  profitable [mental] aggregates are a condition, as dissociation condition, for this prenascent body” ( [Paṭṭh]_  *I 176*\  ). But in the analysis of the conascent in the indeterminate clause it is said: “At the moment of rebirth-linking, resultant indeterminate aggregates are a condition, as dissociation condition, for the kinds of materiality due to kamma performed. The aggregates are a condition, as dissociation condition, for the physical basis, and the physical basis for the aggregates” ( [Paṭṭh]_  *I  176*\  ). But the prenascent should be understood as the eye faculty, etc., and the physical basis, according as it is said: “The prenascent eye base [is a condition, as dissociation condition,] for eye-consciousness … The body base is a condition, as dissociation condition, for body-consciousness. The physical basis [is a condition, as dissociation condition,] for resultant-indeterminate and functional-indeterminate aggregates … The physical basis [is a condition, as dissociation condition,] for profitable aggregates … The physical basis [is a condition, as dissociation condition,] for unprofitable aggregates” ( [Paṭṭh]_  *I  176–77*\  ). 
 
 
 
 .. _XVII.96:
 
-**§96** (21) A state that, by means of existingness characterized by presence, assists a like state by consolidating it, is a *presence condition*\ . A sevenfold summary is laid down for it according to immaterial aggregates, great primaries, mentality-materiality, consciousness and consciousness-concomitants, great primaries, bases, and physical [heart] basis, according as it is said: “The four immaterial aggregates are a condition, as presence condition, for each other. The four great primaries … are … for each other. At the time of descent into the womb mentality and materiality [are a condition, as presence condition,] for each other. States of consciousness and consciousness-concomitants are … for the kinds of materiality originated by consciousness. The four great primaries are … for derived materiality. The eye base is … for the eye-consciousness element [and for the states associated therewith]. The [ear base … nose base … tongue base …] body base is … for the body-consciousness element … The visible-data base [is … for the eye-consciousness element … The sound base … odour base … flavour base …] tangible-data base is a condition, as presence condition, for the body-consciousness element and for the states associated therewith. The visible-data base … The [sound base … odour base … flavour base …] tangible-data base is a condition, as presence condition, for the mind element and for the states associated therewith. The materiality with which as their support the mind element and mind-consciousness element occur is a condition, as presence condition, for the mind element, for the mind-consciousness element, and for the states associated therewith” ( [Paṭṭh I]_  *6*\  ). 
+**§96** (21) A state that, by means of existingness characterized by presence, assists a like state by consolidating it, is a *presence condition*\ . A sevenfold summary is laid down for it according to immaterial aggregates, great primaries, mentality-materiality, consciousness and consciousness-concomitants, great primaries, bases, and physical [heart] basis, according as it is said: “The four immaterial aggregates are a condition, as presence condition, for each other. The four great primaries … are … for each other. At the time of descent into the womb mentality and materiality [are a condition, as presence condition,] for each other. States of consciousness and consciousness-concomitants are … for the kinds of materiality originated by consciousness. The four great primaries are … for derived materiality. The eye base is … for the eye-consciousness element [and for the states associated therewith]. The [ear base … nose base … tongue base …] body base is … for the body-consciousness element … The visible-data base [is … for the eye-consciousness element … The sound base … odour base … flavour base …] tangible-data base is a condition, as presence condition, for the body-consciousness element and for the states associated therewith. The visible-data base … The [sound base … odour base … flavour base …] tangible-data base is a condition, as presence condition, for the mind element and for the states associated therewith. The materiality with which as their support the mind element and mind-consciousness element occur is a condition, as presence condition, for the mind element, for the mind-consciousness element, and for the states associated therewith” ( [Paṭṭh]_  *I 6*\  ). 
 
 *[558/616]*
 
 
 .. _XVII.97:
 
-**§97** But in the Question Section, after setting forth conascence, prenascence, postnascence, nutriment, and faculty, the description is given first under conascence in the way beginning, “One aggregate is a condition, as presence condition, for three aggregates and for materiality originated thereby” ( [Paṭṭh I]_ *
-178*\  ). Under prenascence the description is given according to the prenascent eye and so on. Under postnascence the description is given according to postnascent consciousness and consciousness-concomitants as conditions for this body. Under nutriments and faculties [respectively] the description is given thus: “Physical nutriment is a condition, as presence condition, for this body,”  ``541``  and “The material life faculty is a condition, as presence condition, for materiality due to kamma performed” ( [Paṭṭh I]_  *178*\  ). [#XVII.n16]_  
+**§97** But in the Question Section, after setting forth conascence, prenascence, postnascence, nutriment, and faculty, the description is given first under conascence in the way beginning, “One aggregate is a condition, as presence condition, for three aggregates and for materiality originated thereby” ( [Paṭṭh]_  *I
+178*\  ). Under prenascence the description is given according to the prenascent eye and so on. Under postnascence the description is given according to postnascent consciousness and consciousness-concomitants as conditions for this body. Under nutriments and faculties [respectively] the description is given thus: “Physical nutriment is a condition, as presence condition, for this body,”  ``541``  and “The material life faculty is a condition, as presence condition, for materiality due to kamma performed” ( [Paṭṭh]_  *I 178*\  ). [#XVII.n16]_  
 
 
 
 .. _XVII.98:
 
-**§98** (22) Immaterial states that, by their ceasing in contiguity [before], assist by giving opportunity to immaterial states that arise proximately (next) after them are *absence conditions*\ , according as it is said: “States of consciousness and consciousness-concomitants that have ceased in contiguity are a condition, as absence condition, for present states of consciousness and consciousness-concomitants” ( [Paṭṭh  I]_  *7*\  ). 
+**§98** (22) Immaterial states that, by their ceasing in contiguity [before], assist by giving opportunity to immaterial states that arise proximately (next) after them are *absence conditions*\ , according as it is said: “States of consciousness and consciousness-concomitants that have ceased in contiguity are a condition, as absence condition, for present states of consciousness and consciousness-concomitants” ( [Paṭṭh]_  *I  7*\  ). 
 
 
 
 .. _XVII.99:
 
-**§99** (23) Those same states, because they assist by their disappearance, are a *disappearance condition*\ , according as it is said: “States of consciousness and consciousness-concomitants that have disappeared in contiguity are a condition, as disappearance condition, for present states of consciousness and consciousness-concomitants” ( [Paṭṭh  I]_  *7*\  ). 
+**§99** (23) Those same states, because they assist by their disappearance, are a *disappearance condition*\ , according as it is said: “States of consciousness and consciousness-concomitants that have disappeared in contiguity are a condition, as disappearance condition, for present states of consciousness and consciousness-concomitants” ( [Paṭṭh]_  *I  7*\  ). 
 
 
 
@@ -1225,7 +1225,7 @@ there comes into focus at the mind door the sense-sphere profitable kamma or the
 
 .. _XVII.147:
 
-**§147** When this nineteenfold kamma-resultant consciousness occurs thus in rebirth-linking, it does so by means of kamma in two ways; for according to the way in which the kamma that generates it occurs, the kamma can be its condition both as kamma condition acting from a different time and as decisive-support condition, since this is said: “Profitable … [and] unprofitable kamma is a condition, as decisive-support condition, for [its] result” ( [Paṭṭh I]_  *167*\  , 169). 
+**§147** When this nineteenfold kamma-resultant consciousness occurs thus in rebirth-linking, it does so by means of kamma in two ways; for according to the way in which the kamma that generates it occurs, the kamma can be its condition both as kamma condition acting from a different time and as decisive-support condition, since this is said: “Profitable … [and] unprofitable kamma is a condition, as decisive-support condition, for [its] result” ( [Paṭṭh]_  *I 167*\  , 169). 
 
 
 
@@ -1750,7 +1750,7 @@ suttas and from logic. For in the suttas it is established in many places that f
 | That consciousness is a condition
 | For matter when unseen as well.
 
-Whether consciousness likes it or not, [certain] material instances are seen to arise in conformity with it. And the unseen is inferred from the seen. So it can be known, by means of the consciousness-born materiality that is seen, that consciousness is also a condition for the unseen materiality of rebirth-linking. For it is said in the Paṭṭhāna that, like the consciousness-originated, also the kamma-originated has consciousness as its condition (see  [Paṭṭh  I]_  *172–73*\  ). 
+Whether consciousness likes it or not, [certain] material instances are seen to arise in conformity with it. And the unseen is inferred from the seen. So it can be known, by means of the consciousness-born materiality that is seen, that consciousness is also a condition for the unseen materiality of rebirth-linking. For it is said in the Paṭṭhāna that, like the consciousness-originated, also the kamma-originated has consciousness as its condition (see  [Paṭṭh]_  *I  172–73*\  ). 
 
 This is how the exposition should be known “by manner of condition.” 
 
@@ -2946,7 +2946,7 @@ abandoning other duties:
 .. [#XVII.n21]  This refers to the old Sinhalese commentary no longer extant. 
 
 
-.. [#XVII.n22] .  [Vibh]_  -a (Be) adds “*suddhāya va javanavīthiyā”* here, as in §140 below in all texts. 
+.. [#XVII.n22] .  [Vibh-a]_   (Be) adds “*suddhāya va javanavīthiyā”* here, as in §140 below in all texts. 
 
 
 .. [#XVII.n23]  “‘*With the appearance of fire and flames, etc., in the hells’* is said owing to likeness to that; appearance of hell and fire does not itself come into focus for him then” ( [Vism-mhṭ]_  *607*\  ). 
@@ -3007,7 +3007,7 @@ abandoning other duties:
 .. [#XVII.n41]  *Upakuṭṭha—*\ “great pox” or “great leprosy”: not in PED; see *kuṭṭha.* 
 
 
-.. [#XVII.n42] . Ee has “*sassatan ti*\ ”; Ae has “*sā’ssa diṭṭhī ti”;*  [Vibh]_  -a (Be), “*na sassatadiṭṭhī ti*\ .” 
+.. [#XVII.n42] . Ee has “*sassatan ti*\ ”; Ae has “*sā’ssa diṭṭhī ti”;*  [Vibh-a]_   (Be), “*na sassatadiṭṭhī ti*\ .” 
 
 
 .. [#XVII.n43] . Their flowers wither, their clothes get dirty, sweat comes from their armpits, their bodies become unsightly, and they get restless (see  [M-a]_  *IV 170*\  ). 
