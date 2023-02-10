@@ -1366,4 +1366,4 @@ The twenty-first chapter called “The Description of Purification by Knowledge 
 .. [#XXI.n43] . “Aloofness”—*atammayatā*\ : not in PED. See also  [M]_  *III 43*\  . The word is made up of *a + taṃ + maya + tā*\  = “not-made-of-that-ness.” Its meaning is non-attachment to any form of being. 
 
 
-.. [#XXI.n44]  The word *vodāna*\  (“cleansing”) is used, in its loose sense of “purifying” in general, in :ref:`I.143 <I.143>` . For its technical Abhidhamma sense here see :ref:`Ch. XXII <XXII>`  note 7. 
+.. [#XXI.n44]  The word *vodāna*\  (“cleansing”) is used, in its loose sense of “purifying” in general, in :ref:`I.143 <I.143>` . For its technical Abhidhamma sense here see :ref:`Ch. XXII note 7 <XXII.n7>` . 
