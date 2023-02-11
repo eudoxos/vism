@@ -11,7 +11,7 @@
 			<p><em>Visuddhimagga</em> is one of the most important commenterial works in Theravada, yet, in 2023, we still don't have a good electronic edition. Buddhist Publication Society (BPS) created and published one in 2011, but released it in print and PDF hardcopy. <em>Sadhu</em> for their work, but it is still not good enough for electronic devices, let alone future-proof.</p>
 		<h2>Goals</h2>
 			<p>This project aims at providing high-quality machine-readable Visuddhimagga, which can serve as a basis for various electronic editions (such as HTML and ePub).</p>
-			Is this legal? Probably not because of ©. That said, I believe BPS is motivated by the benefit of all practitioners, not making money off the <em>Dhamma</em>; as the Roman law teaches us: <em>ubi non accusator, ibi non iudex</em>.
+			Is this legal? I contacted BPS who has the © (no reply so far). I believe BPS is motivated by the benefit of all practitioners and there won't be any objections.
 		<h3>Done and not done</h3>
 			<p>The BPS edition was used as a basis for XML (semantic) representation of the contents. This was done in a <a href="https://github.com/eudoxos/vism/blob/main/03-lxml-html.ipynb">pretty ugly way</a> (conversion to HTML via pdfminer, then processing that with LXML, with bunch of hacks and heuristics), but the result are quite good semantic data (that is, hyperlinks, paragraphs, sections, cross-references &amp;c are tagged as such) and example tools validate the output (see below).</p>
 			<p>There are some known errors in the data, such as
@@ -26,7 +26,7 @@
 				</ul>
 		<h3>Next steps</h3>
 			<dl>
-				<dt>(0. politics)</dt><dd>Get in touch with the publisher (BPS) which has © on the 2011 edition we used for the start, get green light (or at least no complaint) to continue publicly (eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF).</dd>
+				<dt>(0. politics)</dt><dd>I contacted the publisher (BPS) which has © on the 2011 edition we used for the start; I hope to get green light (or even their source data) to continue. Eventually, sites like <a href="https://accesstoinsight.org">accesstoinsight.org</a> might offer “our” electronic version, in addition to their PDF.</dd>
 				<dt>1. verification</dt><dd>make sure that current data are fairly complete and don't suffer from a structural problem.</dd>
 				<dt>2. corrections</dt><dd>Start hand-editing the data to fix non-structural errors mentioned above. <b>This must only be done once the verification is complete:</b> should the data be re-generated, all hand-tuning will be lost and will have to be re-applied.</dd>
 				<dt>3. enhancements</dt><dd>Routines to enhance the data, such as: detecting more hyperlinks (such as hyperlinks to precise locations in online suttas for tipitaka references). This can be done in parallel with corrections, as it can always be re-run on newer corrected inputs.</dd>
