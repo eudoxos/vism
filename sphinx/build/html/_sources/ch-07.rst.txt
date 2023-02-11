@@ -1112,7 +1112,9 @@ The second chapter called “The Description of the Ascetic Practices” in the 
 .. [#II.n18]  For the triads of the *Abhidhamma Mātikā*\  (Abhidhamma Schedule) see :ref:`Ch. XIII <XIII>` , n.
 
 
-.. [#II.n19]  *Āpajjati* (and its noun *āpatti)* is the normal word used for undesirable consequences that follow on some unsound logical proposition. See :ref:`XVI.68f. <XVI.68>`  This meaning is not in PED. 20. *Idamatthitā—*\ ”that specific quality”: “Owing to these profitable states it exists, (thus it is ‘specific by those’; *imehi kusaladhammehi atthi = idam-atthi).* The knowledge by means of which one who has gone forth should be established in the refuse-rag-wearer’s practice, etc., and by means of which, on being so instructed one undertakes and persists in the ascetic qualities—that knowledge is *idamatthitā”* ( [Vism-mhṭ]_  *88*\  ). 
+.. [#II.n19]  *Āpajjati* (and its noun *āpatti)* is the normal word used for undesirable consequences that follow on some unsound logical proposition. See :ref:`XVI.68f. <XVI.68>`  This meaning is not in PED. 
+    
+    20. *Idamatthitā—*\ ”that specific quality”: “Owing to these profitable states it exists, (thus it is ‘specific by those’; *imehi kusaladhammehi atthi = idam-atthi).* The knowledge by means of which one who has gone forth should be established in the refuse-rag-wearer’s practice, etc., and by means of which, on being so instructed one undertakes and persists in the ascetic qualities—that knowledge is *idamatthitā”* ( [Vism-mhṭ]_  *88*\  ). 
 
 
 .. [#II.n20]  *“‘Those who hold’:* a reference to the inhabitants of the Abhayagiri Monastery at Anurādhapura. For they say that ascetic practice is a concept consisting in a name *(nāma-paññatti).* That being so, they could have no meaning of shaking off defilements, or possibility of being undertaken, because in the ultimate sense they would be non-existent [concepts having no existence]” ( [Vism-mhṭ]_  *87*\  ). Cf. :ref:`IV.29 <IV.29>` . 
