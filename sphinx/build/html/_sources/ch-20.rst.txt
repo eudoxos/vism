@@ -69,7 +69,7 @@ It measures (*munāti*\ ), thus it is a mind (*mano*\ ).
 
 They cause their own characteristic to be borne (*dhārayanti*\ ), thus they are 
 
-mental data (*dhammā*\ ).[#1]_ 
+mental data (*dhammā*\ ). [#XV.n1]_  
 
 *[493/551]*
 
@@ -398,6 +398,9 @@ The fifteenth chapter called “The Description of the Bases and Elements” in 
 
 .. rubric:: Footnotes
 
+
+
+.. [#XV.n1] . The following words in §
 
 
 .. [#XV.n2]  The following words in §4 are not in PED: *āyatana*\  (actuating: verbal n. fm. *āyatati*\ , to actuate); *tanana*\  (range: verbal n. fm. *tanoti*\ , to provide a range for, to extend—q.v. PED—; mentioned under *āyatana*\ , base); *nayana*\  (lead in on: verbal n. fm. *neti*\ , to lead on; lit, meaning not in PED); *āyatati*\  (to actuate—*cakkhuviññāṇādīnaṃ uppādanaṃ āyatanaṃ*\ ,  [Vism-mhṭ]_  ). See also *āyāpenti*\   [Paṭis]_  *II 21*\  . 3. *Ākara*\  means either a mine or a store (PED apparently believes in mining for pearls—see *ratanākara*\ ). 

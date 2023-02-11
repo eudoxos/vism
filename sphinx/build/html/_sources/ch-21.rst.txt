@@ -157,7 +157,7 @@ This is how the exposition should be known here as to function.
 
 .. _XVI.17:
 
-**§17** [*Samudaya* (origin):] the word *sam* (= prefix “con-”) denotes connection, as in the words *samāgama* (concourse, coming together), *sameta* (congregated, gone together), and so on. The word *u* denotes rising up, as in the words *uppanna* (arisen, uprisen), *udita* (ascended, gone up), and so on. The word *aya*\ [#4]_ denotes a *[507/565]*
+**§17** [*Samudaya* (origin):] the word *sam* (= prefix “con-”) denotes connection, as in the words *samāgama* (concourse, coming together), *sameta* (congregated, gone together), and so on. The word *u* denotes rising up, as in the words *uppanna* (arisen, uprisen), *udita* (ascended, gone up), and so on. The word *aya*\  [#XVI.n4]_  denotes a *[507/565]*
 reason (*kāraṇa*\ ). And this second truth is the reason for the arising of suffering when combined with the remaining conditions. So it is called *dukkha-samudaya* (the origin of suffering) because it is the reason in combination for the arising of suffering. 
 
 
@@ -1240,6 +1240,9 @@ The sixteenth chapter called “The Description of the Faculties and Truths” i
 
 
 .. [#XVI.n3]  *Anuvattāpana—*\ “causing occurrence parallel to”: not in PED; not in CPD. 
+
+
+.. [#XVI.n4]  *Aya—*\ “reason”: not in PED in this sense. 
 
 
 .. [#XVI.n5]  *Cāraka—*\ “prison”: not in PED in this sense; see :ref:`XIV.221 <XIV.221>` . 
