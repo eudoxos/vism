@@ -2,8 +2,10 @@
 
 .. _glossary:
 
-Glossary
-********
+Pali-English Glossary (of Some Subjects and Technical Terms)
+************************************************************
+
+This Glossary only includes (a) some epistemological and technical terms, and (b) meanings or words not in the PED, which are marked with an asterisk(*), though such compounds prefixes as e.g. *anukaḍḍhati*\  = to keep dragging along (:ref:`III.68 <III.68>` ) or suffixes as e.g. *vattabbatā*\  = ability to be called (:ref:`IV.148 <IV.148>` ) and such verbal substantives as *udikkhana*\  from *udikkhati*\  are not always included.
 
 .. glossary::
 

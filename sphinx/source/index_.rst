@@ -2,8 +2,10 @@
 
 .. _index:
 
-Index
-*****
+Index (of Subjects & Proper Names)
+**********************************
+
+All references are to chapter and paragraph numbers.
 
 .. glossary::
 
