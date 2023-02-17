@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1676629978 "vism.tex" "vism.pdf" "vism" 1676629978
+["lualatex"] 1676631139 "vism.tex" "vism.pdf" "vism" 1676631139
   "/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty" 1576625273 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
@@ -50,10 +50,10 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty" 1635798903 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf/fonts/tfm/public/lm/rm-lmr10.tfm" 1254938640 11868 4f81e9b6033c032bdaf9884f4d7ef412 ""
   "/usr/share/texmf/tex/latex/lm/ot1lmr.fd" 1256929440 1880 bae7b659316f7344a86218ad38b01d91 ""
-  "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1676629937 4555351 c85d95f40a21e7e3676b4d08f85a8999 ""
+  "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1676631107 4555351 76cc9e4a646f6d17c9e0132c49439ba7 ""
   "marginnote.sty" 0 -1 0 ""
-  "vism.aux" 1676629978 32 3985256e7290058c681f74d7a3565a19 ""
-  "vism.tex" 1676629978 2974 72076fbaa1a6bb3ff7c4f91dcde1b3df ""
+  "vism.aux" 1676631139 32 3985256e7290058c681f74d7a3565a19 ""
+  "vism.tex" 1676631139 2974 72076fbaa1a6bb3ff7c4f91dcde1b3df ""
   (generated)
   "vism.log"
   "vism.pdf"
