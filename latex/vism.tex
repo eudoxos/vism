@@ -1,0 +1,88 @@
+\documentclass[a4paper]{book}
+
+\usepackage[bookmarksnumbered=true]{hyperref}
+\usepackage{multicol}
+\usepackage{xcolor}
+
+% for LaTex, disable plastex parts
+\newif\ifplastex\plastexfalse
+\ifplastex
+	\let\RaggedRight\relax
+	\def\marginnote#1{\textcolor{teal}{\footnotesize #1} }
+	% \*matter are no-op in plastex, define what we need
+	\def\frontmatter{\setcounter{part}{-1}\part{[Front]}} % Part 0 in roman will show as Part, giving Part [Front]
+	\def\mainmatter{\setcounter{chapter}{0}}
+	\def\backmatter{\setcounter{part}{-1}\part{[Back]}}
+	%% vism-specific macros for PlasTeX
+	\def\vismHypertarget#1{\hypertarget{#1}{}}
+	\def\vismAssertFootnoteCounter#1{\relax}
+	% HTML version only
+	\usepackage{minitoc}
+\else
+	\usepackage[paperwidth=18.2cm,paperheight=23.2cm,a4paper,margin=2.5cm]{geometry}
+	% use the same-looking font like BPS2011
+	% (they used URWPalladioPali, this is modernized, with unicode glyphs for all pali)
+	\usepackage{fontspec}
+	\setmainfont{Tex Gyre Pagella}
+	% \RaggedRight used in two-column index
+	\usepackage{ragged2e}
+	% showing anchors and BPS pages in the margin
+	\usepackage{marginnote}
+	% no page numbers on empty pages
+	\usepackage{emptypage}
+	% make TOC with long (XVI.34) section titles nices
+	\usepackage{tocloft}
+		\setlength{\cftsubsecnumwidth}{4em}
+		\setlength{\cftsecnumwidth}{4em}
+		\setlength{\cftchapnumwidth}{4em}
+	% less warnings
+		\hbadness10000
+		\vbadness10000
+		\hfuzz=10cm
+		\vfuzz=10cm
+		\parskip=.4\baselineskip
+	%% vism-specific macros for LaTeX
+	% fix hyperlink in PDF being one line too low, https://tex.stackexchange.com/a/412381
+	\makeatletter
+	   \newcommand{\vismHypertarget}[1]{\Hy@raisedlink{\hypertarget{#1}{}}}
+	\makeatother
+	\def\vismAssertFootnoteCounter#1{\ifnum\value{footnote}=#1\else\PackageError{Visuddhimagga}{Footnotes out of sync with original (should be \arabic{footnote}\space, is #1.}\fi}
+	% no-op minitoc
+	%\let\dominitoc\relax \let\minitoc\relax \let\mtcskip\relax
+	\usepackage{minitoc}
+	\renewcommand{\mtctitle}{Chapter Contents}
+	%
+	\usepackage{titlesec}
+	\titlespacing*{\paragraph}{0pt}{.5ex plus .5ex minus .5ex}{1em} % 1.5ex instead of 3.25ex
+\fi
+
+% number chapter with roman numbers
+\renewcommand{\thechapter}{\Roman{chapter}}
+% show parts as "Part II" in the TOC, but avoid "Part Part II" in the title itself
+\renewcommand{\thepart}{Part \Roman{part}}
+\renewcommand{\partname}{} 
+
+% deep ToC: subsubsection (4 would mean §§ in the ToC)
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
+
+\bibliographystyle{abstract}
+
+\begin{document}
+	\dominitoc
+	\title{The Path of Purification \\ (\emph{Visuddhimagga})}
+	\date{(decompiled preview, do not distribute)}
+	\author{
+		by \ifplastex\else\\\fi Bhadantācariya Buddhaghosa
+		\ifplastex\\\else\and\fi
+		Translated from the Pali by \ifplastex\else\\\fi Bhikkhu Ñáṇamoli}
+	\maketitle
+	\frontmatter
+		\tableofcontents
+		\input{vism-body.tex}
+	\backmatter
+		\input{vism-bib.tex}
+		\input{vism-index.tex}
+		\input{vism-glossary.tex}
+\end{document}

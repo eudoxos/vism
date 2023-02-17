@@ -46,9 +46,16 @@
 		<h2>Inputs &amp; outputs</h2>
 		<h3>Inputs</h3>
 			<p>All the data are in the <a href="https://github.com/eudoxos/vism">GitHub repository</a>.</p>
-			<p>The data are split into 3 XML files (with <a href="https://github.com/eudoxos/vism/blob/main/xml/README.md">custom tags</a>): <a href="https://raw.githubusercontent.com/eudoxos/vism/main/xml/book.6.xml" download="1">book</a> (all the normal text), <a href="https://raw.githubusercontent.com/eudoxos/vism/main/xml/index.3.xml" download="1">index</a> and <a href="gttps://raw.githubusercontent.com/eudoxos/vism/main/xml/gloss.d.xml" download="1">glossary</a>.
+			<p>The data are split several XML files (most use <a href="https://github.com/eudoxos/vism/blob/main/src/README.md">custom tags</a>):
+				<ul>
+					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/book.6.xml">book</a> (introductory chapters and main text); 
+					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/index.xml">index</a></li>
+					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/gloss.xml">glossary</a></li>
+					<li><a href="https://raw.githubusercontent.com/eudoxos/vism/main/src/toc.xml">sectioning</a>: Visuddhimagga text is originally divided into chapters only (as fas as I know). The PTS edition added paragraph numbers within each chapter. Ech edition (including BPS2011) adds extra sectioning to make the text more navigable. This was split off the main document, so that modifications are easier, and is merged during the build process.</li>
+				</ul>
+			</p>
 		<h3>Processing</h3>
-			<p>Current processing routines to spit out <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a>, <a href="https://sphinx-doc">Sphinx</a> and <a href="https://docbook.org">DocBook</a> sources (at the end of <a href="https://github.com/eudoxos/vism/blob/main/03-lxml-html.ipynb">the notebook</a>) and are fairly simple: English editions of <em>Visuddhimagga</em> use traditional book organization, which is straightfoward with LaTeX.</p>
+			<p>Current processing routines to spit out <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a>, <a href="https://sphinx-doc">Sphinx</a> and <a href="https://docbook.org">DocBook</a> sources (at the end of <a href="https://github.com/eudoxos/vism/blob/origin/03-lxml-html.ipynb">the notebook</a>) and are fairly simple: English editions of <em>Visuddhimagga</em> use traditional book organization, which is straightfoward with LaTeX.</p>
 			<p>The reason for Sphinx was that it has good support for ebooks (ePub and others), but lacks customizations which seem to be important for this kind of book — such as chapters in roman numbers and others.</p>
 			<p><a href="https://plastex.github.io/plastex/">PlasTeX</a>'s HTML output if far superior to Sphinx's (and was almost no extra work, as we mostly use vanilla LaTeX with little customizations), but it lacks ePub output.</p>
 			<p>DocBook was tested as (somewhat overdesigned) XML standard — it lacks in non-technical writing (DocBook Publishers fixes that), but has many converters to different output formats.</p>
