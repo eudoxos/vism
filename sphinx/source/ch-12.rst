@@ -264,6 +264,10 @@ This is the detailed explanation of the base consisting of neither perception no
 
 [``General``\ ]
 
+.. _X.56:
+
+**§56** 
+
 
 
 
@@ -271,6 +275,10 @@ This is the detailed explanation of the base consisting of neither perception no
 | The fourfold immaterial state;
 | To know these general matters too
 | Will not be inappropriate.
+
+.. _X.57:
+
+**§57** 
 
 
 
