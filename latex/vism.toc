@@ -4,12 +4,12 @@
 \contentsline {chapter}{Translator’s Preface }{xv}{chapter*.5}%
 \contentsline {chapter}{Introduction }{xvii}{chapter*.6}%
 \contentsline {section}{\numberline {1}Background and Main Facts}{xvii}{section.0.1}%
-\contentsline {section}{\numberline {2}The \emph {Visuddhimagga} and its Author}{xix}{section.0.2}%
-\contentsline {section}{\numberline {3}The \emph {Vimuttimagga}}{xxvii}{section.0.3}%
-\contentsline {section}{\numberline {4}Trends in the Development of Theravāda doctrine}{xxvii}{section.0.4}%
-\contentsline {section}{\numberline {5}The \emph {Paramatthamañjūsā}}{xxviii}{section.0.5}%
-\contentsline {section}{\numberline {6}Concerning the Translation}{xxx}{section.0.6}%
-\contentsline {section}{\numberline {7}Concluding remarks}{xxxii}{section.0.7}%
+\contentsline {section}{\numberline {2}The \emph {Visuddhimagga} and its Author}{xxii}{section.0.2}%
+\contentsline {section}{\numberline {3}The \emph {Vimuttimagga}}{xxx}{section.0.3}%
+\contentsline {section}{\numberline {4}Trends in the Development of Theravāda doctrine}{xxx}{section.0.4}%
+\contentsline {section}{\numberline {5}The \emph {Paramatthamañjūsā}}{xxxi}{section.0.5}%
+\contentsline {section}{\numberline {6}Concerning the Translation}{xxxiii}{section.0.6}%
+\contentsline {section}{\numberline {7}Concluding remarks}{xxxv}{section.0.7}%
 \contentsline {part}{Part I\hspace {1em}Virtue (\emph {Sīla})}{1}{part.1}%
 \contentsline {chapter}{\numberline {I}Description of Virtue}{3}{chapter.1}%
 \contentsline {section}{\numberline {1}§1–14: I. Introductory}{3}{section.1.1}%
