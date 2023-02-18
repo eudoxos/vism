@@ -9,5 +9,5 @@ Part I. Virtue (*Sīla*\ )
 
 
    
-   ch-06.rst
-   ch-07.rst
+   ch-03.rst
+   ch-04.rst

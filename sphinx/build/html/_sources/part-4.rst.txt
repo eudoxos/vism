@@ -9,6 +9,9 @@ Part III. Understanding (*Paññā*\ )
 
 
    
+   ch-16.rst
+   ch-17.rst
+   ch-18.rst
    ch-19.rst
    ch-20.rst
    ch-21.rst
@@ -16,6 +19,3 @@ Part III. Understanding (*Paññā*\ )
    ch-23.rst
    ch-24.rst
    ch-25.rst
-   ch-26.rst
-   ch-27.rst
-   ch-28.rst
