@@ -1,5 +1,7 @@
 
 
+.. _part-II:
+
 Part II. Concentration (*Samādhi*\ )
 ************************************
 

@@ -11,7 +11,7 @@ XX. Purification by Knowledge and Vision of What is the Path and What is Not the
 
 .. _XX.2:
 
-**§2** One who desires to accomplish this should first of all apply himself to the inductive insight called “comprehension by groups. [#1]_ ” Why? Because knowledge of what is the path and what is not the path appears in connection with the appearance of illumination, etc. (:ref:`XX.105f. <XX.105>` ) in one who has begun insight. For it is after illumination, etc., have appeared in one who has already begun insight that there comes to be knowledge of what is the path and what is not the path. And comprehension by groups is the beginning of insight. That is why it is set forth next to the overcoming of doubt. Besides, knowledge of what is the path and what is not the path arises when “full-understanding as investigation” is occurring, and full-understanding as investigation comes next to full-understanding as the known (see :ref:`XIX.21 <XIX.21>` ). So this is also a reason why one who desires to accomplish this purification by knowledge and vision of what is the path and what is not the path should first of all apply himself to comprehension by groups.
+**§2** One who desires to accomplish this should first of all apply himself to the inductive insight called “comprehension by groups. [#1]_ ” Why? Because knowledge of what is the path and what is not the path appears in connection with the appearance of illumination, etc. (:ref:`XX.105f. <XX.105>`) in one who has begun insight. For it is after illumination, etc., have appeared in one who has already begun insight that there comes to be knowledge of what is the path and what is not the path. And comprehension by groups is the beginning of insight. That is why it is set forth next to the overcoming of doubt. Besides, knowledge of what is the path and what is not the path arises when “full-understanding as investigation” is occurring, and full-understanding as investigation comes next to full-understanding as the known (see :ref:`XIX.21 <XIX.21>`). So this is also a reason why one who desires to accomplish this purification by knowledge and vision of what is the path and what is not the path should first of all apply himself to comprehension by groups.
 
 The Three Kinds of Full-Understanding
 -------------------------------------
@@ -24,7 +24,7 @@ Herein, the understanding that occurs by observing the specific characteristics 
 
 .. _XX.4:
 
-**§4** Herein, the plane of *full-understanding as the known* extends from the delimitation of formations (:ref:`Ch. XVIII <XVIII>` ) up to the discernment of conditions (Ch. XIX); for in this interval the penetration of the specific characteristics of states predominates. The plane of *full-understanding as investigation* extends from comprehension by groups up to contemplation of rise and fall (:ref:`XXI.3f. <XXI.3>` ); for in this interval the penetration of the general characteristics predominates. The plane of *full-understanding as abandoning* extends from contemplation of dissolution onwards (:ref:`XXI.10 <XXI.10>` ); for from there onwards the seven contemplations that effect the abandoning of the perception of permanence, etc., predominate thus:
+**§4** Herein, the plane of *full-understanding as the known* extends from the delimitation of formations (:ref:`Ch. XVIII <XVIII>`) up to the discernment of conditions (Ch. XIX); for in this interval the penetration of the specific characteristics of states predominates. The plane of *full-understanding as investigation* extends from comprehension by groups up to contemplation of rise and fall (:ref:`XXI.3f. <XXI.3>`); for in this interval the penetration of the general characteristics predominates. The plane of *full-understanding as abandoning* extends from contemplation of dissolution onwards (:ref:`XXI.10 <XXI.10>`); for from there onwards the seven contemplations that effect the abandoning of the perception of permanence, etc., predominate thus:
 
 (1) Contemplating [formations] as impermanent, a man abandons the perception of permanence.
 
@@ -132,7 +132,7 @@ Nine Ways of Sharpening the Faculties, Etc.
 
 .. _XX.21:
 
-**§21** While thus engaged in inductive insight, however, if it does not succeed, he should sharpen his faculties [of faith, etc.,] in the nine ways stated thus: “The faculties become sharp in nine ways: (1) he sees only the destruction of arisen formations; (2) and in that [occupation] he makes sure of working carefully, (3) he makes sure of working perseveringly, (4) he makes sure of working suitably, and (5) by apprehending the sign of concentration and (6) by balancing the enlightenment factors (7) he establishes disregard of body and life, (8) wherein he overcomes [pain] by renunciation and (9) by not stopping halfway. [#12]_  He should avoid the seven unsuitable things in the way stated in the Description of the Earth Kasiṇa (:ref:`IV.34 <IV.34>` ) and cultivate the seven suitable things, and he should comprehend the material at one time and the immaterial at another.
+**§21** While thus engaged in inductive insight, however, if it does not succeed, he should sharpen his faculties [of faith, etc.,] in the nine ways stated thus: “The faculties become sharp in nine ways: (1) he sees only the destruction of arisen formations; (2) and in that [occupation] he makes sure of working carefully, (3) he makes sure of working perseveringly, (4) he makes sure of working suitably, and (5) by apprehending the sign of concentration and (6) by balancing the enlightenment factors (7) he establishes disregard of body and life, (8) wherein he overcomes [pain] by renunciation and (9) by not stopping halfway. [#12]_  He should avoid the seven unsuitable things in the way stated in the Description of the Earth Kasiṇa (:ref:`IV.34 <IV.34>`) and cultivate the seven suitable things, and he should comprehend the material at one time and the immaterial at another.
 
 Comprehension of the Material
 -----------------------------
@@ -164,7 +164,7 @@ Also seventy instances of materiality occur in the same way with the sevenfold c
 
 .. _XX.27:
 
-**§27** Herein, [as regards kamma-born materiality] the analysis should be understood thus: (1) kamma, (2) what is originated by kamma, (3) what has kamma as its condition, (4) what is originated by consciousness that has kamma as its condition, (5) what is originated by nutriment that has kamma as its condition, (6) what is originated by temperature that has kamma as its condition (:ref:`XI.111 <XI.111>` –:ref:`14 <XI.14>` ).
+**§27** Herein, [as regards kamma-born materiality] the analysis should be understood thus: (1) kamma, (2) what is originated by kamma, (3) what has kamma as its condition, (4) what is originated by consciousness that has kamma as its condition, (5) what is originated by nutriment that has kamma as its condition, (6) what is originated by temperature that has kamma as its condition (:ref:`XI.111 <XI.111>`–:ref:`14 <XI.14>`).
 
 .. _XX.28:
 
@@ -272,7 +272,7 @@ Comprehension of the Immaterial
 
 .. _XX.43:
 
-**§43** And just as one who is comprehending the material should see the generation of the material, so too one who is comprehending the immaterial should see the generation of the immaterial. And that is through the eighty-one mundane arisings of consciousness, that is to say, it is by kamma accumulated in a previous becoming that this immaterial [mentality] is generated. And in the first place it is generated as [one of] the nineteen kinds of arisings of consciousness as rebirth-linking (:ref:`XVII.130 <XVII.130>` ). But the modes in which it is generated should be understood according to the method given in the Description of the Dependent Origination (:ref:`XVII.134f. <XVII.134>` ). That same [nineteenfold arising of consciousness is generated] as life-continuum as well, starting from the consciousness next to rebirth-linking consciousness, and as death consciousness at the termination of the life span. And when it is of the sense sphere, and the object in the six doors is a vivid one, it is also generated as registration.
+**§43** And just as one who is comprehending the material should see the generation of the material, so too one who is comprehending the immaterial should see the generation of the immaterial. And that is through the eighty-one mundane arisings of consciousness, that is to say, it is by kamma accumulated in a previous becoming that this immaterial [mentality] is generated. And in the first place it is generated as [one of] the nineteen kinds of arisings of consciousness as rebirth-linking (:ref:`XVII.130 <XVII.130>`). But the modes in which it is generated should be understood according to the method given in the Description of the Dependent Origination (:ref:`XVII.134f. <XVII.134>`). That same [nineteenfold arising of consciousness is generated] as life-continuum as well, starting from the consciousness next to rebirth-linking consciousness, and as death consciousness at the termination of the life span. And when it is of the sense sphere, and the object in the six doors is a vivid one, it is also generated as registration.
 
 .. _XX.44:
 
@@ -535,7 +535,7 @@ The Eighteen Principal Insights
 
 .. _XX.91:
 
-**§91** *[656/714]* Now the meditator has seen formations by means of the three characteristics beginning with impermanence, and so he has therefore already penetrated among these eighteen insights the contemplations of impermanence, pain, and not-self. And then (1) the contemplation of impermanence and (11) the contemplation of the signless are one in meaning and different only in the letter, and so are (2) the contemplation of pain and (12) the contemplation of the desireless, and so are (3) the contemplation of not-self and (13) the contemplation of voidness (see  [Paṭis]_  *II 63*\  ). Consequently these have been penetrated by him as well. But (14) insight into states that is higher understanding is all kinds of insight, and (15) correct knowledge and vision is included in purification by overcoming doubt (:ref:`Ch. XIX <XIX>` ). Consequently, these two have been penetrated by him as well. As to the remaining kinds of insight, some have been penetrated and some not. We shall deal with them below. [#29]_ 
+**§91** *[656/714]* Now the meditator has seen formations by means of the three characteristics beginning with impermanence, and so he has therefore already penetrated among these eighteen insights the contemplations of impermanence, pain, and not-self. And then (1) the contemplation of impermanence and (11) the contemplation of the signless are one in meaning and different only in the letter, and so are (2) the contemplation of pain and (12) the contemplation of the desireless, and so are (3) the contemplation of not-self and (13) the contemplation of voidness (see  [Paṭis]_  *II 63*\  ). Consequently these have been penetrated by him as well. But (14) insight into states that is higher understanding is all kinds of insight, and (15) correct knowledge and vision is included in purification by overcoming doubt (:ref:`Ch. XIX <XIX>`). Consequently, these two have been penetrated by him as well. As to the remaining kinds of insight, some have been penetrated and some not. We shall deal with them below. [#29]_ 
 
 .. _XX.92:
 
@@ -762,9 +762,9 @@ The twentieth chapter called “The Description of Purification by Knowledge and
 
 .. _XX.n2:
 
-.. [#2] . *Tīraṇa*\  could also be rendered by “judging.” On specific and general characteristics Vism-mhṭ says: “Hardness, touching, etc., as the respective characteristics of earth, contact, etc., which are observable at all three instants [of arising, presence and dissolution], are apprehended by their being established as the respective individual essences of definite materialness. But it is not so with the characteristics of impermanence, and so on. These are apprehended as though they were attributive material instances because they have to be apprehended under the respective headings of dissolution and rise and fall, of oppression, and of insusceptibility to the exercise of mastery” ( [Vism-mhṭ]_  *779*\  ). See :ref:`Ch. XXI, note 3 <XXI.n3>` .
+.. [#2] . *Tīraṇa*\  could also be rendered by “judging.” On specific and general characteristics Vism-mhṭ says: “Hardness, touching, etc., as the respective characteristics of earth, contact, etc., which are observable at all three instants [of arising, presence and dissolution], are apprehended by their being established as the respective individual essences of definite materialness. But it is not so with the characteristics of impermanence, and so on. These are apprehended as though they were attributive material instances because they have to be apprehended under the respective headings of dissolution and rise and fall, of oppression, and of insusceptibility to the exercise of mastery” ( [Vism-mhṭ]_  *779*\  ). See :ref:`Ch. XXI, note 3 <XXI.n3>`.
     
-    The “planes” given here in §4 are not quite the same as described in :ref:`XXII.107 <XXII.107>` .
+    The “planes” given here in §4 are not quite the same as described in :ref:`XXII.107 <XXII.107>`.
 
 
 .. _XX.n3:
@@ -799,7 +799,7 @@ The twentieth chapter called “The Description of Purification by Knowledge and
 
 .. _XX.n9:
 
-.. [#9] *Allīnānaṃ—*\ “for the unsheltered”: *allīna*\  = pp. of *ā + līyati*\  (see note 8 above), the “un-sheltered.” Not in PED. Not to be confused with *allīna*\  = adherent (pp. of *ā + līyati*\ , to stick, to be contiguous); see e.g. :ref:`XIV.46 <XIV.46>` .
+.. [#9] *Allīnānaṃ—*\ “for the unsheltered”: *allīna*\  = pp. of *ā + līyati*\  (see note 8 above), the “un-sheltered.” Not in PED. Not to be confused with *allīna*\  = adherent (pp. of *ā + līyati*\ , to stick, to be contiguous); see e.g. :ref:`XIV.46 <XIV.46>`.
 
 
 .. _XX.n10:
@@ -871,7 +871,7 @@ The twentieth chapter called “The Description of Purification by Knowledge and
 
 .. _XX.n23:
 
-.. [#23] . This verse is quoted twice in the Mahāniddesa ( [Nidd]_  *I 42*\   & 118). For  [Vism-mhṭ]_  ’s comment see :ref:`Ch. VIII <VIII>` , note 11.  [Vism-mhṭ]_   and the Sinhalese translation have been taken as guides in rendering this rather difficult verse. There is another stanza in the Niddesa not quoted here:
+.. [#23] . This verse is quoted twice in the Mahāniddesa ( [Nidd]_  *I 42*\   & 118). For  [Vism-mhṭ]_  ’s comment see :ref:`Ch. VIII <VIII>`, note 11.  [Vism-mhṭ]_   and the Sinhalese translation have been taken as guides in rendering this rather difficult verse. There is another stanza in the Niddesa not quoted here:
     
     “… this concept will allow. States happen as their tendencies dictate; And they are modelled by desire; their stream Uninterruptedly flows ever on Conditioned by the sixfold base of contact. No store of broken states …”
 
@@ -893,7 +893,7 @@ The twentieth chapter called “The Description of Purification by Knowledge and
 
 .. _XX.n27:
 
-.. [#27] The first seven of the eighteen principal insights are known as the “seven contemplations”; see 20.4. Further descriptions are given in :ref:`XXII.113f. <XXII.113>` 
+.. [#27] The first seven of the eighteen principal insights are known as the “seven contemplations”; see 20.4. Further descriptions are given in :ref:`XXII.113f. <XXII.113>`
 
 
 .. _XX.n28:
@@ -905,12 +905,12 @@ The twentieth chapter called “The Description of Purification by Knowledge and
 
 .. _XX.n29:
 
-.. [#29] See :ref:`XXII.113f. <XXII.113>`  “When (1) the contemplation of impermanence is established, then the contemplations of (6) cessation, (8) destruction, (9) fall, and (10) change are partly established. When (2) the contemplation of pain is established, then the contemplations of (4) dispassion and (16) danger are partly established. And when (3) the contemplation of not-self is established, then the rest are partly established” ( [Vism-mhṭ]_  *807*\  ).
+.. [#29] See :ref:`XXII.113f. <XXII.113>` “When (1) the contemplation of impermanence is established, then the contemplations of (6) cessation, (8) destruction, (9) fall, and (10) change are partly established. When (2) the contemplation of pain is established, then the contemplations of (4) dispassion and (16) danger are partly established. And when (3) the contemplation of not-self is established, then the rest are partly established” ( [Vism-mhṭ]_  *807*\  ).
 
 
 .. _XX.n30:
 
-.. [#30] “The interpreting of rise and fall must be done on a state that is present according to continuity or present according to instant but not on one that is past or future, which is why ‘of present states’ is said” ( [Vism-mhṭ]_  *808*\  ). “Present materiality is called born materiality; it is included in the trio of instants [of arising, presence and dissolution], is what is meant. But that is hard to discern at the start, so the interpreting by insight should be done by means of presence according to continuity” ( [Vism-mhṭ]_  *808*\  ). For the elision represented by “… (etc.) …” see :ref:`XX.9 <XX.9>` . In this case, however, the last two members of the dependent origination are left out. “Although states possessed of aging-and-death are mentioned under the heading of birth and of aging-and-death in comprehension by groups, etc., nevertheless here in the description of knowledge of rise and fall, if it were said ‘present birth is born; the characteristic of its generation is rise, the characteristic of its change is fall,’ etc., it would be tantamount to an affirmation and approval of the proposition that birth and aging-and-death were possessed of birth and of aging-and-death. So the text ends with ‘becoming’ in order to avoid that” ( [Vism-mhṭ]_  *808*\  ).
+.. [#30] “The interpreting of rise and fall must be done on a state that is present according to continuity or present according to instant but not on one that is past or future, which is why ‘of present states’ is said” ( [Vism-mhṭ]_  *808*\  ). “Present materiality is called born materiality; it is included in the trio of instants [of arising, presence and dissolution], is what is meant. But that is hard to discern at the start, so the interpreting by insight should be done by means of presence according to continuity” ( [Vism-mhṭ]_  *808*\  ). For the elision represented by “… (etc.) …” see :ref:`XX.9 <XX.9>`. In this case, however, the last two members of the dependent origination are left out. “Although states possessed of aging-and-death are mentioned under the heading of birth and of aging-and-death in comprehension by groups, etc., nevertheless here in the description of knowledge of rise and fall, if it were said ‘present birth is born; the characteristic of its generation is rise, the characteristic of its change is fall,’ etc., it would be tantamount to an affirmation and approval of the proposition that birth and aging-and-death were possessed of birth and of aging-and-death. So the text ends with ‘becoming’ in order to avoid that” ( [Vism-mhṭ]_  *808*\  ).
 
 
 .. _XX.n31:
@@ -935,12 +935,12 @@ The twentieth chapter called “The Description of Purification by Knowledge and
 
 .. _XX.n35:
 
-.. [#35] . *Caturaṅga-samannāgataṃ tamaṃ—*\ “four-factored gloom” is mentioned also at  [S-a]_  *I 170*\  ,  [M-a]_  *V 16*\   (c. *andhakāra*\ ), and  [Ud]_  -a 66, 304.
+.. [#35] . *Caturaṅga-samannāgataṃ tamaṃ—*\ “four-factored gloom” is mentioned also at  [S-a]_  *I 170*\  ,  [M-a]_  *V 16*\   (c. *andhakāra*\ ), and  [Ud-a]_  *66, 304*\  .
 
 
 .. _XX.n36:
 
-.. [#36] . *Okkhandati—*\ “to descend into”: not in PED; see :ref:`XXII.34 <XXII.34>`  and  [M-a]_  *I 238*\  .
+.. [#36] . *Okkhandati—*\ “to descend into”: not in PED; see :ref:`XXII.34 <XXII.34>` and  [M-a]_  *I 238*\  .
 
 
 .. _XX.n37:

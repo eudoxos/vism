@@ -10,7 +10,7 @@ A. Description of the Bases
 
 .. _XV.1:
 
-**§1** *[492/550]*  ``481``  The “bases” (:ref:`XIV.32 <XIV.32>` ) are the twelve bases, that is to say, the eye base, visible-data base, ear base, sound base, nose base, odour base, tongue base, flavour base, body base, tangible-data base, mind base, mental-data base.
+**§1** *[492/550]*  ``481``  The “bases” (:ref:`XIV.32 <XIV.32>`) are the twelve bases, that is to say, the eye base, visible-data base, ear base, sound base, nose base, odour base, tongue base, flavour base, body base, tangible-data base, mind base, mental-data base.
 
 .. _XV.2:
 
@@ -90,7 +90,7 @@ This is how the exposition should be known here as to meaning.
 
 .. _XV.8:
 
-**§8** *2. Character*\ : Here too the exposition should be known as to the characteristic of the eye and so on. But their characteristics should be understood in the way given above in the Description of the Aggregates (:ref:`XIV.37ff. <XIV.37>` ).
+**§8** *2. Character*\ : Here too the exposition should be known as to the characteristic of the eye and so on. But their characteristics should be understood in the way given above in the Description of the Aggregates (:ref:`XIV.37ff. <XIV.37>`).
 
 .. _XV.9:
 
@@ -104,7 +104,7 @@ So they are called “the twelve” because they define door-cum-object for the 
 
 .. _XV.11:
 
-**§11** *4. As to order*\ : here too, from among “order of arising,” etc., mentioned above (:ref:`XIV.211 <XIV.211>` ), only “order of teaching” is appropriate. For the eye is taught first among the internal bases since it is obvious because it has as its objective field what is visible with resistance (see last triad, Dhs 2). After that the ear base, etc., which have as their objective fields what is invisible with resistance. Or alternatively, the eye base and ear base are taught first among the internal bases because of their great helpfulness as [respective] causes for the “incomparable of seeing” and the “incomparable of hearing” (see  [D]_  *III 250*\  ). Next, the three beginning with the nose base. And the mind base is taught last because it has as its resort the objective fields of the [other] five ( [M]_  *I 295*\  ). But among the external bases the visible-data base, etc., [are taught] each one next [to its corresponding internal base] because they are the respective resorts of the eye base, and so on.
+**§11** *4. As to order*\ : here too, from among “order of arising,” etc., mentioned above (:ref:`XIV.211 <XIV.211>`), only “order of teaching” is appropriate. For the eye is taught first among the internal bases since it is obvious because it has as its objective field what is visible with resistance (see last triad, Dhs 2). After that the ear base, etc., which have as their objective fields what is invisible with resistance. Or alternatively, the eye base and ear base are taught first among the internal bases because of their great helpfulness as [respective] causes for the “incomparable of seeing” and the “incomparable of hearing” (see  [D]_  *III 250*\  ). Next, the three beginning with the nose base. And the mind base is taught last because it has as its resort the objective fields of the [other] five ( [M]_  *I 295*\  ). But among the external bases the visible-data base, etc., [are taught] each one next [to its corresponding internal base] because they are the respective resorts of the eye base, and so on.
 
 .. _XV.12:
 
@@ -141,7 +141,7 @@ B. Description of the Elements
 
 .. _XV.17:
 
-**§17** The “elements” next to that (:ref:`XIV.32 <XIV.32>` ) are the eighteen elements, that is to say, eye element, visible-data element, eye-consciousness element; ear element, sound element, ear-consciousness element; nose element, odour element, nose-consciousness element; tongue element, flavour element, tongue-consciousness element; body element, tangible-data element, body-consciousness element; mind element, mental-data element, mind-consciousness element.
+**§17** The “elements” next to that (:ref:`XIV.32 <XIV.32>`) are the eighteen elements, that is to say, eye element, visible-data element, eye-consciousness element; ear element, sound element, ear-consciousness element; nose element, odour element, nose-consciousness element; tongue element, flavour element, tongue-consciousness element; body element, tangible-data element, body-consciousness element; mind element, mental-data element, mind-consciousness element.
 
 .. _XV.18:
 
@@ -163,7 +163,7 @@ As to meaning in general: (a) it sorts out (*vidahati*\ ), (b) it assorts [well]
 
 .. _XV.20:
 
-**§20** (a) The mundane sorts (elements), when defined according to their instrumentality, *sort out*\  (*vidahanti*\ ) the suffering of the round of rebirths, which is of many kinds, just as the “sorts” (ores—see :ref:`XI.20 <XI.20>` ) of gold and silver, etc., do gold and silver, and so on. (b) They assort [well] (*dhīyante*\ ) with living beings, as a burden does with burden bearers; they are borne (*dhāriyanti*\ ), is the meaning. (c) And they are only mere sortings out (*vidhāna*\ ) of suffering because no mastery is exercisable over them. (d) And by means of them as instruments the suffering of the round of rebirths is continually being sorted out (*anuvidhīyati*\ ) by living beings. (e) And that [suffering], being sorted out (*vihita*\ ) in this way, is caused to be sorted (*dhīyati*\ ) into those [sorts (elements)]; it is caused to be placed in them, is the meaning. So each thing (*dhamma*\ ) among those beginning with the eye is called a “sort” (*dhātu—*\ element) in the meaning just stated beginning “It sorts out, it assorts well.”
+**§20** (a) The mundane sorts (elements), when defined according to their instrumentality, *sort out*\  (*vidahanti*\ ) the suffering of the round of rebirths, which is of many kinds, just as the “sorts” (ores—see :ref:`XI.20 <XI.20>`) of gold and silver, etc., do gold and silver, and so on. (b) They assort [well] (*dhīyante*\ ) with living beings, as a burden does with burden bearers; they are borne (*dhāriyanti*\ ), is the meaning. (c) And they are only mere sortings out (*vidhāna*\ ) of suffering because no mastery is exercisable over them. (d) And by means of them as instruments the suffering of the round of rebirths is continually being sorted out (*anuvidhīyati*\ ) by living beings. (e) And that [suffering], being sorted out (*vihita*\ ) in this way, is caused to be sorted (*dhīyati*\ ) into those [sorts (elements)]; it is caused to be placed in them, is the meaning. So each thing (*dhamma*\ ) among those beginning with the eye is called a “sort” (*dhātu—*\ element) in the meaning just stated beginning “It sorts out, it assorts well.”
 
 .. _XV.21:
 
@@ -175,11 +175,11 @@ As to meaning in general: (a) it sorts out (*vidahati*\ ), (b) it assorts [well]
 
 .. _XV.23:
 
-**§23** *2. As to characteristic, et cetera*\ : here too the exposition should be understood as to the characteristic, etc., of the eye, and so on. And that should be understood in the way given above in the Description of the Aggregates (:ref:`XIV.37ff. <XIV.37>` ).
+**§23** *2. As to characteristic, et cetera*\ : here too the exposition should be understood as to the characteristic, etc., of the eye, and so on. And that should be understood in the way given above in the Description of the Aggregates (:ref:`XIV.37ff. <XIV.37>`).
 
 .. _XV.24:
 
-**§24** *3. As to order*\ : here too, from among “order of arising,” etc., mentioned above (:ref:`XIV.211 <XIV.211>` ), only “order of teaching” is appropriate. It is set forth according to successive definition of cause and fruit. [#13]_  For the pair, eye element and visible-data element, are the cause and eye-consciousness element is the fruit. So in each case.
+**§24** *3. As to order*\ : here too, from among “order of arising,” etc., mentioned above (:ref:`XIV.211 <XIV.211>`), only “order of teaching” is appropriate. It is set forth according to successive definition of cause and fruit. [#13]_  For the pair, eye element and visible-data element, are the cause and eye-consciousness element is the fruit. So in each case.
 
 .. _XV.25:
 
@@ -231,7 +231,7 @@ This is how the exposition should be understood here as to just so much.
 
 .. _XV.34:
 
-**§34** *5. As to reckoning*\ : the eye-element, firstly, is reckoned as one thing according to kind,  ``488``  namely, eye sensitivity. Likewise, the ear, nose, tongue, body, visible-data, sound, odour, and flavour elements are reckoned as ear sensitivity, and so on (:ref:`XIV.37ff. <XIV.37>` ). But the tangible-data element is reckoned as three things, namely, earth, fire and air. The eye-consciousness element is reckoned as two things, namely, profitable and unprofitable kamma-result; and likewise the consciousness elements of the ear, nose, tongue, and body. The mind element is reckoned as three things, namely, five-door adverting (70), and profitable (39) and unprofitable (55) resultant receiving. The mental-data element as twenty things, namely, three immaterial aggregates, sixteen kinds of subtle matter, and the unformed element (see  [Vibh]_  *88*\  ). [#15]_ Mind-consciousness element is reckoned as seventy-six things, namely, the remaining profitable, unprofitable, and indeterminate consciousnesses. This is how the exposition should be understood as to reckoning.
+**§34** *5. As to reckoning*\ : the eye-element, firstly, is reckoned as one thing according to kind,  ``488``  namely, eye sensitivity. Likewise, the ear, nose, tongue, body, visible-data, sound, odour, and flavour elements are reckoned as ear sensitivity, and so on (:ref:`XIV.37ff. <XIV.37>`). But the tangible-data element is reckoned as three things, namely, earth, fire and air. The eye-consciousness element is reckoned as two things, namely, profitable and unprofitable kamma-result; and likewise the consciousness elements of the ear, nose, tongue, and body. The mind element is reckoned as three things, namely, five-door adverting (70), and profitable (39) and unprofitable (55) resultant receiving. The mental-data element as twenty things, namely, three immaterial aggregates, sixteen kinds of subtle matter, and the unformed element (see  [Vibh]_  *88*\  ). [#15]_ Mind-consciousness element is reckoned as seventy-six things, namely, the remaining profitable, unprofitable, and indeterminate consciousnesses. This is how the exposition should be understood as to reckoning.
 
 .. _XV.35:
 
@@ -257,7 +257,7 @@ This, firstly, is the way in the case of the five doors.
 
 This is in brief. But the kinds of conditions will be explained in detail in the
 
-Description of Dependent Origination (:ref:`XVII.66ff. <XVII.66>` ).
+Description of Dependent Origination (:ref:`XVII.66ff. <XVII.66>`).
 
 This is how the exposition should be understood here as to condition.
 
@@ -317,7 +317,7 @@ The fifteenth chapter called “The Description of the Bases and Elements” in 
 
 .. _XV.n5:
 
-.. [#5] “‘*In other words, the life-continuum mind*\ ’: that which occurs twice in disturbance (see :ref:`Ch. XIV, note 46 <XIV.n46>` ). Only when there has been the occurrence of the life-continuum in a state of disturbance (in a state of dissimilar occurrence) is there the arising of adverting, not otherwise. Taking it thus as the reason for adverting, what is called ‘life-continuum mind’ is a door of arising. ‘*Not common to all*\ ’ means not common to eye-consciousness and the rest” (Vism-mhṭ 510). See  [M]_  *I 293*\  .
+.. [#5] “‘*In other words, the life-continuum mind*\ ’: that which occurs twice in disturbance (see :ref:`Ch. XIV, note 46 <XIV.n46>`). Only when there has been the occurrence of the life-continuum in a state of disturbance (in a state of dissimilar occurrence) is there the arising of adverting, not otherwise. Taking it thus as the reason for adverting, what is called ‘life-continuum mind’ is a door of arising. ‘*Not common to all*\ ’ means not common to eye-consciousness and the rest” (Vism-mhṭ 510). See  [M]_  *I 293*\  .
 
 
 .. _XV.n6:
@@ -347,7 +347,7 @@ The fifteenth chapter called “The Description of the Bases and Elements” in 
 
 .. _XV.n11:
 
-.. [#11] “‘*Are elements since they cause [a state’s] own individual essence to be borne*\ ’: here, while the establishment of the word’s form should be understood as “*dadhātī ti dhātu* (it puts, sorts, thus it is an element),’ still taking the word *dhā*\  to share the meanings [of both *dadhāti*\  and *dhāreti*\  (see :ref:`XI.104 <XI.104>` )], there is also the meaning of the active voice different from the first, because the meanings of *vidhāna*\  (sorting out) and *dhāraṇa* (causing to bear) are unconnected. The causing of the bearing of mere individual essences without any permanent living being, is a basic meaning of the word *dhātu* (element), and so it is stated separately” ( [Vism-mhṭ]_  *513*\  ).
+.. [#11] “‘*Are elements since they cause [a state’s] own individual essence to be borne*\ ’: here, while the establishment of the word’s form should be understood as “*dadhātī ti dhātu* (it puts, sorts, thus it is an element),’ still taking the word *dhā*\  to share the meanings [of both *dadhāti*\  and *dhāreti*\  (see :ref:`XI.104 <XI.104>`)], there is also the meaning of the active voice different from the first, because the meanings of *vidhāna*\  (sorting out) and *dhāraṇa* (causing to bear) are unconnected. The causing of the bearing of mere individual essences without any permanent living being, is a basic meaning of the word *dhātu* (element), and so it is stated separately” ( [Vism-mhṭ]_  *513*\  ).
 
 
 .. _XV.n12:
@@ -367,7 +367,7 @@ The fifteenth chapter called “The Description of the Bases and Elements” in 
 
 .. _XV.n15:
 
-.. [#15] In :ref:`XIV.35 <XIV.35>` –:ref:`70 <XIV.70>` , the material instances listed total 28, that is, 4 primary elements, 9 sense faculties (excluding the tangible-data faculty, which is the 3 elements except water), and 15 kinds of subtle materiality beginning with the femininity faculty (cf. treatment at Dhs §596). Other lists, however, sometimes give a total of 26 kinds, that is, 10 sense faculties (including the tangible-data faculty, which is the 3 primary elements) and 16 kinds of subtle materiality, that is, the above-mentioned 15 plus the water element, which is listed then after the space element (cf. treatment at Dhs §653 and list at  [M-a]_  *II 261*\  ). See Table I.
+.. [#15] In :ref:`XIV.35 <XIV.35>`–:ref:`70 <XIV.70>`, the material instances listed total 28, that is, 4 primary elements, 9 sense faculties (excluding the tangible-data faculty, which is the 3 elements except water), and 15 kinds of subtle materiality beginning with the femininity faculty (cf. treatment at Dhs §596). Other lists, however, sometimes give a total of 26 kinds, that is, 10 sense faculties (including the tangible-data faculty, which is the 3 primary elements) and 16 kinds of subtle materiality, that is, the above-mentioned 15 plus the water element, which is listed then after the space element (cf. treatment at Dhs §653 and list at  [M-a]_  *II 261*\  ). See Table I.
 
 
 .. _XV.n16:

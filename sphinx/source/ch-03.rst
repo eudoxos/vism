@@ -1398,7 +1398,7 @@ This is how tornness, etc., should be understood as included under the breach th
 
 .. _I.152:
 
-**§152** *[50/108]* Virtues not broken for the purpose of gain, etc., and rectified by making amends after being broken by the faults of negligence, etc., and not damaged by the bonds of sexuality and by such evil things as anger and enmity, are called entirely untorn, unrent, unblotched, and unmottled. And those same virtues are *liberating* since they bring about the state of a freeman, and praised by the wise since it is by the wise that they are praised, and *unadhered-to* since they are not adhered to by means of craving and views, and *conducive to concentration* since they conduce to access concentration or to absorption concentration. That is why their untornness, etc., should be understood as “cleansing” (see also :ref:`VII.101f. <VII.101>` ).
+**§152** *[50/108]* Virtues not broken for the purpose of gain, etc., and rectified by making amends after being broken by the faults of negligence, etc., and not damaged by the bonds of sexuality and by such evil things as anger and enmity, are called entirely untorn, unrent, unblotched, and unmottled. And those same virtues are *liberating* since they bring about the state of a freeman, and praised by the wise since it is by the wise that they are praised, and *unadhered-to* since they are not adhered to by means of craving and views, and *conducive to concentration* since they conduce to access concentration or to absorption concentration. That is why their untornness, etc., should be understood as “cleansing” (see also :ref:`VII.101f. <VII.101>`).
 
 .. _I.153:
 
@@ -1641,7 +1641,7 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
 
 .. _I.n1:
 
-.. [#1] “From a visible datum sometimes as far down as a mental datum, or vice versa, following the order of the six kinds of objects of consciousness as given in the teaching” ( [Vism-mhṭ]_  *5*\  , see :ref:`XV.32 <XV.32>` ).
+.. [#1] “From a visible datum sometimes as far down as a mental datum, or vice versa, following the order of the six kinds of objects of consciousness as given in the teaching” ( [Vism-mhṭ]_  *5*\  , see :ref:`XV.32 <XV.32>`).
 
 
 .. _I.n2:
@@ -1651,12 +1651,12 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
 
 .. _I.n3:
 
-.. [#3] “The words ‘insight alone’ are meant to exclude not virtue, etc., but serenity (i.e. *jhāna*\ ), which is the opposite number in the pair, serenity and insight. This is for emphasis. But the word ‘alone’ actually excludes only that concentration with distinction [of jhāna]; for concentration is classed as both access and absorption (see :ref:`IV.32 <IV.32>` ). Taking this stanza as the teaching for one whose vehicle is insight does not imply that there is no concentration; for no insight comes about without momentary concentration. And again, insight should be understood as the three contemplations of impermanence, pain, and not-self; not contemplation of impermanence alone” ( [Vism-mhṭ]_  *9–10*\  ).
+.. [#3] “The words ‘insight alone’ are meant to exclude not virtue, etc., but serenity (i.e. *jhāna*\ ), which is the opposite number in the pair, serenity and insight. This is for emphasis. But the word ‘alone’ actually excludes only that concentration with distinction [of jhāna]; for concentration is classed as both access and absorption (see :ref:`IV.32 <IV.32>`). Taking this stanza as the teaching for one whose vehicle is insight does not imply that there is no concentration; for no insight comes about without momentary concentration. And again, insight should be understood as the three contemplations of impermanence, pain, and not-self; not contemplation of impermanence alone” ( [Vism-mhṭ]_  *9–10*\  ).
 
 
 .. _I.n4:
 
-.. [#4] “‘Develops’ applies to both ‘consciousness’ and ‘understanding.’ But are they mundane or supramundane? They are supramundane, because the sublime goal is described; for one developing them is said to disentangle the tangle of craving by cutting it off at the path moment, and that is not mundane. But the mundane are included here too because they immediately precede, since supramundane (see :ref:`Ch. III n. 5 <III.n5>` ) concentration and insight are impossible without mundane concentration and insight to precede them; for without the access and absorption concentration in one whose vehicle is serenity, or without the momentary concentration in one whose vehicle is insight, and without the gateways to liberation (see :ref:`XXI.66f. <XXI.66>` ), the supramundane can never in either case be reached” ( [Vism-mhṭ]_  *13*\  ). “With triple root-cause” means with non-greed, none-hate, and non-delusion.
+.. [#4] “‘Develops’ applies to both ‘consciousness’ and ‘understanding.’ But are they mundane or supramundane? They are supramundane, because the sublime goal is described; for one developing them is said to disentangle the tangle of craving by cutting it off at the path moment, and that is not mundane. But the mundane are included here too because they immediately precede, since supramundane (see :ref:`Ch. III n. 5 <III.n5>`) concentration and insight are impossible without mundane concentration and insight to precede them; for without the access and absorption concentration in one whose vehicle is serenity, or without the momentary concentration in one whose vehicle is insight, and without the gateways to liberation (see :ref:`XXI.66f. <XXI.66>`), the supramundane can never in either case be reached” ( [Vism-mhṭ]_  *13*\  ). “With triple root-cause” means with non-greed, none-hate, and non-delusion.
 
 
 .. _I.n5:
@@ -1676,7 +1676,7 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
 
 .. _I.n8:
 
-.. [#8] *Sīlana*\  and *upadhāraṇa*\  in this meaning (cf. :ref:`Ch. I, §141 <I.141>`  and *sandhāraṇa*\ , :ref:`XIV.61 <XIV.61>` ) are not in PED.
+.. [#8] *Sīlana*\  and *upadhāraṇa*\  in this meaning (cf. :ref:`Ch. I, §141 <I.141>` and *sandhāraṇa*\ , :ref:`XIV.61 <XIV.61>`) are not in PED.
 
 
 .. _I.n9:
@@ -1701,7 +1701,7 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
 
 .. _I.n13:
 
-.. [#13] See :ref:`Ch. IV n. 27 <IV.n27>` .
+.. [#13] See :ref:`Ch. IV n. 27 <IV.n27>`.
 
 
 .. _I.n14:
@@ -1712,7 +1712,7 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
     
     “Here it is the ‘*sign of woman*\ ’ because it is the cause of perceiving as ‘woman’ all such things as the shape that is grasped under the heading of the visible data (materiality) invariably found in a female continuity, the un-clear-cut-ness (*avisadatā*\ ) of the flesh of the breasts, the beardlessness of the face, the use of cloth to bind the hair, the un-clear-cut stance, walk, and so on. The ‘*sign of man*\ ’ is in the opposite sense.
     
-    “‘*The sign of beauty*\ ’ here is the aspect of woman that is the cause for the arising of lust. By the word ‘etc.’ the sign of resentment (*paṭigha*\ ), etc., are included, which should be understood as the undesired aspect that is the cause for the arising of hate. And here admittedly only covetousness and grief are specified in the text but the sign of equanimity needs to be included too; since there is non-restraint in the delusion that arises due to overlooking, or since ‘forgetfulness of unknowing’ is said below (§57). And here the ‘sign of equanimity’ should be understood as an object that is the basis for the kind of equanimity associated with unknowing through overlooking it. So ‘*the sign of beauty*\ , etc.’ given in brief thus is actually the cause of greed, hate, and delusion. “‘*He stops at what is merely seen*\ ’: according to the Sutta method, ‘The seen shall be merely seen’ ( [Ud]_  *8*\  ). As soon as the colour basis has been apprehended by the consciousnesses of the cognitive series with eye-consciousness he stops; he does not fancy any aspect of beauty, etc., beyond that…. In one who fancies as beautiful, etc., the limbs of the opposite sex, defilements arisen with respect to them successively become particularized, which is why they are called ‘particulars.’ But these are simply modes of interpreting (*sannivesākāra*\ ) the kinds of materiality derived from the (four) primaries that are interpreted (*sanniviṭṭha*\ ) in such and such wise; for apart from that there is in the ultimate sense no such thing as a hand and so on” ( [Vism-mhṭ]_  *40–41*\  ). See also :ref:`Ch. III, note 31 <III.n31>` .
+    “‘*The sign of beauty*\ ’ here is the aspect of woman that is the cause for the arising of lust. By the word ‘etc.’ the sign of resentment (*paṭigha*\ ), etc., are included, which should be understood as the undesired aspect that is the cause for the arising of hate. And here admittedly only covetousness and grief are specified in the text but the sign of equanimity needs to be included too; since there is non-restraint in the delusion that arises due to overlooking, or since ‘forgetfulness of unknowing’ is said below (§57). And here the ‘sign of equanimity’ should be understood as an object that is the basis for the kind of equanimity associated with unknowing through overlooking it. So ‘*the sign of beauty*\ , etc.’ given in brief thus is actually the cause of greed, hate, and delusion. “‘*He stops at what is merely seen*\ ’: according to the Sutta method, ‘The seen shall be merely seen’ ( [Ud]_  *8*\  ). As soon as the colour basis has been apprehended by the consciousnesses of the cognitive series with eye-consciousness he stops; he does not fancy any aspect of beauty, etc., beyond that…. In one who fancies as beautiful, etc., the limbs of the opposite sex, defilements arisen with respect to them successively become particularized, which is why they are called ‘particulars.’ But these are simply modes of interpreting (*sannivesākāra*\ ) the kinds of materiality derived from the (four) primaries that are interpreted (*sanniviṭṭha*\ ) in such and such wise; for apart from that there is in the ultimate sense no such thing as a hand and so on” ( [Vism-mhṭ]_  *40–41*\  ). See also :ref:`Ch. III, note 31 <III.n31>`.
 
 
 .. _I.n15:
@@ -1724,7 +1724,7 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
 
 .. [#16] To expect to find in the *Paramatthamañjūsā*\  an exposition of the “cognitive series” (*citta-vīthi*\ ), and some explanation of the individual members in addition to what is to be found in the *Visuddhimagga*\  itself, is to be disappointed. There are only fragmentary treatments. All that is said here is this:
     
-    “There is no unvirtuousness, in other words, bodily or verbal misconduct, in the five doors; consequently restraint of unvirtuousness happens through the mind door, and the remaining restraint happens through the six doors. For the arising of forgetfulness and the other three would be in the five doors since they are unprofitable states opposed to mindfulness, etc.; and there is no arising of unvirtuousness consisting in bodily and verbal transgression there because five-door impulsions do not give rise to intimation. And the five kinds of non-restraint beginning with unvirtuousness are stated here as the opposite of the five kinds of restraint beginning with restraint as virtue” ( [Vism-mhṭ]_  *42*\  ). See also :ref:`Ch. IV, note 13 <IV.n13>` .
+    “There is no unvirtuousness, in other words, bodily or verbal misconduct, in the five doors; consequently restraint of unvirtuousness happens through the mind door, and the remaining restraint happens through the six doors. For the arising of forgetfulness and the other three would be in the five doors since they are unprofitable states opposed to mindfulness, etc.; and there is no arising of unvirtuousness consisting in bodily and verbal transgression there because five-door impulsions do not give rise to intimation. And the five kinds of non-restraint beginning with unvirtuousness are stated here as the opposite of the five kinds of restraint beginning with restraint as virtue” ( [Vism-mhṭ]_  *42*\  ). See also :ref:`Ch. IV, note 13 <IV.n13>`.
 
 
 .. _I.n17:
@@ -1769,7 +1769,7 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
 
 .. _I.n25:
 
-.. [#25] The “ten instances of abuse” (*akkosa-vatthu*\ ) are given in the *Sammohavinodanī*\  ( [Vibh]_  -a 340) as: “You are a thief, you are a fool, you are an idiot, you are a camel (*oṭṭha*\ ), you are an ox, you are a donkey, you belong to the states of loss, you belong to hell, you are a beast, there is not even a happy or an unhappy destiny to be expected for you” (see also  [Sn-a]_  *364*\  ).
+.. [#25] The “ten instances of abuse” (*akkosa-vatthu*\ ) are given in the *Sammohavinodanī*\  ( [Vibh-a]_  *340*\  ) as: “You are a thief, you are a fool, you are an idiot, you are a camel (*oṭṭha*\ ), you are an ox, you are a donkey, you belong to the states of loss, you belong to hell, you are a beast, there is not even a happy or an unhappy destiny to be expected for you” (see also  [Sn-a]_  *364*\  ).
 
 
 .. _I.n26:
@@ -1824,7 +1824,7 @@ The first chapter called “The Description of Virtue” in the *Path of Purific
 
 .. _I.n36:
 
-.. [#36] “Comprehending” (*sammasana*\ ) is a technical term that will become clear in :ref:`Chapter XX <XX>` . In short, it is inference that generalizes the “three characteristics” from one’s own directly-known experience to all possible formed experience at all times (see  [S]_  *II 107*\  ). Commenting on “*He comprehended that same illness*\ ” (§138), Vism-mhṭ says: “He exercised insight by discerning the feeling in the illness under the heading of the feeling [aggregate] and the remaining material dhammas as materiality” ( [Vism-mhṭ]_  *65*\  ).
+.. [#36] “Comprehending” (*sammasana*\ ) is a technical term that will become clear in :ref:`Chapter XX <XX>`. In short, it is inference that generalizes the “three characteristics” from one’s own directly-known experience to all possible formed experience at all times (see  [S]_  *II 107*\  ). Commenting on “*He comprehended that same illness*\ ” (§138), Vism-mhṭ says: “He exercised insight by discerning the feeling in the illness under the heading of the feeling [aggregate] and the remaining material dhammas as materiality” ( [Vism-mhṭ]_  *65*\  ).
 
 
 .. _I.n37:

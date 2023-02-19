@@ -13,7 +13,7 @@ XIII. Other Direct-knowledges
 
 .. _XIII.1:
 
-**§1** *[400/458]*  ``407``  It is now the turn for the description of the divine ear element. Herein, and also in the case of the remaining three kinds of direct-knowledge, the meaning of the passage beginning, “When his concentrated mind …” ( [D]_  *I 79*\  ) should be understood in the way already stated (:ref:`XII.13f. <XII.13>` ); and in each case we shall only comment on what is different. [The text is as follows: “He directs, he inclines, his mind to the divine ear element. With the divine ear element, which is purified and surpasses the human, he hears both kinds of sounds, the divine and the human, those that are far as well as near”( [D]_  *I 79*\  ).]
+**§1** *[400/458]*  ``407``  It is now the turn for the description of the divine ear element. Herein, and also in the case of the remaining three kinds of direct-knowledge, the meaning of the passage beginning, “When his concentrated mind …” ( [D]_  *I 79*\  ) should be understood in the way already stated (:ref:`XII.13f. <XII.13>`); and in each case we shall only comment on what is different. [The text is as follows: “He directs, he inclines, his mind to the divine ear element. With the divine ear element, which is purified and surpasses the human, he hears both kinds of sounds, the divine and the human, those that are far as well as near”( [D]_  *I 79*\  ).]
 
 .. _XIII.2:
 
@@ -87,7 +87,7 @@ So the bhikkhu who has acquired the knowledge of penetration of hearts understan
 
 .. _XIII.16:
 
-**§16** Herein, other sectarians recollect only as far back as forty eons, but not beyond that. Why? Because their understanding is weak for lack of delimitation of mind and matter (see :ref:`Ch. XVIII <XVIII>` ). Ordinary disciples recollect as far back as a hundred eons and as far back as a thousand eons because their understanding is strong. The eighty great disciples recollect as far back as a hundred thousand eons. The two chief disciples recollect as far back as an incalculable age and a hundred thousand eons. Paccekabuddhas recollect as far back as two incalculable ages and a hundred thousand eons. For such is the extent to which they can convey [their minds back respectively]. But there is no limit in the case of Buddhas.
+**§16** Herein, other sectarians recollect only as far back as forty eons, but not beyond that. Why? Because their understanding is weak for lack of delimitation of mind and matter (see :ref:`Ch. XVIII <XVIII>`). Ordinary disciples recollect as far back as a hundred eons and as far back as a thousand eons because their understanding is strong. The eighty great disciples recollect as far back as a hundred thousand eons. The two chief disciples recollect as far back as an incalculable age and a hundred thousand eons. Paccekabuddhas recollect as far back as two incalculable ages and a hundred thousand eons. For such is the extent to which they can convey [their minds back respectively]. But there is no limit in the case of Buddhas.
 
 .. _XIII.17:
 
@@ -490,7 +490,7 @@ General
 
 **§106** (1) Herein, *knowledge of supernormal power*\   ``430``  occurs with respect to seven kinds of object, that is to say, as having a limited or exalted, a past, future or present, and an internal or external object. How?
 
-When he wants to go with an invisible body after making the body dependent on the mind, and he converts the body to accord with the mind (:ref:`XII.119 <XII.119>` ), and he sets it, mounts it, on the exalted consciousness, then taking it that the [word in the] accusative case is the proper object, [#21]_  it *has a limited object* because its object is the material body. When he wants to go with a visible body after making the mind dependent on the body and he converts the mind to accord with the body and sets it, mounts it, on the material body, then taking it that the [word in the] accusative case is the proper object, it *has an exalted object* because its object is the exalted consciousness.
+When he wants to go with an invisible body after making the body dependent on the mind, and he converts the body to accord with the mind (:ref:`XII.119 <XII.119>`), and he sets it, mounts it, on the exalted consciousness, then taking it that the [word in the] accusative case is the proper object, [#21]_  it *has a limited object* because its object is the material body. When he wants to go with a visible body after making the mind dependent on the body and he converts the mind to accord with the body and sets it, mounts it, on the material body, then taking it that the [word in the] accusative case is the proper object, it *has an exalted object* because its object is the exalted consciousness.
 
 .. _XIII.107:
 
@@ -522,7 +522,7 @@ At the time of knowing others’ sense-sphere consciousness it *has a limited ob
 
 .. _XIII.112:
 
-**§112** Herein, when someone goes to a well-lit place after sitting in the dark, an object is not clear at first; until it becomes clear, one or two rounds of continuity *[424/482]* should be understood [to pass] meanwhile. And when he goes into an inner closet after going about in a well-lit place, a visible object is not immediately evident at first; until it becomes clear, one or two rounds of continuity should be understood [to pass] meanwhile. When he stands at a distance, although he sees the alterations (movements) of the hands of washer-men and the alterations (movements) of the striking of gongs, drums, etc., yet he does not hear the sound at first (see :ref:`Ch. XIV n. 22 <XIV.n22>` ); until he hears it, one or two rounds of continuity should be understood [to pass] meanwhile. This, firstly, is according to the Majjhima reciters.
+**§112** Herein, when someone goes to a well-lit place after sitting in the dark, an object is not clear at first; until it becomes clear, one or two rounds of continuity *[424/482]* should be understood [to pass] meanwhile. And when he goes into an inner closet after going about in a well-lit place, a visible object is not immediately evident at first; until it becomes clear, one or two rounds of continuity should be understood [to pass] meanwhile. When he stands at a distance, although he sees the alterations (movements) of the hands of washer-men and the alterations (movements) of the striking of gongs, drums, etc., yet he does not hear the sound at first (see :ref:`Ch. XIV n. 22 <XIV.n22>`); until he hears it, one or two rounds of continuity should be understood [to pass] meanwhile. This, firstly, is according to the Majjhima reciters.
 
 .. _XIII.113:
 
@@ -632,7 +632,7 @@ The thirteenth chapter concluding “The Description of Direct-knowledge” in t
 
 .. _XIII.n5:
 
-.. [#5] The “matter of the heart” is not the heart-basis, but rather it is the heart as the piece of flesh described as resembling a lotus bud in shape outside and like a *kosātakī* fruit inside (:ref:`VIII.111 <VIII.111>` ). For the blood mentioned here is to be found with that as its support. But the heart-basis occurs with this blood as its support” ( [Vism-mhṭ]_  *403*\  ).
+.. [#5] The “matter of the heart” is not the heart-basis, but rather it is the heart as the piece of flesh described as resembling a lotus bud in shape outside and like a *kosātakī* fruit inside (:ref:`VIII.111 <VIII.111>`). For the blood mentioned here is to be found with that as its support. But the heart-basis occurs with this blood as its support” ( [Vism-mhṭ]_  *403*\  ).
 
 
 .. _XIII.n6:
@@ -657,7 +657,7 @@ The thirteenth chapter concluding “The Description of Direct-knowledge” in t
 
 .. _XIII.n10:
 
-.. [#10] *Ugghaṭetvā*\ : see :ref:`X.6 <X.6>` ; the word is obviously used here in the same sense.
+.. [#10] *Ugghaṭetvā*\ : see :ref:`X.6 <X.6>`; the word is obviously used here in the same sense.
 
 
 .. _XIII.n11:
@@ -687,7 +687,7 @@ The thirteenth chapter concluding “The Description of Direct-knowledge” in t
 
 .. _XIII.n16:
 
-.. [#16] *Kūṭāgāra:* see :ref:`Ch. XII, n.14 <XII.n14>` ; here this seems the most likely of the various meanings of the word.
+.. [#16] *Kūṭāgāra:* see :ref:`Ch. XII, n.14 <XII.n14>`; here this seems the most likely of the various meanings of the word.
 
 
 .. _XIII.n17:
@@ -702,7 +702,7 @@ The thirteenth chapter concluding “The Description of Direct-knowledge” in t
 
 .. _XIII.n19:
 
-.. [#19] For the word *aya* see :ref:`XVI.17 <XVI.17>` .
+.. [#19] For the word *aya* see :ref:`XVI.17 <XVI.17>`.
 
 
 .. _XIII.n20:
@@ -719,7 +719,7 @@ The thirteenth chapter concluding “The Description of Direct-knowledge” in t
 
 .. [#22]  [Vism-mhṭ]_   comments: “Although with the words: *‘These perfumes,’* etc., he apprehends present perfumes, etc., nevertheless the object of his resolving consciousness is actually their future materiality that is to be associated with the distinction of not drying up. This is because the resolve concerns the future … *‘Cream of curd’:* when resolving, his object is the future appearance of curd.”
     
-    Vattanīyasenāsana was apparently a monastery in the Vindhya Hills (*Viñjaṭavī*\ ): see Mhv :ref:`XIX.6 <XIX.6>` ;  [Dhs-a]_  *419.*\   The Elders Assagutta and Rohaṇa instructed Kajaṅgala who was sent to convert Menander (Lamotte, *Histoire de la Bouddhisme Indien,*\  p. 440).
+    Vattanīyasenāsana was apparently a monastery in the Vindhya Hills (*Viñjaṭavī*\ ): see Mhv :ref:`XIX.6 <XIX.6>`;  [Dhs-a]_  *419.*\   The Elders Assagutta and Rohaṇa instructed Kajaṅgala who was sent to convert Menander (Lamotte, *Histoire de la Bouddhisme Indien,*\  p. 440).
 
 
 .. _XIII.n23:

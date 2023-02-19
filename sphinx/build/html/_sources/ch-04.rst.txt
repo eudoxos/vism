@@ -601,7 +601,7 @@ When any one of these three makes his abode in some place not a charnel ground, 
 
 .. _II.67:
 
-**§67** The *benefits*\  are these. He acquires mindfulness of death; he lives diligently; the sign of foulness is available (see :ref:`Ch. VI <VI>` ); greed for sense desires is removed; he constantly sees the body’s true nature; he has a great sense of urgency; he abandons vanity of health, etc.; he vanquishes fear and dread (MN 4); non-human beings respect and honour him; he lives in conformity with [the principles of] fewness of wishes, and so on.
+**§67** The *benefits*\  are these. He acquires mindfulness of death; he lives diligently; the sign of foulness is available (see :ref:`Ch. VI <VI>`); greed for sense desires is removed; he constantly sees the body’s true nature; he has a great sense of urgency; he abandons vanity of health, etc.; he vanquishes fear and dread (MN 4); non-human beings respect and honour him; he lives in conformity with [the principles of] fewness of wishes, and so on.
 
 .. _II.68:
 
@@ -810,7 +810,7 @@ This is the commentary “as to groups and also singly.”
 
 .. _II.93:
 
-**§93** *[77/135]* And this is the end of the treatise on the ascetic practices to be undertaken for the purpose of perfecting those special qualities of fewness of wishes, contentment, etc., by means of which there comes about the cleansing of virtue as described in the *Path of Purification*\ , which is shown under the three headings of virtue, concentration, and understanding, contained in the stanza, “When a wise man, established well in virtue” (:ref:`I.1 <I.1>` ).
+**§93** *[77/135]* And this is the end of the treatise on the ascetic practices to be undertaken for the purpose of perfecting those special qualities of fewness of wishes, contentment, etc., by means of which there comes about the cleansing of virtue as described in the *Path of Purification*\ , which is shown under the three headings of virtue, concentration, and understanding, contained in the stanza, “When a wise man, established well in virtue” (:ref:`I.1 <I.1>`).
 
 The second chapter called “The Description of the Ascetic Practices” in the *Path of Purification*\  composed for the purpose of gladdening good people.
 
@@ -820,7 +820,7 @@ The second chapter called “The Description of the Ascetic Practices” in the 
 
 .. _II.n1:
 
-.. [#1] *Nibbacana—”*\ derivative name (or verbal derivative)”; gram. term not in PED;  [M-a]_  *I 61*\  ,105; Vism :ref:`XVI.16 <XVI.16>` .
+.. [#1] *Nibbacana—”*\ derivative name (or verbal derivative)”; gram. term not in PED;  [M-a]_  *I 61*\  ,105; Vism :ref:`XVI.16 <XVI.16>`.
 
 
 .. _II.n2:
@@ -885,7 +885,7 @@ The second chapter called “The Description of the Ascetic Practices” in the 
 
 .. _II.n14:
 
-.. [#14] *Subbata—*\ ”truly devoted”: fm. *su + vata* (having good vows). See also §59*.*\ 
+.. [#14] *Subbata—*\ ”truly devoted”: fm. *su + vata* (having good vows). See also §59.
 
 
 .. _II.n15:
@@ -900,26 +900,24 @@ The second chapter called “The Description of the Ascetic Practices” in the 
 
 .. _II.n17:
 
-.. [#17] *Āyogapatta—*\ ”a binding-strap”: this is probably the meaning. But cf.  [Vin]_  *II 135*\   and  [Vin]_  -a 891.
+.. [#17] *Āyogapatta—*\ ”a binding-strap”: this is probably the meaning. But cf.  [Vin]_  *II 135*\   and  [Vin-a]_  *891*\  .
 
 
 .. _II.n18:
 
-.. [#18] For the triads of the *Abhidhamma Mātikā*\  (Abhidhamma Schedule) see :ref:`Ch. XIII <XIII>` , n.
+.. [#18] For the triads of the *Abhidhamma Mātikā*\  (Abhidhamma Schedule) see :ref:`Ch. XIII, n.20 <XIII.n20>`.*“‘Those who hold’:* a reference to the inhabitants of the Abhayagiri Monastery at Anurādhapura. For they say that ascetic practice is a concept consisting in a name *(nāma-paññatti).* That being so, they could have no meaning of shaking off defilements, or possibility of being undertaken, because in the ultimate sense they would be non-existent [concepts having no existence]” ( [Vism-mhṭ]_  *87*\  ). Cf. :ref:`IV.29 <IV.29>`.
 
 
 .. _II.n19:
 
-.. [#19] *Āpajjati* (and its noun *āpatti)* is the normal word used for undesirable consequences that follow on some unsound logical proposition. See :ref:`XVI.68f. <XVI.68>`  This meaning is not in PED.
-    
-    20. *Idamatthitā—*\ ”that specific quality”: “Owing to these profitable states it exists, (thus it is ‘specific by those’; *imehi kusaladhammehi atthi = idam-atthi).* The knowledge by means of which one who has gone forth should be established in the refuse-rag-wearer’s practice, etc., and by means of which, on being so instructed one undertakes and persists in the ascetic qualities—that knowledge is *idamatthitā”* ( [Vism-mhṭ]_  *88*\  ).
+.. [#19] *Āpajjati* (and its noun *āpatti)* is the normal word used for undesirable consequences that follow on some unsound logical proposition. See :ref:`XVI.68f. <XVI.68>` This meaning is not in PED.
 
 
 .. _II.n20:
 
-.. [#20] *“‘Those who hold’:* a reference to the inhabitants of the Abhayagiri Monastery at Anurādhapura. For they say that ascetic practice is a concept consisting in a name *(nāma-paññatti).* That being so, they could have no meaning of shaking off defilements, or possibility of being undertaken, because in the ultimate sense they would be non-existent [concepts having no existence]” ( [Vism-mhṭ]_  *87*\  ). Cf. :ref:`IV.29 <IV.29>` .
+.. [#20] *Idamatthitā—*\ ”that specific quality”: “Owing to these profitable states it exists, (thus it is ‘specific by those’; *imehi kusaladhammehi atthi = idam-atthi).* The knowledge by means of which one who has gone forth should be established in the refuse-rag-wearer’s practice, etc., and by means of which, on being so instructed one undertakes and persists in the ascetic qualities—that knowledge is *idamatthitā”* ( [Vism-mhṭ]_  *88*\  ).
 
 
 .. _II.n21:
 
-.. [#21] See :ref:`XXI.117 <XXI.117>` .
+.. [#21] See :ref:`XXI.117 <XXI.117>`.

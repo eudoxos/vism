@@ -10,7 +10,7 @@ VIII. Other Recollections as Meditation Subjects
 
 .. _VIII.1:
 
-**§1** *[225/283]*  ``229``  Now comes the description of the development of mindfulness of death, which was listed next (:ref:`III.105 <III.105>` ).
+**§1** *[225/283]*  ``229``  Now comes the description of the development of mindfulness of death, which was listed next (:ref:`III.105 <III.105>`).
 
 *[Definitions]*\ 
 
@@ -309,7 +309,7 @@ But with the prevailing of anyone of them the life process is interrupted.
 
 And it occurs only when cold and heat are found occurring evenly. But it fails when a man is overcome by excessive cold or heat.
 
-And it occurs only when the four primary elements are found occurring evenly. But with the disturbance of the earth element even a strong man’s life can be terminated if his body becomes rigid, or with the disturbance of one of the elements beginning with water if his body becomes flaccid and petrified with a flux of the bowels, etc., or if he is consumed by a bad fever, or if he suffers a severing of his limb-joint ligatures (cf. :ref:`XI.102 <XI.102>` ).
+And it occurs only when the four primary elements are found occurring evenly. But with the disturbance of the earth element even a strong man’s life can be terminated if his body becomes rigid, or with the disturbance of one of the elements beginning with water if his body becomes flaccid and petrified with a flux of the bowels, etc., or if he is consumed by a bad fever, or if he suffers a severing of his limb-joint ligatures (cf. :ref:`XI.102 <XI.102>`).
 
 *[232/290]* And life occurs only in one who gets physical nutriment at the proper time; but if he gets none, he uses his life up.
 
@@ -403,7 +403,7 @@ This is how death should be recollected as to the limitedness of the extent.
 
 .. _VIII.40:
 
-**§40** So while he does his recollecting by means of one or other of these eight ways, his consciousness acquires [the support of] repetition owing to the reiterated attention, mindfulness settles down with death as its object, the hindrances are suppressed, and the jhāna factors make their appearance. But since the object is stated with individual essences, [#12]_  and since it awakens a sense of urgency, the jhāna does not reach absorption and is only access.  ``239``  Now, with special development, the supramundane jhāna and the second and the fourth immaterial jhānas reach absorption even with respect to states with individual essences. For the supramundane reaches absorption by means of *[236/294]* progressive development of the purification and the immaterial jhānas do so by means of development consisting in the surmounting of the object (see :ref:`Ch. X <X>` ) since there [in those two immaterial jhānas] there is merely the surmounting of the object of jhāna that had already reached absorption. But here [in mundane mindfulness of death] there is neither so the jhāna only reaches access. And that access is known as “mindfulness of death” too since it arises through its means.
+**§40** So while he does his recollecting by means of one or other of these eight ways, his consciousness acquires [the support of] repetition owing to the reiterated attention, mindfulness settles down with death as its object, the hindrances are suppressed, and the jhāna factors make their appearance. But since the object is stated with individual essences, [#12]_  and since it awakens a sense of urgency, the jhāna does not reach absorption and is only access.  ``239``  Now, with special development, the supramundane jhāna and the second and the fourth immaterial jhānas reach absorption even with respect to states with individual essences. For the supramundane reaches absorption by means of *[236/294]* progressive development of the purification and the immaterial jhānas do so by means of development consisting in the surmounting of the object (see :ref:`Ch. X <X>`) since there [in those two immaterial jhānas] there is merely the surmounting of the object of jhāna that had already reached absorption. But here [in mundane mindfulness of death] there is neither so the jhāna only reaches access. And that access is known as “mindfulness of death” too since it arises through its means.
 
 .. _VIII.41:
 
@@ -428,7 +428,7 @@ This is the section dealing with the recollection of death in the detailed expla
 
 .. _VIII.43:
 
-**§43** Herein, the three, that is to say, the sections on postures, on the four kinds of full awareness (see  [M-a]_  *I 253f.*\  ), and on attention directed to elements, as they are stated [in that sutta], deal with insight. Then the nine sections on the charnel-ground contemplations, as stated there, deal with that particular phase of insight knowledge called contemplation of danger. And any development of concentration in the bloated, etc., that might be implied there has already been explained in the Description of Foulness (:ref:`Ch. VI <VI>` ). So there are only the two, that is, the sections on breathing and on directing attention to repulsiveness, that, as stated there, deal with concentration. Of these two, the section on breathing is a separate meditation subject, namely, mindfulness of breathing.
+**§43** Herein, the three, that is to say, the sections on postures, on the four kinds of full awareness (see  [M-a]_  *I 253f.*\  ), and on attention directed to elements, as they are stated [in that sutta], deal with insight. Then the nine sections on the charnel-ground contemplations, as stated there, deal with that particular phase of insight knowledge called contemplation of danger. And any development of concentration in the bloated, etc., that might be implied there has already been explained in the Description of Foulness (:ref:`Ch. VI <VI>`). So there are only the two, that is, the sections on breathing and on directing attention to repulsiveness, that, as stated there, deal with concentration. Of these two, the section on breathing is a separate meditation subject, namely, mindfulness of breathing.
 
 *[Text]*\ 
 
@@ -460,7 +460,7 @@ This is the commentary on the word-construction here.
 
 .. _VIII.48:
 
-**§48** Now, a clansman who, as a beginner, wants to develop this meditation subject should go to a good friend of the kind already described (:ref:`III.61 <III.61>` –:ref:`73 <III.73>` ) and learn it. And the teacher who expounds it to him should tell him the sevenfold skill in learning and the tenfold skill in giving attention.
+**§48** Now, a clansman who, as a beginner, wants to develop this meditation subject should go to a good friend of the kind already described (:ref:`III.61 <III.61>`–:ref:`73 <III.73>`) and learn it. And the teacher who expounds it to him should tell him the sevenfold skill in learning and the tenfold skill in giving attention.
 
 *[The Sevenfold Skill in Learning]*\ 
 
@@ -520,7 +520,7 @@ part is established in this location.”
 
 .. _VIII.60:
 
-**§60** When the teacher tells the skill in learning in seven ways thus, he should do so knowing that in certain suttas this meditation subject is expounded from the point of view of repulsiveness and in certain suttas from the point of view of elements. For in the Mahā Satipaṭṭhāna Sutta (DN 22) it is expounded only as repulsiveness. In the Mahā Hatthipadopama Sutta (MN 28), in the Mahā *[240/298]* Rāhulovāda Sutta (MN 62), and the Dhātuvibhaṅga (MN 140, also  [Vibh]_  *82*\  ), it is expounded as elements. In the Kāyagatāsati Sutta (MN 119), however, four jhānas are expounded with reference to one to whom it has appeared as a colour [kasiṇa] (see :ref:`III.107 <III.107>` ). Herein, it is an insight meditation subject that is expounded as elements and a serenity meditation subject that is expounded as repulsiveness. Consequently it is only the serenity meditation subject [that is relevant] here.
+**§60** When the teacher tells the skill in learning in seven ways thus, he should do so knowing that in certain suttas this meditation subject is expounded from the point of view of repulsiveness and in certain suttas from the point of view of elements. For in the Mahā Satipaṭṭhāna Sutta (DN 22) it is expounded only as repulsiveness. In the Mahā Hatthipadopama Sutta (MN 28), in the Mahā *[240/298]* Rāhulovāda Sutta (MN 62), and the Dhātuvibhaṅga (MN 140, also  [Vibh]_  *82*\  ), it is expounded as elements. In the Kāyagatāsati Sutta (MN 119), however, four jhānas are expounded with reference to one to whom it has appeared as a colour [kasiṇa] (see :ref:`III.107 <III.107>`). Herein, it is an insight meditation subject that is expounded as elements and a serenity meditation subject that is expounded as repulsiveness. Consequently it is only the serenity meditation subject [that is relevant] here.
 
 *[The Tenfold Skill in Giving Attention]*\ 
 
@@ -594,7 +594,7 @@ part is established in this location.”
 
 .. _VIII.78:
 
-**§78** *10.*\  Skill in the enlightenment factors has already been dealt with in the explanation of skill in absorption (:ref:`IV.51 <IV.51>` , :ref:`57 <IV.57>` ) in the passage beginning, “Bhikkhus, when the mind is slack, that is not the time for developing the tranquillity enlightenment factor …” ( [S]_  *V 113*\  ).
+**§78** *10.*\  Skill in the enlightenment factors has already been dealt with in the explanation of skill in absorption (:ref:`IV.51 <IV.51>`, :ref:`57 <IV.57>`) in the passage beginning, “Bhikkhus, when the mind is slack, that is not the time for developing the tranquillity enlightenment factor …” ( [S]_  *V 113*\  ).
 
 .. _VIII.79:
 
@@ -606,7 +606,7 @@ part is established in this location.”
 
 **§80** If it is convenient for him to live in the same monastery as the teacher, then he need not get it explained in detail thus [to begin with], but as he applies himself to the meditation subject after he has made quite sure about it he can have each successive stage explained as he reaches each distinction.
 
-One who wants to live elsewhere, however, must get it explained to him in detail in the way already given, and he must turn it over and over, getting all the difficulties solved. He should leave an abode of an unsuitable kind as described in the Description of the Earth Kasiṇa, and go to live in a suitable one. Then he should sever the minor impediments (:ref:`IV.20 <IV.20>` ) and set about the preliminary work for giving attention to repulsiveness.
+One who wants to live elsewhere, however, must get it explained to him in detail in the way already given, and he must turn it over and over, getting all the difficulties solved. He should leave an abode of an unsuitable kind as described in the Description of the Earth Kasiṇa, and go to live in a suitable one. Then he should sever the minor impediments (:ref:`IV.20 <IV.20>`) and set about the preliminary work for giving attention to repulsiveness.
 
 *[244/302]* *[The Thirty-two Aspects in Detail]*\ 
 
@@ -922,7 +922,7 @@ One who wants to live elsewhere, however, must get it explained to him in detail
 
 **§141** Then, as he gives his attention to them again and again as “Repulsive, repulsive,” employing the process of “successive leaving,” etc. (§67), eventually absorption arises in him. Herein, the appearance of the head hairs, etc., as to colour, shape, direction, location, and delimitation is the learning sign; their appearance as repulsive in all aspects is the counterpart sign.
 
-As he cultivates and develops that counterpart sign, absorption arises in him, but only of the first jhāna, in the same way as described under foulness as a meditation subject (:ref:`VI.64f. <VI.64>` ). And it arises singly in one to whom only one part has become evident, or who has reached absorption in one part and makes no further effort about another.
+As he cultivates and develops that counterpart sign, absorption arises in him, but only of the first jhāna, in the same way as described under foulness as a meditation subject (:ref:`VI.64f. <VI.64>`). And it arises singly in one to whom only one part has become evident, or who has reached absorption in one part and makes no further effort about another.
 
 .. _VIII.142:
 
@@ -1021,7 +1021,7 @@ This is how an abode is favourable to his development. Hence it was said above: 
 
 .. _VIII.155:
 
-**§155** Or alternatively, this mindfulness of breathing as a meditation subject—which is foremost among the various meditation subjects of all Buddhas, [some] Paccekabuddhas and [some] Buddhas’ disciples as a basis for attaining distinction and abiding in bliss here and now—is not easy to develop without leaving the neighbourhood of villages, which resound with the noises of women, men, elephants, horses, etc., noise being a thorn to jhāna (see  [A]_  *V 135*\  ), whereas in the forest away from a village a meditator can at his ease set about discerning this meditation subject and achieve the fourth jhāna in mindfulness of breathing; and then, by making that same jhāna the basis for comprehension of formations [with insight] (:ref:`XX.2f. <XX.2>` ), he can reach Arahantship, the highest fruit. That is why the Blessed One said “gone to the forest,” etc., in pointing out a favourable abode for him.
+**§155** Or alternatively, this mindfulness of breathing as a meditation subject—which is foremost among the various meditation subjects of all Buddhas, [some] Paccekabuddhas and [some] Buddhas’ disciples as a basis for attaining distinction and abiding in bliss here and now—is not easy to develop without leaving the neighbourhood of villages, which resound with the noises of women, men, elephants, horses, etc., noise being a thorn to jhāna (see  [A]_  *V 135*\  ), whereas in the forest away from a village a meditator can at his ease set about discerning this meditation subject and achieve the fourth jhāna in mindfulness of breathing; and then, by making that same jhāna the basis for comprehension of formations [with insight] (:ref:`XX.2f. <XX.2>`), he can reach Arahantship, the highest fruit. That is why the Blessed One said “gone to the forest,” etc., in pointing out a favourable abode for him.
 
 .. _VIII.156:
 
@@ -1395,27 +1395,27 @@ However, when it becomes unmanifest in this way, the bhikkhu should not get up f
 
 .. _VIII.221:
 
-**§221** Then he should not give attention to the sign as to its colour, or review it as to its [specific] characteristic. He should guard it as carefully as a king’s chief queen guards the child in her womb due to become a Wheel-turning Monarch, [#62]_  or as a farmer guards the ripening crops; and he should avoid the seven unsuitable things beginning with the unsuitable abode and cultivate the seven suitable things. Then, guarding it thus, he should make it grow and improve with repeated attention, and he should practice the tenfold skill in absorption (:ref:`IV.42 <IV.42>` ) and bring about evenness of energy (:ref:`IV.66 <IV.66>` ).
+**§221** Then he should not give attention to the sign as to its colour, or review it as to its [specific] characteristic. He should guard it as carefully as a king’s chief queen guards the child in her womb due to become a Wheel-turning Monarch, [#62]_  or as a farmer guards the ripening crops; and he should avoid the seven unsuitable things beginning with the unsuitable abode and cultivate the seven suitable things. Then, guarding it thus, he should make it grow and improve with repeated attention, and he should practice the tenfold skill in absorption (:ref:`IV.42 <IV.42>`) and bring about evenness of energy (:ref:`IV.66 <IV.66>`).
 
 .. _VIII.222:
 
 **§222** As he strives thus, fourfold and fivefold jhāna is achieved by him on that same sign in the same way as described under the earth kasiṇa.
 
-*5–8.*\  (See §189) However, when a bhikkhu has achieved the fourfold and fivefold jhāna and wants to reach purity by developing the meditation subject through *observing* and through *turning away*\ , he should make that jhāna familiar by attaining mastery in it in the five ways (:ref:`IV.131 <IV.131>` ), and then embark upon insight by defining mentality-materiality. How?
+*5–8.*\  (See §189) However, when a bhikkhu has achieved the fourfold and fivefold jhāna and wants to reach purity by developing the meditation subject through *observing* and through *turning away*\ , he should make that jhāna familiar by attaining mastery in it in the five ways (:ref:`IV.131 <IV.131>`), and then embark upon insight by defining mentality-materiality. How?
 
 .. _VIII.223:
 
 **§223** On emerging from the attainment,  ``287``  he sees that the in-breaths and out-breaths have the physical body and the mind as their origin; and that just as, when a blacksmith’s bellows are being blown, the wind moves owing to the bag and to the man’s appropriate effort, so too, in-breaths and out-breaths are due to the body and the mind.
 
-Next, he defines the in-breaths and out-breaths and the body as “materiality,” and the consciousness and the states associated with the consciousness as “the immaterial [mind].” This is in brief (cf.  [M-a]_  *I 249*\  ); but the details will be explained later in the defining of mentality-materiality (:ref:`XVIII.3f. <XVIII.3>` ).
+Next, he defines the in-breaths and out-breaths and the body as “materiality,” and the consciousness and the states associated with the consciousness as “the immaterial [mind].” This is in brief (cf.  [M-a]_  *I 249*\  ); but the details will be explained later in the defining of mentality-materiality (:ref:`XVIII.3f. <XVIII.3>`).
 
 .. _VIII.224:
 
-**§224** Having defined mentality-materiality in this way, he seeks its condition. With search he finds it, and so overcomes his doubts about the way of mentality-materiality’s occurrence in the three divisions of time (:ref:`Ch. XIX <XIX>` ).
+**§224** Having defined mentality-materiality in this way, he seeks its condition. With search he finds it, and so overcomes his doubts about the way of mentality-materiality’s occurrence in the three divisions of time (:ref:`Ch. XIX <XIX>`).
 
-His doubts being overcome, he attributes the three characteristics [beginning with that of suffering to mentality and materiality], comprehending [them] by groups (:ref:`XX.2f. <XX.2>` ); he abandons the ten imperfections of insight beginning with illumination, which arise in the first stages of the contemplation of rise and fall (:ref:`XX.105f. <XX.105>` ), and he defines as “the path” the knowledge of the way that is free from these imperfections (:ref:`XX.126f. <XX.126>` ).
+His doubts being overcome, he attributes the three characteristics [beginning with that of suffering to mentality and materiality], comprehending [them] by groups (:ref:`XX.2f. <XX.2>`); he abandons the ten imperfections of insight beginning with illumination, which arise in the first stages of the contemplation of rise and fall (:ref:`XX.105f. <XX.105>`), and he defines as “the path” the knowledge of the way that is free from these imperfections (:ref:`XX.126f. <XX.126>`).
 
-He reaches contemplation of dissolution by abandoning [attention to] arising. When all formations have appeared as terror owing to the contemplation of their incessant dissolution, he becomes dispassionate towards them (:ref:`Ch. XXI <XXI>` ), his greed for them fades away, and he is liberated from them (Ch. XXII). *[280/338]* After he has [thus] reached the four noble paths in due succession and has become established in the fruition of Arahantship, he at last attains to the nineteen kinds of reviewing knowledge (:ref:`XXII.19f. <XXII.19>` ), and he becomes fit to receive the highest gifts from the world with its deities.
+He reaches contemplation of dissolution by abandoning [attention to] arising. When all formations have appeared as terror owing to the contemplation of their incessant dissolution, he becomes dispassionate towards them (:ref:`Ch. XXI <XXI>`), his greed for them fades away, and he is liberated from them (Ch. XXII). *[280/338]* After he has [thus] reached the four noble paths in due succession and has become established in the fruition of Arahantship, he at last attains to the nineteen kinds of reviewing knowledge (:ref:`XXII.19f. <XXII.19>`), and he becomes fit to receive the highest gifts from the world with its deities.
 
 .. _VIII.225:
 
@@ -1487,7 +1487,7 @@ Herein, the five aggregates are *the impermanent*\ . Why? Because their essence 
 
 .. _VIII.236:
 
-**§236** (xvi) *Contemplating relinquishment*\ : relinquishment is of two kinds too, that is to say, relinquishment as giving up, and relinquishment as entering into. Relinquishment itself as [a way of] contemplation is “contemplation of relinquishment.” For insight is called both “relinquishment as giving up” and “relinquishment as entering into” since [firstly], through substitution of opposite qualities, it gives up defilements with their aggregate-producing kamma formations, and [secondly], through seeing the wretchedness of what is formed, it also enters into Nibbāna by inclining towards Nibbāna, which is the opposite of the formed (:ref:`XI.18 <XI.18>` ). Also the path is called both “relinquishment as giving up” and “relinquishment as entering into” since it gives up defilements with their aggregate-producing kamma-formations by cutting them off, and it enters into Nibbāna by making it its object. Also both [insight and path knowledge] are called contemplation (*anupassanā*\ ) because of their re-seeing successively (*anu anu passanā*\ ) each preceding kind of knowledge. [#68]_   ``291``  It is when he possesses *[285/343]* this twofold contemplation that it can be understood of him: “He trains thus: ‘I shall breathe in … shall breathe out contemplating relinquishment.’”
+**§236** (xvi) *Contemplating relinquishment*\ : relinquishment is of two kinds too, that is to say, relinquishment as giving up, and relinquishment as entering into. Relinquishment itself as [a way of] contemplation is “contemplation of relinquishment.” For insight is called both “relinquishment as giving up” and “relinquishment as entering into” since [firstly], through substitution of opposite qualities, it gives up defilements with their aggregate-producing kamma formations, and [secondly], through seeing the wretchedness of what is formed, it also enters into Nibbāna by inclining towards Nibbāna, which is the opposite of the formed (:ref:`XI.18 <XI.18>`). Also the path is called both “relinquishment as giving up” and “relinquishment as entering into” since it gives up defilements with their aggregate-producing kamma-formations by cutting them off, and it enters into Nibbāna by making it its object. Also both [insight and path knowledge] are called contemplation (*anupassanā*\ ) because of their re-seeing successively (*anu anu passanā*\ ) each preceding kind of knowledge. [#68]_   ``291``  It is when he possesses *[285/343]* this twofold contemplation that it can be understood of him: “He trains thus: ‘I shall breathe in … shall breathe out contemplating relinquishment.’”
 
 .. _VIII.237:
 
@@ -1540,7 +1540,7 @@ This is the section dealing with mindfulness of breathing in the detailed explan
 
 .. _VIII.245:
 
-**§245** One who wants to develop the recollection of peace mentioned next to mindfulness of breathing (:ref:`III.105 <III.105>` ) should go into solitary retreat and recollect the special qualities of Nibbāna, in other words, the stilling of all suffering, as follows: *[287/345]* “Bhikkhus, in so far as there are dhammas, whether formed or unformed, fading away is pronounced the best of them, that is to say, the disillusionment of vanity, the elimination of thirst, the abolition of reliance, the termination of the round, the destruction of craving, fading away, cessation, Nibbāna” ( [A]_  *II 34*\  ).
+**§245** One who wants to develop the recollection of peace mentioned next to mindfulness of breathing (:ref:`III.105 <III.105>`) should go into solitary retreat and recollect the special qualities of Nibbāna, in other words, the stilling of all suffering, as follows: *[287/345]* “Bhikkhus, in so far as there are dhammas, whether formed or unformed, fading away is pronounced the best of them, that is to say, the disillusionment of vanity, the elimination of thirst, the abolition of reliance, the termination of the round, the destruction of craving, fading away, cessation, Nibbāna” ( [A]_  *II 34*\  ).
 
 .. _VIII.246:
 
@@ -1556,7 +1556,7 @@ This is the section dealing with mindfulness of breathing in the detailed explan
 
 .. _VIII.249:
 
-**§249** As he recollects peace in its special qualities of disillusionment of vanity, etc., in this way, then: “On that occasion his mind is not obsessed by greed or obsessed by hate or obsessed by delusion; his mind has rectitude on that occasion, being inspired by peace” (see :ref:`VII.65 <VII.65>` , etc.). So when he has suppressed the hindrances in the way already described under the recollection of the Enlightened One, etc., the jhāna factors arise in a single moment. But owing to the profundity of the special qualities of peace, or owing to his being occupied in recollecting special qualities of various kinds, the jhāna is only access and does not reach absorption. And that jhāna itself is known as “recollection of peace” too because it arises by means of the special qualities of peace.
+**§249** As he recollects peace in its special qualities of disillusionment of vanity, etc., in this way, then: “On that occasion his mind is not obsessed by greed or obsessed by hate or obsessed by delusion; his mind has rectitude on that occasion, being inspired by peace” (see :ref:`VII.65 <VII.65>`, etc.). So when he has suppressed the hindrances in the way already described under the recollection of the Enlightened One, etc., the jhāna factors arise in a single moment. But owing to the profundity of the special qualities of peace, or owing to his being occupied in recollecting special qualities of various kinds, the jhāna is only access and does not reach absorption. And that jhāna itself is known as “recollection of peace” too because it arises by means of the special qualities of peace.
 
 .. _VIII.250:
 
@@ -1609,7 +1609,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n6:
 
-.. [#6] The references for the names here and in the following paragraphs are: Mahāsammata ( [J-a]_  *III 454*\  ; II 311), Mandhātu ( [J-a]_  *II 311*\  ), Mahāsudassana ( [D]_  *II 169f.*\  ), Daḷhanemi ( [D]_  *III 59f.*\  ), Nimi ( [J-a]_  *VI 96f.*\  ), Jotika (Vism :ref:`XII.41 <XII.41>` ), Jaṭila (:ref:`XII.41 <XII.41>` ), Ugga ( [A-a]_  *I 394*\  ), Meṇḍaka (:ref:`XII.41f. <XII.41>` ), Puṇṇaka (:ref:`XII.42 <XII.42>` ), Vāsudeva ( [J-a]_  *IV 81f.*\  ), Baladeva ( [J-a]_  *IV 81f.*\  ), Bhīmasena ( [J-a]_  *V 426*\  ), Yuddhiṭṭhila ( [J-a]_  *V 426*\  ), Cāṇura ( [J-a]_  *IV 81*\  ).
+.. [#6] The references for the names here and in the following paragraphs are: Mahāsammata ( [J-a]_  *III 454*\  ; II 311), Mandhātu ( [J-a]_  *II 311*\  ), Mahāsudassana ( [D]_  *II 169f.*\  ), Daḷhanemi ( [D]_  *III 59f.*\  ), Nimi ( [J-a]_  *VI 96f.*\  ), Jotika (Vism :ref:`XII.41 <XII.41>`), Jaṭila (:ref:`XII.41 <XII.41>`), Ugga ( [A-a]_  *I 394*\  ), Meṇḍaka (:ref:`XII.41f. <XII.41>`), Puṇṇaka (:ref:`XII.42 <XII.42>`), Vāsudeva ( [J-a]_  *IV 81f.*\  ), Baladeva ( [J-a]_  *IV 81f.*\  ), Bhīmasena ( [J-a]_  *V 426*\  ), Yuddhiṭṭhila ( [J-a]_  *V 426*\  ), Cāṇura ( [J-a]_  *IV 81*\  ).
 
 
 .. _VIII.n7:
@@ -1634,7 +1634,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n11:
 
-.. [#11] “‘Person’ (*atta-bhāva*\ ) is the states other than the already-mentioned life, feeling and consciousness. The words ‘*just these alone*\ ’ mean that it is unmixed with self (*attā*\ ) or permanence” ( [Vism-mhṭ]_  *242*\  ). *Atta-bhāva*\  as used in the Suttas and in this work is more or less a synonym for *sakkāya*\  in the sense of person (body and mind) or personality, or individual form. See Piṭaka refs. in PED and e.g. this chapter §35 and :ref:`XI.54 <XI.54>` .
+.. [#11] “‘Person’ (*atta-bhāva*\ ) is the states other than the already-mentioned life, feeling and consciousness. The words ‘*just these alone*\ ’ mean that it is unmixed with self (*attā*\ ) or permanence” ( [Vism-mhṭ]_  *242*\  ). *Atta-bhāva*\  as used in the Suttas and in this work is more or less a synonym for *sakkāya*\  in the sense of person (body and mind) or personality, or individual form. See Piṭaka refs. in PED and e.g. this chapter §35 and :ref:`XI.54 <XI.54>`.
     
     “‘*When consciousness dissolves, the world is dead*\ ”: just as in the case of the death-consciousness, this world is also called ‘dead’ in the highest (ultimate) sense with the arrival of any consciousness whatever at its dissolution, since its cessation has no rebirth-linking (is ‘cessation never to return’). Nevertheless, though this is so, ‘*the highest sense this concept will allow*\  (*paññatti paramatthiyā*\ )’—the ultimate sense will allow this concept of continuity, which is what the expression of common usage ‘Tissa lives, Phussa lives’ refers to, and which is based on consciousnesses [momentarily] existing along with a physical support; this belongs to the ultimate sense here, since, as they say, ‘It is not the name and surname that lives.’” ( [Vism-mhṭ]_  *242*\  , 801)
     
@@ -1651,7 +1651,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n12:
 
-.. [#12] “‘But since the object is stated with individual essences’: the breakup of states with individual essences, their destruction, their fall—[all] that has to do only with states with individual essences. Hence the Blessed One said: ‘Bhikkhus, aging-and-death is impermanent, formed, dependently arisen’ ( [S]_  *II 26*\  ). … If it cannot reach absorption because of [its object being] states with individual essences then what about the supramundane jhānas and certain of the immaterial jhānas? It was to answer this that he said ‘now with special development the supramundane jhāna’ and so on” ( [Vism-mhṭ]_  *243*\  ). Kasiṇa jhāna, for example, has a concept (*paññatti*\ ) as its object (:ref:`IV.29 <IV.29>` ) and a concept is a dhamma without individual essence (*asabhāva-dhamma*\ ).
+.. [#12] “‘But since the object is stated with individual essences’: the breakup of states with individual essences, their destruction, their fall—[all] that has to do only with states with individual essences. Hence the Blessed One said: ‘Bhikkhus, aging-and-death is impermanent, formed, dependently arisen’ ( [S]_  *II 26*\  ). … If it cannot reach absorption because of [its object being] states with individual essences then what about the supramundane jhānas and certain of the immaterial jhānas? It was to answer this that he said ‘now with special development the supramundane jhāna’ and so on” ( [Vism-mhṭ]_  *243*\  ). Kasiṇa jhāna, for example, has a concept (*paññatti*\ ) as its object (:ref:`IV.29 <IV.29>`) and a concept is a dhamma without individual essence (*asabhāva-dhamma*\ ).
 
 
 .. _VIII.n13:
@@ -1696,7 +1696,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n21:
 
-.. [#21] “*Galavāṭaka*\ ,” here rendered by “nape of the neck,” which the context demands. But elsewhere (e.g. :ref:`IV.47 <IV.47>` , :ref:`VIII.110 <VIII.110>` ) “base of the neck” seems indicated, that is, where the neck fits on to the body, or “gullet.”
+.. [#21] “*Galavāṭaka*\ ,” here rendered by “nape of the neck,” which the context demands. But elsewhere (e.g. :ref:`IV.47 <IV.47>`, :ref:`VIII.110 <VIII.110>`) “base of the neck” seems indicated, that is, where the neck fits on to the body, or “gullet.”
 
 
 .. _VIII.n22:
@@ -1736,7 +1736,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n29:
 
-.. [#29] *Obhagga—*\ “looped”: not in this sense in PED; see *obhañjati*\  (:ref:`XI.64 <XI.64>`  and PED).
+.. [#29] *Obhagga—*\ “looped”: not in this sense in PED; see *obhañjati*\  (:ref:`XI.64 <XI.64>` and PED).
 
 
 .. _VIII.n30:
@@ -1756,7 +1756,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n33:
 
-.. [#33] *Kuṇapa—*\ “ordure”; PED only gives the meaning “corpse,” which does not fit the meaning either here or, e.g., at :ref:`XI.21 <XI.21>` , where the sense of a dead body is inappropriate.
+.. [#33] *Kuṇapa—*\ “ordure”; PED only gives the meaning “corpse,” which does not fit the meaning either here or, e.g., at :ref:`XI.21 <XI.21>`, where the sense of a dead body is inappropriate.
 
 
 .. _VIII.n34:
@@ -1766,7 +1766,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n35:
 
-.. [#35] *Upādiṇṇa—*\ “clung-to”: see :ref:`Ch. XIV, note 23 <XIV.n23>` .
+.. [#35] *Upādiṇṇa—*\ “clung-to”: see :ref:`Ch. XIV, note 23 <XIV.n23>`.
 
 
 .. _VIII.n36:
@@ -1816,7 +1816,7 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n45:
 
-.. [#45] “‘Regarded as particles’: as a number of groups (*kalāpa*\ )” ( [Vism-mhṭ]_  *259*\  ). This conception of the occurrence of breaths is based on the theory of motion as “successive arisings in adjacent locations” (*desantaruppatti*\ ); see note 54 below. For “groups” see :ref:`XX.2f. <XX.2>` 
+.. [#45] “‘Regarded as particles’: as a number of groups (*kalāpa*\ )” ( [Vism-mhṭ]_  *259*\  ). This conception of the occurrence of breaths is based on the theory of motion as “successive arisings in adjacent locations” (*desantaruppatti*\ ); see note 54 below. For “groups” see :ref:`XX.2f. <XX.2>`
 
 
 .. _VIII.n46:
@@ -1938,11 +1938,11 @@ The eighth chapter called “The Description of Recollections as Meditation Subj
 
 .. _VIII.n69:
 
-.. [#69] “In such passages as ‘Dhammas that are concepts’ ( [Dhs]_  *p. 1*\  , §1308) even a non-entity (*abhāva*\ ) is thus called a ‘dhamma’ since it is borne (*dhārīyati*\ ) and affirmed (*avadhārīyati*\ ) by knowledge. That kind of dhamma is excluded by his saying, *‘Dhammas [means] individual essences.’*\  The act of becoming (*bhavana*\ ), which constitutes existingness (*vijjamānatā*\ ) in the ultimate sense, is essence (*bhāva*\ ); it is with essence (*saha bhāvena*\ ), thus it is an individual essence (*sabhāva*\ ); the meaning is that it is possible (*labbhamānarūpa*\ ) in the true sense, in the ultimate sense. For these are called ‘dhammas (bearers)’ because they bear (*dhāraṇa*\ ) their own individual essences (*sabhāva*\ ), and they are called ‘individual essences’ in the sense already explained” ( [Vism-mhṭ]_  *282*\  ; cf. :ref:`Ch. VII, n. 1 <VII.n1>` ).
+.. [#69] “In such passages as ‘Dhammas that are concepts’ ( [Dhs]_  *p. 1*\  , §1308) even a non-entity (*abhāva*\ ) is thus called a ‘dhamma’ since it is borne (*dhārīyati*\ ) and affirmed (*avadhārīyati*\ ) by knowledge. That kind of dhamma is excluded by his saying, *‘Dhammas [means] individual essences.’*\  The act of becoming (*bhavana*\ ), which constitutes existingness (*vijjamānatā*\ ) in the ultimate sense, is essence (*bhāva*\ ); it is with essence (*saha bhāvena*\ ), thus it is an individual essence (*sabhāva*\ ); the meaning is that it is possible (*labbhamānarūpa*\ ) in the true sense, in the ultimate sense. For these are called ‘dhammas (bearers)’ because they bear (*dhāraṇa*\ ) their own individual essences (*sabhāva*\ ), and they are called ‘individual essences’ in the sense already explained” ( [Vism-mhṭ]_  *282*\  ; cf. :ref:`Ch. VII, n. 1 <VII.n1>`).
     
-    In the Piṭakas the word *sabhāva*\  seems to appear only once ( [Paṭis]_  *II 178*\  ). It next appears in the  [Netti]_  *(p.79)*\  , the *Milindapañhā*\  (pp. 90, 164, 212, 360). It is extensively used for exegetical purposes in the *Visuddhimagga*\  and main commentaries and likewise in the subcommentaries. As has just been shown, it is narrower than dhamma (see also :ref:`Ch. XXIII <XXIII>` . n. 18). It often roughly corresponds to *dhātu*\  (element—see e.g.  [Dhs-a]_  *263*\  ) and to *lakkhaṇa*\  (characteristic—see below), but less nearly to the vaguer and (in Pali) untechnical *pakati*\  (nature), or to *rasa*\  (function—see :ref:`I.21 <I.21>` ). The *Atthasālinī* observes: “It is the individual essence, or the generality, of such and such dhammas that is called their characteristic” ( [Dhs-a]_  *63*\  ); on which the *Mūla Ṭīkā*\  comments: “The *individual essence*\  consisting in, say, hardness as that of earth, or touching as that of contact, is not common to all dhammas. The *generality*\  is the individual essence common to all consisting in impermanence, etc.; also in this context (i.e.  [Dhs]_  *§1*\  ) the characteristic of being profitable may be regarded as general because it is the individual *essence* common to all that is profitable; or alternatively it is their individual *essence*\  because it is not common to the unprofitable and indeterminate [kinds of consciousness]” ( [Dhs]_  -a 63). The individual *essence*\  of any formed dhamma is manifested in the three instants of its existence (*atthitā, vijjamānatā*\ ), namely, arising, presence (= aging) and dissolution. It comes from nowhere and goes nowhere (:ref:`XV.15 <XV.15>` ) and is borne by the mind. Dhammas without individual essence (*asabhāvadhamma*\ ) include the attainment of cessation (see :ref:`Ch. XXIII, n. 18 <XXIII.n18>` ) and some concepts. Space and time belong to the last-mentioned. Of space (*ākāsa*\ ) the *Majjhima Nikāya Ṭīkā*\  says: “Space, which is quite devoid of individual essence, is called empty” (commenting on MN 106), while of time (*kāla*\ ) the *Mūla Ṭīkā* says: “Though time is determined by the kind of consciousness [e.g. as specified in the first paragraph of the Dhammasaṅgaṇī] and is non-existent (*avijjamāna*\ ) as to individual essence, yet as the non-entity (*abhāva*\ ) before and after the moment in which those [conascent and co-present] dhammas occur, it is called the ‘container (*adhikaraṇa*\ )’; it is perceived (symbolized) only as the state of a receptacle (*ādhāra-bhāva*\ ) ( [Dhs-a]_  *62*\  ). Of Nibbāna (for which see :ref:`XVI.46ff. <XVI.46>` ), which has its own individual essence, the *Mūla Ṭīkā*\  says “Nibbāna is not like other dhammas; because of its extreme profundity it cannot be made an object of consciousness (*ālambituṃ*\ ) by one who has not realized it. That is why it has to be realized by change-of-lineage. It has profundity surpassing any individual essence belonging to the three periods of time” ( [Vibh-a]_  *38*\  ).
+    In the Piṭakas the word *sabhāva*\  seems to appear only once ( [Paṭis]_  *II 178*\  ). It next appears in the  [Netti]_  *(p.79)*\  , the *Milindapañhā*\  (pp. 90, 164, 212, 360). It is extensively used for exegetical purposes in the *Visuddhimagga*\  and main commentaries and likewise in the subcommentaries. As has just been shown, it is narrower than dhamma (see also :ref:`Ch. XXIII <XXIII>`. n. 18). It often roughly corresponds to *dhātu*\  (element—see e.g.  [Dhs-a]_  *263*\  ) and to *lakkhaṇa*\  (characteristic—see below), but less nearly to the vaguer and (in Pali) untechnical *pakati*\  (nature), or to *rasa*\  (function—see :ref:`I.21 <I.21>`). The *Atthasālinī* observes: “It is the individual essence, or the generality, of such and such dhammas that is called their characteristic” ( [Dhs-a]_  *63*\  ); on which the *Mūla Ṭīkā*\  comments: “The *individual essence*\  consisting in, say, hardness as that of earth, or touching as that of contact, is not common to all dhammas. The *generality*\  is the individual essence common to all consisting in impermanence, etc.; also in this context (i.e.  [Dhs]_  *§1*\  ) the characteristic of being profitable may be regarded as general because it is the individual *essence* common to all that is profitable; or alternatively it is their individual *essence*\  because it is not common to the unprofitable and indeterminate [kinds of consciousness]” ( [Dhs-a]_  *63*\  ). The individual *essence*\  of any formed dhamma is manifested in the three instants of its existence (*atthitā, vijjamānatā*\ ), namely, arising, presence (= aging) and dissolution. It comes from nowhere and goes nowhere (:ref:`XV.15 <XV.15>`) and is borne by the mind. Dhammas without individual essence (*asabhāvadhamma*\ ) include the attainment of cessation (see :ref:`Ch. XXIII, n. 18 <XXIII.n18>`) and some concepts. Space and time belong to the last-mentioned. Of space (*ākāsa*\ ) the *Majjhima Nikāya Ṭīkā*\  says: “Space, which is quite devoid of individual essence, is called empty” (commenting on MN 106), while of time (*kāla*\ ) the *Mūla Ṭīkā* says: “Though time is determined by the kind of consciousness [e.g. as specified in the first paragraph of the Dhammasaṅgaṇī] and is non-existent (*avijjamāna*\ ) as to individual essence, yet as the non-entity (*abhāva*\ ) before and after the moment in which those [conascent and co-present] dhammas occur, it is called the ‘container (*adhikaraṇa*\ )’; it is perceived (symbolized) only as the state of a receptacle (*ādhāra-bhāva*\ ) ( [Dhs-a]_  *62*\  ). Of Nibbāna (for which see :ref:`XVI.46ff. <XVI.46>`), which has its own individual essence, the *Mūla Ṭīkā*\  says “Nibbāna is not like other dhammas; because of its extreme profundity it cannot be made an object of consciousness (*ālambituṃ*\ ) by one who has not realized it. That is why it has to be realized by change-of-lineage. It has profundity surpassing any individual essence belonging to the three periods of time” ( [Vibh-a]_  *38*\  ).
     
-    *Sabhāva*\  has not the extreme vagueness of its parent *bhāva,*\  which can mean anything between “essence” (see e.g.  [Dhs-a]_  *61*\  ) and “-ness” (e.g. *natthibhāva*\  = non-existingness—:ref:`X.35 <X.35>` ). This may be remembered when *sabhāva*\  is defined as above thus: “It is with essence (*sahabhāvena*\ ), thus it is individual essence (*sabhāva*\ )” ( [Vism-mhṭ]_  *282*\  ), and when it is defined again thus: “A dhamma’s own essence or its existing essence (*sako vā bhāvo samāno vā bhāvo*\ ) is its individual essence (*sabhāva*\ )” ( [Vism-mhṭ]_  *433*\  ). *Sabhāva* can also be the basis of a wrong view, if regarded as the sole efficient cause or condition of any formed thing (:ref:`Ch. XVI, n.23 <XVI.n23>` ). The Sanskrit equivalent, *svabhāva*\ , had a great vogue and checkered history in philosophical discussions on the Indian mainland.
+    *Sabhāva*\  has not the extreme vagueness of its parent *bhāva,*\  which can mean anything between “essence” (see e.g.  [Dhs-a]_  *61*\  ) and “-ness” (e.g. *natthibhāva*\  = non-existingness—:ref:`X.35 <X.35>`). This may be remembered when *sabhāva*\  is defined as above thus: “It is with essence (*sahabhāvena*\ ), thus it is individual essence (*sabhāva*\ )” ( [Vism-mhṭ]_  *282*\  ), and when it is defined again thus: “A dhamma’s own essence or its existing essence (*sako vā bhāvo samāno vā bhāvo*\ ) is its individual essence (*sabhāva*\ )” ( [Vism-mhṭ]_  *433*\  ). *Sabhāva* can also be the basis of a wrong view, if regarded as the sole efficient cause or condition of any formed thing (:ref:`Ch. XVI, n.23 <XVI.n23>`). The Sanskrit equivalent, *svabhāva*\ , had a great vogue and checkered history in philosophical discussions on the Indian mainland.
     
     This (unlike the word, *dhamma,*\  which has many “referents”) is an instance in which it is of first importance to stick to one rendering. The word is a purely exegetical one; consequently vagueness is undesirable. “Individual essence” has been chosen principally on etymological grounds, and the word “essence” (an admittedly slippery customer) must be understood from the contexts in which it is used and not prejudged. Strictly it refers here to the triple moment of arising etc., of formed dhammas that can have such “existence” in their own right and be experienced as such; and it refers to the realizability of Nibbāna. We are here in the somewhat magical territory of ontology, a subject that is at present undergoing one of its periodical upheavals in Europe, this time in the hands of the existentialists. Consequently it is important to approach the subject with an open mind.
 

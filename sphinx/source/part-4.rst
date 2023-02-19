@@ -1,5 +1,7 @@
 
 
+.. _part-III:
+
 Part III. Understanding (*Paññā*\ )
 ***********************************
 

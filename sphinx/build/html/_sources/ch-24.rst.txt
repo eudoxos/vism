@@ -25,7 +25,7 @@ The First Path—First Noble Person
 
 .. _XXII.4:
 
-**§4** As soon as conformity knowledge has arisen in him in this way, and the thick murk that hides the truths has been dispelled by the respective force peculiar to each of the three kinds of conformity (see :ref:`XXI.129f. <XXI.129>` ), then his consciousness no longer enters into or settles down on or resolves upon any field of formations at all, or clings, cleaves or clutches on to it, but retreats, retracts and recoils as water does from a lotus leaf, and every sign as object, every occurrence as object, appears as an impediment.
+**§4** As soon as conformity knowledge has arisen in him in this way, and the thick murk that hides the truths has been dispelled by the respective force peculiar to each of the three kinds of conformity (see :ref:`XXI.129f. <XXI.129>`), then his consciousness no longer enters into or settles down on or resolves upon any field of formations at all, or clings, cleaves or clutches on to it, but retreats, retracts and recoils as water does from a lotus leaf, and every sign as object, every occurrence as object, appears as an impediment.
 
 .. _XXII.5:
 
@@ -92,7 +92,7 @@ The First Fruition—Second Noble Person
 
 .. _XXII.17:
 
-**§17** Then some say that which has four conformities and change-of-lineage as fifth and path consciousness as sixth has one fruition consciousness. But that is refuted because it is the fourth or fifth [impulsion] that reaches [the path], not those after that, owing to their nearness to the life-continuum (see :ref:`IV.75 <IV.75>` ). So that cannot be accepted as correct.  ``676`` 
+**§17** Then some say that which has four conformities and change-of-lineage as fifth and path consciousness as sixth has one fruition consciousness. But that is refuted because it is the fourth or fifth [impulsion] that reaches [the path], not those after that, owing to their nearness to the life-continuum (see :ref:`IV.75 <IV.75>`). So that cannot be accepted as correct.  ``676`` 
 
 .. _XXII.18:
 
@@ -209,7 +209,7 @@ As stated when truths are penetrated to,
 
 .. _XXII.36:
 
-**§36** Power (*iddhi*\ ) is in the sense of success (*ijjhana*\ ) as already described (:ref:`XII.44 <XII.44>` ). It is the road (basis—*pāda*\ ) to that power (for that success—*iddhi*\ ) in the sense of being the precursor of that success which is associated with it and in the sense of being the prior cause of that success which is its fruit, thus it is a road to power (basis for success). It is fourfold as zeal (desire), and so on. That is why “four roads to power” are spoken of, according as it is said: “Four roads to power: the road to power consisting in zeal, the road to power consisting in energy, the road to power consisting in [natural purity of] consciousness, the road to power consisting in inquiry” ( [Vibh]_  *223*\  ). These are supramundane only. But because of the words “If a bhikkhu obtains concentration, obtains mental unification by making zeal predominant, this is called concentration through zeal” ( [Vibh]_  *216*\  ), etc., they are also mundane as states acquired by predominance of zeal, etc., respectively.
+**§36** Power (*iddhi*\ ) is in the sense of success (*ijjhana*\ ) as already described (:ref:`XII.44 <XII.44>`). It is the road (basis—*pāda*\ ) to that power (for that success—*iddhi*\ ) in the sense of being the precursor of that success which is associated with it and in the sense of being the prior cause of that success which is its fruit, thus it is a road to power (basis for success). It is fourfold as zeal (desire), and so on. That is why “four roads to power” are spoken of, according as it is said: “Four roads to power: the road to power consisting in zeal, the road to power consisting in energy, the road to power consisting in [natural purity of] consciousness, the road to power consisting in inquiry” ( [Vibh]_  *223*\  ). These are supramundane only. But because of the words “If a bhikkhu obtains concentration, obtains mental unification by making zeal predominant, this is called concentration through zeal” ( [Vibh]_  *216*\  ), etc., they are also mundane as states acquired by predominance of zeal, etc., respectively.
 
 .. _XXII.37:
 
@@ -275,7 +275,7 @@ This is how, firstly, the “fulfilment of states partaking in enlightenment” 
 
 **§44** *2. Emergence* and *3. coupling of the powers*\ : the resolution of the compound *vuṭṭhānabalasamāyoga*\  is *vuṭṭhānañ c’eva bala-samāyogo ca*\ .
 
-[*2. Emergence*\ :] mundane insight induces no emergence either from occurrence [of defilement internally], because it does not cut off originating, which is the act of causing occurrence, [#12]_  or from the sign [of formations externally], because it has the sign as object. *[711/769]* Change-of-lineage knowledge does not induce emergence from occurrence [internally] because it does not cut off originating, but it does induce emergence from the sign [externally] because it has Nibbāna as its object; so there is emergence from one. Hence it is said, “Understanding of emergence and turning away from the external is knowledge of change-of-lineage” ( [Paṭis]_  *I 66*\  ). Likewise the whole passage, “Having turned away from arising, it enters into non-arising, thus it is change-of-lineage. Having turned away from occurrence … (etc.—for elision see Ch. :ref:`XXI.37 <XXI.37>` ) … [Having turned away from the sign of formations externally, it enters into cessation, Nibbāna, thus it is change-of-lineage]” ( [Paṭis]_  *I 67*\  ), should be understood here.
+[*2. Emergence*\ :] mundane insight induces no emergence either from occurrence [of defilement internally], because it does not cut off originating, which is the act of causing occurrence, [#12]_  or from the sign [of formations externally], because it has the sign as object. *[711/769]* Change-of-lineage knowledge does not induce emergence from occurrence [internally] because it does not cut off originating, but it does induce emergence from the sign [externally] because it has Nibbāna as its object; so there is emergence from one. Hence it is said, “Understanding of emergence and turning away from the external is knowledge of change-of-lineage” ( [Paṭis]_  *I 66*\  ). Likewise the whole passage, “Having turned away from arising, it enters into non-arising, thus it is change-of-lineage. Having turned away from occurrence … (etc.—for elision see Ch. :ref:`XXI.37 <XXI.37>`) … [Having turned away from the sign of formations externally, it enters into cessation, Nibbāna, thus it is change-of-lineage]” ( [Paṭis]_  *I 67*\  ), should be understood here.
 
 These four kinds of [path] knowledge emerge from the sign because they have the signless as their object, and also from occurrence because they cut off origination. So they emerge from both. Hence it is said:
 
@@ -343,7 +343,7 @@ The *bonds*\  are so called because they do not allow disengagement from an obje
 
 .. _XXII.57:
 
-**§57** The *hindrances*\  are the five, namely, lust, [ill will, stiffness and torpor, agitation and worry, and uncertainty,] in the sense of obstructing and hindering and concealing [reality] from consciousness (:ref:`IV.86 <IV.86>` ).
+**§57** The *hindrances*\  are the five, namely, lust, [ill will, stiffness and torpor, agitation and worry, and uncertainty,] in the sense of obstructing and hindering and concealing [reality] from consciousness (:ref:`IV.86 <IV.86>`).
 
 .. _XXII.58:
 
@@ -351,7 +351,7 @@ The *bonds*\  are so called because they do not allow disengagement from an obje
 
 .. _XXII.59:
 
-**§59** The *clingings*\  are the four beginning with sense-desire clinging described in all their aspects in the Description of the Dependent Origination (Ch. :ref:`XVII.240f. <XVII.240>` ).
+**§59** The *clingings*\  are the four beginning with sense-desire clinging described in all their aspects in the Description of the Dependent Origination (Ch. :ref:`XVII.240f. <XVII.240>`).
 
 .. _XXII.60:
 
@@ -367,7 +367,7 @@ The *bonds*\  are so called because they do not allow disengagement from an obje
 
 .. _XXII.63:
 
-**§63** The *unprofitable thought-arisings*\  are the twelve consisting of the eight rooted in greed, the two rooted in hate, and the two rooted in delusion (:ref:`XIV.89f. <XIV.89>` ).
+**§63** The *unprofitable thought-arisings*\  are the twelve consisting of the eight rooted in greed, the two rooted in hate, and the two rooted in delusion (:ref:`XIV.89f. <XIV.89>`).
 
 .. _XXII.64:
 
@@ -459,7 +459,7 @@ Herein, (i) all that is reckoned to possess [the three moments of] arising, agei
 
 (ii) Profitable and unprofitable [kamma-result] experienced as the stimulus of an object and ceased-reckoned as “experienced and gone” (*anubhūtāpagata)—*\ , and also anything formed, when it has reached the three instants beginning with arising and has ceased-reckoned as `been and gone’ *(hutvāpagata)—,* are called *arisen as been and gone* (*bhūtāpagata*\ ).
 
-(iii) Kamma described in the way beginning, “Deeds that he did in the past” ( [M]_  *III 164*\  ), even when actually past, is called *arisen by opportunity made*\  because it reaches presence by inhibiting other [ripening] kamma and making that the opportunity for its own result (see :ref:`XIX.16 <XIX.16>` .) And kamma-result that has its opportunity made in this way, even when as yet unarisen, is called “arisen by opportunity made,” too, because it is sure to arise when an opportunity for it has been made in this way.
+(iii) Kamma described in the way beginning, “Deeds that he did in the past” ( [M]_  *III 164*\  ), even when actually past, is called *arisen by opportunity made*\  because it reaches presence by inhibiting other [ripening] kamma and making that the opportunity for its own result (see :ref:`XIX.16 <XIX.16>`.) And kamma-result that has its opportunity made in this way, even when as yet unarisen, is called “arisen by opportunity made,” too, because it is sure to arise when an opportunity for it has been made in this way.
 
 (iv) While unprofitable [kamma] is still unabolished in any given soil (plane) [#18]_ 
 
@@ -598,7 +598,7 @@ The Four Functions Described Separately
 
 .. _XXII.105:
 
-**§105** (a) *Full-understanding is threefold*\ , that is, (i) full understanding as the known, (ii) full-understanding as investigating (judging), and (iii) full-understanding as abandoning (see :ref:`XX.3 <XX.3>` ).
+**§105** (a) *Full-understanding is threefold*\ , that is, (i) full understanding as the known, (ii) full-understanding as investigating (judging), and (iii) full-understanding as abandoning (see :ref:`XX.3 <XX.3>`).
 
 .. _XXII.106:
 
@@ -606,7 +606,7 @@ The Four Functions Described Separately
 
 .. _XXII.107:
 
-**§107** (ii) *Full-understanding as investigating (judging)*\  is summarized thus: “Understanding that is full-understanding is knowledge in the sense of investigation (judging)” ( [Paṭis]_  *I 87*\  ). It is briefly stated thus: “Whatever states are fully understood are investigated (judged)” ( [Paṭis]_  *I 87*\  ). It is given in detail in the way beginning: “Bhikkhus, all is to be fully understood. And what is all that is to be fully understood? The eye is to be fully understood …” ( [Paṭis]_  *I 22*\  ) Its particular plane starts with comprehension by groups, and occurring as investigation of impermanence, suffering, and not-self, it extends as far as conformity (cf. :ref:`XX.4 <XX.4>` ).
+**§107** (ii) *Full-understanding as investigating (judging)*\  is summarized thus: “Understanding that is full-understanding is knowledge in the sense of investigation (judging)” ( [Paṭis]_  *I 87*\  ). It is briefly stated thus: “Whatever states are fully understood are investigated (judged)” ( [Paṭis]_  *I 87*\  ). It is given in detail in the way beginning: “Bhikkhus, all is to be fully understood. And what is all that is to be fully understood? The eye is to be fully understood …” ( [Paṭis]_  *I 22*\  ) Its particular plane starts with comprehension by groups, and occurring as investigation of impermanence, suffering, and not-self, it extends as far as conformity (cf. :ref:`XX.4 <XX.4>`).
 
 .. _XXII.108:
 
@@ -634,7 +634,7 @@ The Four Functions Described Separately
 
 .. _XXII.114:
 
-**§114** Herein, (1)–(7) the way in which the abandoning of the perception of permanence, etc., takes place through the means of the seven contemplations beginning with that of impermanence has already been explained under the contemplation of dissolution (Ch. :ref:`XXI.15f. <XXI.15>` ).
+**§114** Herein, (1)–(7) the way in which the abandoning of the perception of permanence, etc., takes place through the means of the seven contemplations beginning with that of impermanence has already been explained under the contemplation of dissolution (Ch. :ref:`XXI.15f. <XXI.15>`).
 
 (8) *Contemplation of destruction*\ , however, is the knowledge in one who effects the resolution of the compact and so sees destruction as “impermanent in the *[726/784]* sense of destruction.” Through the means of that knowledge there comes to be the abandoning of the perception of compactness.
 
@@ -714,7 +714,7 @@ Abandoning by substitution of the opposites should be understood in detail in th
 
 .. _XXII.126:
 
-**§126** Also, those states which are not aroused in one’s own continuity and are known through knowledge that depends on another are realized; for it is said, referring to that, “Bhikkhus, all should be realized. And what is all that should be realized? The eye should be realized” ( [Paṭis]_  *I 35*\  ), and so on. And it is further said: “One who sees materiality realizes it. One who sees  ``697``  feeling … perception … formations … consciousness realizes it. One who sees the eye … (etc., see :ref:`XX.9 <XX.9>` ) … ageing and death realizes it. [One who sees suffering] … (etc.) [#22]_  … One who sees Nibbāna, which merges in the deathless [in the sense of the end] realizes it. Whatever states are realized are touched” ( [Paṭis]_  *I 35*\  ).
+**§126** Also, those states which are not aroused in one’s own continuity and are known through knowledge that depends on another are realized; for it is said, referring to that, “Bhikkhus, all should be realized. And what is all that should be realized? The eye should be realized” ( [Paṭis]_  *I 35*\  ), and so on. And it is further said: “One who sees materiality realizes it. One who sees  ``697``  feeling … perception … formations … consciousness realizes it. One who sees the eye … (etc., see :ref:`XX.9 <XX.9>`) … ageing and death realizes it. [One who sees suffering] … (etc.) [#22]_  … One who sees Nibbāna, which merges in the deathless [in the sense of the end] realizes it. Whatever states are realized are touched” ( [Paṭis]_  *I 35*\  ).
 
 .. _XXII.127:
 
@@ -745,9 +745,9 @@ Conclusion
 
 
 | “When a wise man, established well in virtue,
-| Develops consciousness and understanding” (:ref:`I.1 <I.1>` ),
+| Develops consciousness and understanding” (:ref:`I.1 <I.1>`),
 
-it was said above “After he has perfected the two purifications that are the ‘roots,’ then he can develop the five purifications that are the ‘trunk’”(:ref:`XIV.32 <XIV.32>` ). And at this point the detailed exposition of the system for developing *[729/787]* understanding in the proper way as it has been handed down is completed. So the question, “How should it be developed?” (:ref:`XIV.32 <XIV.32>` ) is now answered.
+it was said above “After he has perfected the two purifications that are the ‘roots,’ then he can develop the five purifications that are the ‘trunk’”(:ref:`XIV.32 <XIV.32>`). And at this point the detailed exposition of the system for developing *[729/787]* understanding in the proper way as it has been handed down is completed. So the question, “How should it be developed?” (:ref:`XIV.32 <XIV.32>`) is now answered.
 
 The twenty-second chapter called “The Description of Purification by Knowledge and Vision” in the Treatise on the Development of Understanding in the *Path of Purification* composed for the purpose of gladdening good people.
 
@@ -824,7 +824,7 @@ The twenty-second chapter called “The Description of Purification by Knowledge
 
 .. _XXII.n14:
 
-.. [#14] “‘*Wrong knowledge*\ ,’ which is wrong because it does not occur rightly [i.e. in conformity with the truth], and is wrong and mistaken owing to misinterpretations, etc., is just delusion. ‘*Wrong deliverance*\ ’ is the wrong notion of liberation that assumes liberation to take place in a ‘World Apex’ (*lokathūpika–*\ see :ref:`XVI.85 <XVI.85>` ), and so on” ( [Vism-mhṭ]_  *886*\  ).
+.. [#14] “‘*Wrong knowledge*\ ,’ which is wrong because it does not occur rightly [i.e. in conformity with the truth], and is wrong and mistaken owing to misinterpretations, etc., is just delusion. ‘*Wrong deliverance*\ ’ is the wrong notion of liberation that assumes liberation to take place in a ‘World Apex’ (*lokathūpika–*\ see :ref:`XVI.85 <XVI.85>`), and so on” ( [Vism-mhṭ]_  *886*\  ).
 
 
 .. _XXII.n15:
@@ -864,4 +864,4 @@ The twenty-second chapter called “The Description of Purification by Knowledge
 
 .. _XXII.n22:
 
-.. [#22] The first elision here—“The eye … ageing-and-death”—is explained in :ref:`XX.9 <XX.9>` . The second elision—“One who sees suffering … One who sees Nibbāna, which merges in the deathless in the sense of end …”—covers all things listed from  [Paṭis]_  *I 8*\  , line 18 (N.B. the new para in the  [Paṭis]_   text should begin with the words “*dukkhaṃ abhiññeyyaṃ*\ ” up to p. 22, line 11, *amatogadhaṃ nibbānaṃ pariyosānatthaṃ abhiññeyyaṃ*\ ). In this case, however ( [Paṭis]_  *I 35*\  ), *sacchikātabba*\  (“to be realized”), etc., is substituted for *abhiññeyya* (“to be directly known”).
+.. [#22] The first elision here—“The eye … ageing-and-death”—is explained in :ref:`XX.9 <XX.9>`. The second elision—“One who sees suffering … One who sees Nibbāna, which merges in the deathless in the sense of end …”—covers all things listed from  [Paṭis]_  *I 8*\  , line 18 (N.B. the new para in the  [Paṭis]_   text should begin with the words “*dukkhaṃ abhiññeyyaṃ*\ ” up to p. 22, line 11, *amatogadhaṃ nibbānaṃ pariyosānatthaṃ abhiññeyyaṃ*\ ). In this case, however ( [Paṭis]_  *I 35*\  ), *sacchikātabba*\  (“to be realized”), etc., is substituted for *abhiññeyya* (“to be directly known”).

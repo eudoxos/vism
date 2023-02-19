@@ -10,7 +10,7 @@ IX. The Divine Abidings
 
 .. _IX.1:
 
-**§1** *[291/349]*  ``295``  The four divine abidings were mentioned next to the recollections as meditation subjects (:ref:`III.105 <III.105>` ). They are loving-kindness, compassion, gladness and equanimity. A meditator, who wants to develop firstly loving-kindness among these, if he is a beginner, should sever the impediments and learn the meditation subject. Then, when he has done the work connected with the meal and got rid of any dizziness due to it, he should seat himself comfortably on a well-prepared seat in a secluded place. To start with, he should review the danger in hate and the advantage in patience.
+**§1** *[291/349]*  ``295``  The four divine abidings were mentioned next to the recollections as meditation subjects (:ref:`III.105 <III.105>`). They are loving-kindness, compassion, gladness and equanimity. A meditator, who wants to develop firstly loving-kindness among these, if he is a beginner, should sever the impediments and learn the meditation subject. Then, when he has done the work connected with the meal and got rid of any dizziness due to it, he should seat himself comfortably on a well-prepared seat in a secluded place. To start with, he should review the danger in hate and the advantage in patience.
 
 .. _IX.2:
 
@@ -481,7 +481,7 @@ At this point he has attained the first jhāna, which abandons five factors, pos
 
 .. _IX.45:
 
-**§45** *[303/361]* And here *endued with loving-kindness* means possessing loving-kindness. *With his heart* (*cetasā*\ ): with his mind (*cittena*\ ). *One direction*\ : this refers to anyone direction in which a being is first discerned and means pervasion of the beings included in that one direction. *Pervading*\ : touching, making his object. *He dwells* (*viharati*\ ): he causes the occurrence of an abiding (*vihāra—*\ dwelling or continuation) in postures that is devoted to the divine abidings (see :ref:`IV.103 <IV.103>` ). *Likewise the second*\ : just as he dwells pervading anyone direction among those beginning with the eastern one, so he does with the next one, and the third and the fourth, is the meaning.
+**§45** *[303/361]* And here *endued with loving-kindness* means possessing loving-kindness. *With his heart* (*cetasā*\ ): with his mind (*cittena*\ ). *One direction*\ : this refers to anyone direction in which a being is first discerned and means pervasion of the beings included in that one direction. *Pervading*\ : touching, making his object. *He dwells* (*viharati*\ ): he causes the occurrence of an abiding (*vihāra—*\ dwelling or continuation) in postures that is devoted to the divine abidings (see :ref:`IV.103 <IV.103>`). *Likewise the second*\ : just as he dwells pervading anyone direction among those beginning with the eastern one, so he does with the next one, and the third and the fourth, is the meaning.
 
 .. _IX.46:
 
@@ -571,7 +571,7 @@ And here, *may all beings be free from enmity* is one absorption; *free from aff
 
 .. _IX.67:
 
-**§67** When he had acquired five years’ seniority and had become familiar with the two Codes (Pātimokkha; see :ref:`III.31 <III.31>` ) he celebrated the *Pavāraṇā* at the end of the Rains, took a meditation subject that suited him, and set out to wander, living for four months in each monastery and doing the duties on a basis of equality with the residents. While he was wandering in this way:
+**§67** When he had acquired five years’ seniority and had become familiar with the two Codes (Pātimokkha; see :ref:`III.31 <III.31>`) he celebrated the *Pavāraṇā* at the end of the Rains, took a meditation subject that suited him, and set out to wander, living for four months in each monastery and doing the duties on a basis of equality with the residents. While he was wandering in this way:
 
 
 
@@ -601,7 +601,7 @@ This is how a bhikkhu who abides in loving-kindness is dear to non-human beings.
 
 .. _IX.71:
 
-**§71** *Fire, poison and weapons do not affect him*\ : they do not affect, do not enter into, the body of one who abides in loving-kindness, like the fire in the case of the lay woman devotee Uttarā (see :ref:`XII.34 <XII.34>`  and  [Dhp-a]_  *III 310*\  ), like the poison in the case of the Saṃyutta reciter the Elder Cūḷa-Siva, like the knife in the case of the novice Saṅkicca (see  [Dhp-a]_  *II 249*\  ); they do not disturb the body, is what is meant.
+**§71** *Fire, poison and weapons do not affect him*\ : they do not affect, do not enter into, the body of one who abides in loving-kindness, like the fire in the case of the lay woman devotee Uttarā (see :ref:`XII.34 <XII.34>` and  [Dhp-a]_  *III 310*\  ), like the poison in the case of the Saṃyutta reciter the Elder Cūḷa-Siva, like the knife in the case of the novice Saṅkicca (see  [Dhp-a]_  *II 249*\  ); they do not disturb the body, is what is meant.
 
 .. _IX.72:
 
@@ -863,7 +863,7 @@ That is why it was said:  ``322``
 
 .. _IX.114:
 
-**§114** And the intention here is this: The Blessed One, it seems, was asked to teach the Dhamma thus: “Venerable sir, it would be good if the Blessed One would teach me the Dhamma in brief, so that, having heard the Blessed One’s Dhamma, I may dwell alone, withdrawn, diligent, ardent and self-exerted” ( [A]_  *IV 299*\  ). But the Blessed One had no confidence yet in that bhikkhu, since although he had already heard the Dhamma he had nevertheless gone on living there instead of going to do the ascetic’s duties, [and the Blessed One expressed his lack of confidence] thus: “So too, some misguided men merely question me, and when the Dhamma is expounded [to them], they still fancy that they need not follow me” ( [A]_  *IV 299*\  ). However, the bhikkhu had the potentiality for the attainment of Arahantship, and so he advised him again,  ``323``  saying: “Therefore, bhikkhu, you should train thus: ‘My mind shall be steadied, quite steadied internally, and arisen evil unprofitable things shall not obsess my mind and *[317/375]* remain.’ You should train thus” ( [A]_  *IV 299*\  ). But what is stated in that advice is basic concentration consisting in mere unification of mind [#18]_  internally in the sense of in oneself (see :ref:`Ch. XIV, n. 75 <XIV.n75>` ).
+**§114** And the intention here is this: The Blessed One, it seems, was asked to teach the Dhamma thus: “Venerable sir, it would be good if the Blessed One would teach me the Dhamma in brief, so that, having heard the Blessed One’s Dhamma, I may dwell alone, withdrawn, diligent, ardent and self-exerted” ( [A]_  *IV 299*\  ). But the Blessed One had no confidence yet in that bhikkhu, since although he had already heard the Dhamma he had nevertheless gone on living there instead of going to do the ascetic’s duties, [and the Blessed One expressed his lack of confidence] thus: “So too, some misguided men merely question me, and when the Dhamma is expounded [to them], they still fancy that they need not follow me” ( [A]_  *IV 299*\  ). However, the bhikkhu had the potentiality for the attainment of Arahantship, and so he advised him again,  ``323``  saying: “Therefore, bhikkhu, you should train thus: ‘My mind shall be steadied, quite steadied internally, and arisen evil unprofitable things shall not obsess my mind and *[317/375]* remain.’ You should train thus” ( [A]_  *IV 299*\  ). But what is stated in that advice is basic concentration consisting in mere unification of mind [#18]_  internally in the sense of in oneself (see :ref:`Ch. XIV, n. 75 <XIV.n75>`).
 
 .. _IX.115:
 
@@ -893,7 +893,7 @@ That is why it was said:  ``322``
 
 .. _IX.121:
 
-**§121** One who abides in compassion has come to know thoroughly the danger in materiality, since compassion is aroused in him when he sees the suffering of beings that has as its material sign (cause) beating with sticks, and so on. So, well knowing the danger in materiality, when he removes whichever kasiṇa [concept he was contemplating], whether that of the earth kasiṇa or another, and applies his mind to the space [that remains (see :ref:`X.6 <X.6>` )], which is the escape from materiality, then his mind enters into that [space] without difficulty. So compassion is the basic support for the sphere of boundless space, but not for what is beyond that. That is why it is called “having the base consisting of boundless space as the highest.”
+**§121** One who abides in compassion has come to know thoroughly the danger in materiality, since compassion is aroused in him when he sees the suffering of beings that has as its material sign (cause) beating with sticks, and so on. So, well knowing the danger in materiality, when he removes whichever kasiṇa [concept he was contemplating], whether that of the earth kasiṇa or another, and applies his mind to the space [that remains (see :ref:`X.6 <X.6>`)], which is the escape from materiality, then his mind enters into that [space] without difficulty. So compassion is the basic support for the sphere of boundless space, but not for what is beyond that. That is why it is called “having the base consisting of boundless space as the highest.”
 
 .. _IX.122:
 
@@ -901,7 +901,7 @@ That is why it was said:  ``322``
 
 .. _IX.123:
 
-**§123** *[319/377]* When he abides in equanimity, his mind becomes skilled [#21]_  in apprehending what is (in the ultimate sense) non-existent, because his mind has been diverted from apprehension of (what is existent in) the ultimate sense, namely, pleasure, (release from) pain, etc., owing to having no further concern such as “May beings be happy” or “May they be released from pain” or “May they not lose the success they have obtained.” Now his mind has become used to being diverted from apprehension of [what is existent in] the ultimate sense, and his mind has become skilled in apprehending what is non-existent in the ultimate sense, (that is to say, living beings, which are a concept), and so when he surmounts the base consisting of boundless consciousness attained in due course and applies his mind to the absence, which is non-existent as to individual essence, of consciousness, which is a reality (is become—see  [M]_  *I 260*\  ) in the ultimate sense, then his mind enters into that (nothingness, that non-existence) without difficulty (see :ref:`X.32 <X.32>` ). So equanimity is the basic support for the base consisting of nothingness, but not for what is beyond that. That is why it is called “having the base consisting of nothingness as the highest.”
+**§123** *[319/377]* When he abides in equanimity, his mind becomes skilled [#21]_  in apprehending what is (in the ultimate sense) non-existent, because his mind has been diverted from apprehension of (what is existent in) the ultimate sense, namely, pleasure, (release from) pain, etc., owing to having no further concern such as “May beings be happy” or “May they be released from pain” or “May they not lose the success they have obtained.” Now his mind has become used to being diverted from apprehension of [what is existent in] the ultimate sense, and his mind has become skilled in apprehending what is non-existent in the ultimate sense, (that is to say, living beings, which are a concept), and so when he surmounts the base consisting of boundless consciousness attained in due course and applies his mind to the absence, which is non-existent as to individual essence, of consciousness, which is a reality (is become—see  [M]_  *I 260*\  ) in the ultimate sense, then his mind enters into that (nothingness, that non-existence) without difficulty (see :ref:`X.32 <X.32>`). So equanimity is the basic support for the base consisting of nothingness, but not for what is beyond that. That is why it is called “having the base consisting of nothingness as the highest.”
 
 .. _IX.124:
 
@@ -945,7 +945,7 @@ The ninth chapter called “The Description of the Divine Abidings” in the Tre
 
 .. _IX.n7:
 
-.. [#7] “Here when the aggregates are not fully understood, there is naming (*abhidhāna*\ ) of them and of the consciousness of them as self (*attā*\ ), that is to say, the physical body or alternatively the five aggregates. ‘Derived from’: apprehending, gripping, making a support. ‘Since it is actually a mere concept’: because of presence (*sabbhāvato*\ ) as a mere concept in what is called a being, though in the highest sense the ‘being’ is non-existent” ( [Vism-mhṭ]_  *298*\  ). See also :ref:`Ch. VIII, note 11 <VIII.n11>` .
+.. [#7] “Here when the aggregates are not fully understood, there is naming (*abhidhāna*\ ) of them and of the consciousness of them as self (*attā*\ ), that is to say, the physical body or alternatively the five aggregates. ‘Derived from’: apprehending, gripping, making a support. ‘Since it is actually a mere concept’: because of presence (*sabbhāvato*\ ) as a mere concept in what is called a being, though in the highest sense the ‘being’ is non-existent” ( [Vism-mhṭ]_  *298*\  ). See also :ref:`Ch. VIII, note 11 <VIII.n11>`.
 
 
 .. _IX.n8:
@@ -955,7 +955,7 @@ The ninth chapter called “The Description of the Divine Abidings” in the Tre
 
 .. _IX.n9:
 
-.. [#9] For *duṭṭhulla*\  see :ref:`Ch. IV, note 36 <IV.n36>` . Here the meaning is more likely to be “bad” or “lewd” than “inert.”
+.. [#9] For *duṭṭhulla*\  see :ref:`Ch. IV, note 36 <IV.n36>`. Here the meaning is more likely to be “bad” or “lewd” than “inert.”
 
 
 .. _IX.n10:
@@ -1022,4 +1022,4 @@ The ninth chapter called “The Description of the Divine Abidings” in the Tre
 
 .. _IX.n22:
 
-.. [#22] For the “ten powers” and “four kinds of fearlessness” see MN 12. For the “six kinds of knowledge not shared by disciples” see  [Paṭis]_  *I 121f.*\   For the “eighteen states of the Enlightened One” see  [Cp]_  -a.
+.. [#22] For the “ten powers” and “four kinds of fearlessness” see MN 12. For the “six kinds of knowledge not shared by disciples” see  [Paṭis]_  *I 121f.*\   For the “eighteen states of the Enlightened One” see  [Cp-a]_  .

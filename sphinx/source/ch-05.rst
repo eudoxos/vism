@@ -7,7 +7,7 @@ III. Taking a Meditation Subject
 
 .. _III.1:
 
-**§1** *[81/139]*  ``84``  Now, concentration is described under the heading of “consciousness” in the phrase “develops consciousness and understanding” (:ref:`I.1 <I.1>` ). It should be developed by one who has taken his stand on virtue that has been purified by means of the special qualities of fewness of wishes, etc., and perfected by observance of the ascetic practices. But that concentration has been shown only very briefly and so it is not even easy to understand, much less to develop. There is therefore the following set of questions, the purpose of which is to show the method of its development in detail:
+**§1** *[81/139]*  ``84``  Now, concentration is described under the heading of “consciousness” in the phrase “develops consciousness and understanding” (:ref:`I.1 <I.1>`). It should be developed by one who has taken his stand on virtue that has been purified by means of the special qualities of fewness of wishes, etc., and perfected by observance of the ascetic practices. But that concentration has been shown only very briefly and so it is not even easy to understand, much less to develop. There is therefore the following set of questions, the purpose of which is to show the method of its development in detail:
 
 (i) What is concentration? (ii) In what sense is it concentration? (iii) What are its characteristic, function, manifestation, and proximate cause?
 
@@ -49,7 +49,7 @@ Concentration is of many sorts and has various aspects. An answer that attempted
 
 **§6** *1.* Herein, the section dealing with that of one kind is evident in meaning.
 
-*2.* In the section dealing with that of two kinds, *access* concentration is the unification of mind obtained by the following, that is to say, the six recollections, mindfulness of death, the recollection of peace, the perception of repulsiveness in nutriment, and the defining of the four elements, and it is the unification that precedes absorption concentration. *Absorption* concentration is the unification that follows immediately upon the preliminary-work (:ref:`IV.74 <IV.74>` ) because of the words, “The first-jhāna preliminary-work is a condition, as proximity condition, for the first jhāna” ( [Paṭṭh]_  *II 350*\   (Se). So it is of two kinds as access and absorption.
+*2.* In the section dealing with that of two kinds, *access* concentration is the unification of mind obtained by the following, that is to say, the six recollections, mindfulness of death, the recollection of peace, the perception of repulsiveness in nutriment, and the defining of the four elements, and it is the unification that precedes absorption concentration. *Absorption* concentration is the unification that follows immediately upon the preliminary-work (:ref:`IV.74 <IV.74>`) because of the words, “The first-jhāna preliminary-work is a condition, as proximity condition, for the first jhāna” ( [Paṭṭh]_  *II 350*\   (Se). So it is of two kinds as access and absorption.
 
 .. _III.7:
 
@@ -89,7 +89,7 @@ Concentration is of many sorts and has various aspects. An answer that attempted
 
 .. _III.16:
 
-**§16** Herein, we shall comment below upon the suitable and unsuitable (:ref:`IV.35f. <IV.35>` ), the preparatory tasks consisting in the severing of impediments (:ref:`IV.20 <IV.20>` ), etc., and skill in absorption (:ref:`IV.42 <IV.42>` ). When a man cultivates what is unsuitable, his progress is difficult and his direct-knowledge sluggish. When he cultivates what is suitable, his progress is easy and his direct-knowledge swift. But if he cultivates the unsuitable in the earlier stage and the suitable in the later stage, or if he cultivates the suitable in the earlier stage and the unsuitable in the later stage, then it should be understood as mixed in his case. Likewise if he devotes himself to development without carrying out the preparatory tasks of severing impediments, etc., his progress is difficult. It is easy in the opposite case. And if he is not accomplished in skill in absorption, his direct-knowledge is sluggish. It is swift if he is so accomplished.
+**§16** Herein, we shall comment below upon the suitable and unsuitable (:ref:`IV.35f. <IV.35>`), the preparatory tasks consisting in the severing of impediments (:ref:`IV.20 <IV.20>`), etc., and skill in absorption (:ref:`IV.42 <IV.42>`). When a man cultivates what is unsuitable, his progress is difficult and his direct-knowledge sluggish. When he cultivates what is suitable, his progress is easy and his direct-knowledge swift. But if he cultivates the unsuitable in the earlier stage and the suitable in the later stage, or if he cultivates the suitable in the earlier stage and the unsuitable in the later stage, then it should be understood as mixed in his case. Likewise if he devotes himself to development without carrying out the preparatory tasks of severing impediments, etc., his progress is difficult. It is easy in the opposite case. And if he is not accomplished in skill in absorption, his direct-knowledge is sluggish. It is swift if he is so accomplished.
 
 .. _III.17:
 
@@ -107,7 +107,7 @@ So it is of four kinds as of difficult progress and sluggish direct-knowledge, a
 
 .. _III.20:
 
-**§20** *11.* In the second tetrad there is limited concentration with a limited object, there is limited concentration with a measureless object, there is measureless concentration with a limited object, and there is measureless concentration with a measureless object. Herein, concentration that is unfamiliar and incapable of being a condition for a higher jhāna  ``88``  is *limited*\ . When it occurs with an unextended object (:ref:`IV.126 <IV.126>` ), it is *with a limited object*\ . When it is familiar, well developed, and capable of being a condition for a higher jhāna, it is *measureless*\ . And when it occurs with an extended object, it is *with a measureless object*\ . The mixed method can be understood as the mixture of the characteristics already stated. So it is of four kinds as limited with limited object, and so on.
+**§20** *11.* In the second tetrad there is limited concentration with a limited object, there is limited concentration with a measureless object, there is measureless concentration with a limited object, and there is measureless concentration with a measureless object. Herein, concentration that is unfamiliar and incapable of being a condition for a higher jhāna  ``88``  is *limited*\ . When it occurs with an unextended object (:ref:`IV.126 <IV.126>`), it is *with a limited object*\ . When it is familiar, well developed, and capable of being a condition for a higher jhāna, it is *measureless*\ . And when it occurs with an extended object, it is *with a measureless object*\ . The mixed method can be understood as the mixture of the characteristics already stated. So it is of four kinds as limited with limited object, and so on.
 
 .. _III.21:
 
@@ -146,7 +146,7 @@ So it is of four kinds as of difficult progress and sluggish direct-knowledge, a
 A. Development in Brief
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-The method of developing the kind of concentration associated with the noble paths mentioned (§7) under that “of two kinds as mundane and supramundane,” etc., is included in the method of developing understanding; (:ref:`Ch. XXII <XXII>` ) for in developing [path] understanding that is developed too. So we shall say nothing separately [here] about how that is to be developed.
+The method of developing the kind of concentration associated with the noble paths mentioned (§7) under that “of two kinds as mundane and supramundane,” etc., is included in the method of developing understanding; (:ref:`Ch. XXII <XXII>`) for in developing [path] understanding that is developed too. So we shall say nothing separately [here] about how that is to be developed.
 
 .. _III.28:
 
@@ -415,7 +415,7 @@ Temperaments
 
 .. _III.82:
 
-**§82** [Now, it can rightly be objected that] not all of those who have had plenty of desirable tasks and gratifying work to do, and who have reappeared here after dying in a heaven, are of greedy temperament, or the others respectively of hating and deluded temperament; and there is no such law of prominence of elements (see :ref:`XIV.43f. <XIV.43>` ) as that asserted; and only the pair, greed and delusion, are given in the law of humours, and even that subsequently contradicts itself; and no source for even one among those beginning with one of faithful temperament is given. Consequently this definition is indecisive.
+**§82** [Now, it can rightly be objected that] not all of those who have had plenty of desirable tasks and gratifying work to do, and who have reappeared here after dying in a heaven, are of greedy temperament, or the others respectively of hating and deluded temperament; and there is no such law of prominence of elements (see :ref:`XIV.43f. <XIV.43>`) as that asserted; and only the pair, greed and delusion, are given in the law of humours, and even that subsequently contradicts itself; and no source for even one among those beginning with one of faithful temperament is given. Consequently this definition is indecisive.
 
 .. _III.83:
 
@@ -515,7 +515,7 @@ This is how the temperaments may be recognized by the kind of states occurring.
 
 .. _III.97:
 
-**§97** *What suits one of what kind of temperament*\ ? (§79). A suitable lodging for one of greedy temperament has an unwashed sill and stands level with the ground, and it can be either an overhanging [rock with an] unprepared [drip-ledge] (see :ref:`Ch. II, note 15 <II.n15>` ), a grass hut, or a leaf house, etc. It ought to be spattered with dirt, full of bats, [#24]_  dilapidated, too high or too low, in bleak surroundings, threatened [by lions, tigers, etc.,] with a muddy, uneven path,  ``108``  where even the bed and chair are full of bugs. And it should be ugly and unsightly, exciting loathing as soon as looked at. Suitable inner and outer garments are those that have torn-off edges with threads hanging down all round like a “net cake,” [#25]_  harsh to the touch like hemp, soiled, heavy and hard to wear. And the right kind of bowl for him is an ugly clay bowl disfigured by stoppings and joints, or a heavy and misshapen iron bowl as unappetizing as a skull. The right kind of road for him on which to wander for alms is disagreeable, with no village near, and uneven. The right kind of village for him in which to wander for alms is where people wander about as if oblivious of him, where, as he is about to leave without getting alms even from a single family, people call him into the sitting hall, saying, “Come, venerable sir,” and give him *[103/161]* gruel and rice, but do so as casually as if they were putting a cow in a pen. Suitable people to serve him are slaves or workmen who are unsightly, ill-favoured, with dirty clothes, ill-smelling and disgusting, who serve him his gruel and rice as if they were throwing it rudely at him. The right kind of gruel and rice and hard food is poor, unsightly, made up of millet, *kudusaka*\ , broken rice, etc., stale buttermilk, sour gruel, curry of old vegetables, or anything at all that is merely for filling the stomach. The right kind of posture for him is either standing or walking. The object of his contemplation should be any of the colour kasiṇas, beginning with the blue, whose colour is not pure. This is what suits one of greedy temperament.
+**§97** *What suits one of what kind of temperament*\ ? (§79). A suitable lodging for one of greedy temperament has an unwashed sill and stands level with the ground, and it can be either an overhanging [rock with an] unprepared [drip-ledge] (see :ref:`Ch. II, note 15 <II.n15>`), a grass hut, or a leaf house, etc. It ought to be spattered with dirt, full of bats, [#24]_  dilapidated, too high or too low, in bleak surroundings, threatened [by lions, tigers, etc.,] with a muddy, uneven path,  ``108``  where even the bed and chair are full of bugs. And it should be ugly and unsightly, exciting loathing as soon as looked at. Suitable inner and outer garments are those that have torn-off edges with threads hanging down all round like a “net cake,” [#25]_  harsh to the touch like hemp, soiled, heavy and hard to wear. And the right kind of bowl for him is an ugly clay bowl disfigured by stoppings and joints, or a heavy and misshapen iron bowl as unappetizing as a skull. The right kind of road for him on which to wander for alms is disagreeable, with no village near, and uneven. The right kind of village for him in which to wander for alms is where people wander about as if oblivious of him, where, as he is about to leave without getting alms even from a single family, people call him into the sitting hall, saying, “Come, venerable sir,” and give him *[103/161]* gruel and rice, but do so as casually as if they were putting a cow in a pen. Suitable people to serve him are slaves or workmen who are unsightly, ill-favoured, with dirty clothes, ill-smelling and disgusting, who serve him his gruel and rice as if they were throwing it rudely at him. The right kind of gruel and rice and hard food is poor, unsightly, made up of millet, *kudusaka*\ , broken rice, etc., stale buttermilk, sour gruel, curry of old vegetables, or anything at all that is merely for filling the stomach. The right kind of posture for him is either standing or walking. The object of his contemplation should be any of the colour kasiṇas, beginning with the blue, whose colour is not pure. This is what suits one of greedy temperament.
 
 .. _III.98:
 
@@ -601,7 +601,7 @@ This is how the exposition should be understood “as to enumeration.”
 
 .. _III.110:
 
-**§110** Mindfulness occupied with the body and the ten kinds of foulness need not be extended. Why? Because they have a definite location and because there is no benefit in it. The definiteness of their location will become clear in explaining the method of development (:ref:`VIII.83 <VIII.83>` –:ref:`138 <VIII.138>`  and :ref:`VI.40 <VI.40>` , :ref:`41 <VI.41>` , :ref:`79 <VI.79>` ). If the latter are extended, it is only a quantity of corpses that is extended  ``112``  and there is no benefit. And this is said in answer to the question of Sopāka: “Perception of visible forms is quite clear, Blessed One, perception of bones is not clear” (Source untraced [#29]_ ); for here the perception of visible forms is called “quite clear” in the sense of extension of the sign, while the perception of bones is called “not quite clear” in the sense of its non-extension.
+**§110** Mindfulness occupied with the body and the ten kinds of foulness need not be extended. Why? Because they have a definite location and because there is no benefit in it. The definiteness of their location will become clear in explaining the method of development (:ref:`VIII.83 <VIII.83>`–:ref:`138 <VIII.138>` and :ref:`VI.40 <VI.40>`, :ref:`41 <VI.41>`, :ref:`79 <VI.79>`). If the latter are extended, it is only a quantity of corpses that is extended  ``112``  and there is no benefit. And this is said in answer to the question of Sopāka: “Perception of visible forms is quite clear, Blessed One, perception of bones is not clear” (Source untraced [#29]_ ); for here the perception of visible forms is called “quite clear” in the sense of extension of the sign, while the perception of bones is called “not quite clear” in the sense of its non-extension.
 
 .. _III.111:
 
@@ -721,12 +721,12 @@ The third chapter called “The Description of Taking a Meditation Subject” in
 
 .. _III.n1:
 
-.. [#1] The answer to question (vii) stretches from :ref:`III.27 <III.27>`  to :ref:`XI.119 <XI.119>` . That to question (viii) from XI. 120 up to the end of :ref:`Ch. XIII <XIII>` .
+.. [#1] The answer to question (vii) stretches from :ref:`III.27 <III.27>` to :ref:`XI.119 <XI.119>`. That to question (viii) from XI. 120 up to the end of :ref:`Ch. XIII <XIII>`.
 
 
 .. _III.n2:
 
-.. [#2] *“Cittass’ ekaggatā”* is rendered here as “unification of mind” in the sense of agreement or harmony (cf. *samagga)* of consciousness and its concomitants in focusing on a single object (see  [A]_  *I 70*\  ). It is sometimes rendered “one-pointedness” in that sense, or in the sense of the focusing of a searchlight. It may be concluded that this term is simply a synonym for *samādhi* and nothing more, firstly from its use in the suttas, and secondly from the fact that it is given no separate definition in the description of the formations aggregate in :ref:`Ch. XIV <XIV>` . Cf. gloss at  [M-a]_  *I 124*\  .
+.. [#2] *“Cittass’ ekaggatā”* is rendered here as “unification of mind” in the sense of agreement or harmony (cf. *samagga)* of consciousness and its concomitants in focusing on a single object (see  [A]_  *I 70*\  ). It is sometimes rendered “one-pointedness” in that sense, or in the sense of the focusing of a searchlight. It may be concluded that this term is simply a synonym for *samādhi* and nothing more, firstly from its use in the suttas, and secondly from the fact that it is given no separate definition in the description of the formations aggregate in :ref:`Ch. XIV <XIV>`. Cf. gloss at  [M-a]_  *I 124*\  .
 
 
 .. _III.n3:
@@ -741,12 +741,12 @@ The third chapter called “The Description of Taking a Meditation Subject” in
 
 .. _III.n5:
 
-.. [#5] “The round *(vaṭṭa,* see :ref:`XVII.298 <XVII.298>` ) [including fine-material and immaterial heavens] is called the world *(loka)* because of its crumbling *(lujjana)* and disintegrating *(palujjana). ‘Mundane’ (lokiya)* means connected with the world because of being included in it or found there. *‘Supramundane’ (lokuttara)* means beyond the world, excepted from it, because of not being included in it [through being associated with Nibbāna]” (Vism-mhṭ 91). See also “nine supramundane states. (:ref:`VII.68 <VII.68>` , :ref:`74f. <VII.74>` )”
+.. [#5] “The round *(vaṭṭa,* see :ref:`XVII.298 <XVII.298>`) [including fine-material and immaterial heavens] is called the world *(loka)* because of its crumbling *(lujjana)* and disintegrating *(palujjana). ‘Mundane’ (lokiya)* means connected with the world because of being included in it or found there. *‘Supramundane’ (lokuttara)* means beyond the world, excepted from it, because of not being included in it [through being associated with Nibbāna]” (Vism-mhṭ 91). See also “nine supramundane states. (:ref:`VII.68 <VII.68>`, :ref:`74f. <VII.74>`)”
 
 
 .. _III.n6:
 
-.. [#6] In loose usage *pīti*\  (happiness) and *sukha* (pleasure or bliss) are almost synonyms. They become differentiated in the jhāna formulas (see :ref:`IV.100 <IV.100>` ), and then technically *pīti*\ , as the active thrill of rapture, is classed under the formations aggregate and *sukha* under the feeling aggregate. The valuable word “happiness” was chosen for *pīti* rather than the possible alternatives of “joy” (needed for *somanassa),* “interest” (which is too flat), “rapture” (which is overcharged), or “zest.” For *sukha,* while “pleasure” seemed to fit admirably where ordinary pleasant feeling is intended, another, less crass, word seemed necessary for the refined pleasant feeling of jhāna and the “bliss” of Nibbāna (which is not feeling aggregate—see  [M]_  *I 400*\  ). “Ease” is sometimes used.
+.. [#6] In loose usage *pīti*\  (happiness) and *sukha* (pleasure or bliss) are almost synonyms. They become differentiated in the jhāna formulas (see :ref:`IV.100 <IV.100>`), and then technically *pīti*\ , as the active thrill of rapture, is classed under the formations aggregate and *sukha* under the feeling aggregate. The valuable word “happiness” was chosen for *pīti* rather than the possible alternatives of “joy” (needed for *somanassa),* “interest” (which is too flat), “rapture” (which is overcharged), or “zest.” For *sukha,* while “pleasure” seemed to fit admirably where ordinary pleasant feeling is intended, another, less crass, word seemed necessary for the refined pleasant feeling of jhāna and the “bliss” of Nibbāna (which is not feeling aggregate—see  [M]_  *I 400*\  ). “Ease” is sometimes used.
     
     “Neither-painful-nor-pleasant feeling is intended here by ‘equanimity’ *(upekkhā,* lit, onlooking); for it ‘looks on’ *(upekkhati)* at the occurrence of [bodily] pleasure and pain by maintaining the neutral (central) mode” ( [Vism-mhṭ]_  *92*\  ).
 
@@ -763,7 +763,7 @@ The third chapter called “The Description of Taking a Meditation Subject” in
 
 .. _III.n9:
 
-.. [#9] *Dve mātikā—*\ the “two codes”: see :ref:`Ch. I <I>` , n.
+.. [#9] *Dve mātikā—*\ the “two codes”: see :ref:`Ch. I <I>`, n.
 
 
 .. _III.n10:
@@ -844,7 +844,7 @@ The third chapter called “The Description of Taking a Meditation Subject” in
 
 .. _III.n24:
 
-.. [#24] *Jatukā—*\ ”a bat”: not in PED. Also at :ref:`Ch. XI <XI>` . §7.
+.. [#24] *Jatukā—*\ ”a bat”: not in PED. Also at :ref:`Ch. XI <XI>`. §7.
 
 
 .. _III.n25:
@@ -854,26 +854,26 @@ The third chapter called “The Description of Taking a Meditation Subject” in
 
 .. _III.n26:
 
-.. [#26] *Surabhi—*\ ”scented, perfume”: not in PED; also at :ref:`VI.90 <VI.90>` ; :ref:`X.60 <X.60>`  and  [Vism-mhṭ]_  *445.*\  
+.. [#26] *Surabhi—*\ ”scented, perfume”: not in PED; also at :ref:`VI.90 <VI.90>`; :ref:`X.60 <X.60>` and  [Vism-mhṭ]_  *445.*\  
 
 
 .. _III.n27:
 
-.. [#27] “*‘Kasiṇa’* is in the sense of entirety *(sakalaṭṭhena)”* ( [M-a]_  *III 260*\  ). See :ref:`IV.119 <IV.119>` .
+.. [#27] “*‘Kasiṇa’* is in the sense of entirety *(sakalaṭṭhena)”* ( [M-a]_  *III 260*\  ). See :ref:`IV.119 <IV.119>`.
 
 
 .. _III.n28:
 
-.. [#28] Here ten kinds of foulness are given. But in the Suttas only either five or six of this set appear to be mentioned, that is, “Perception of a skeleton, perception of the worm-infested, perception of the livid, perception of the cut-up, perception of the bloated. (see  [A]_  *I 42*\   and  [S]_  *V 131*\  ;  [A]_  *II 17*\   adds “perception of the festering”)” No details are given. All ten appear at Dhs 263–64 and  [Paṭis]_  *I 49*\  . It will be noted that no order of progress of decay in the kinds of corpse appears here; also the instructions in :ref:`Ch. VI <VI>`  are for contemplating actual corpses in these states. The primary purpose here is to cultivate “repulsiveness.”
+.. [#28] Here ten kinds of foulness are given. But in the Suttas only either five or six of this set appear to be mentioned, that is, “Perception of a skeleton, perception of the worm-infested, perception of the livid, perception of the cut-up, perception of the bloated. (see  [A]_  *I 42*\   and  [S]_  *V 131*\  ;  [A]_  *II 17*\   adds “perception of the festering”)” No details are given. All ten appear at Dhs 263–64 and  [Paṭis]_  *I 49*\  . It will be noted that no order of progress of decay in the kinds of corpse appears here; also the instructions in :ref:`Ch. VI <VI>` are for contemplating actual corpses in these states. The primary purpose here is to cultivate “repulsiveness.”
     
-    Another set of nine progressive stages in the decay of a corpse, mostly different from these, is given at  [M]_  *I 58*\  , 89, etc., beginning with a corpse one day old and ending with bones turned to dust. From the words “suppose a bhikkhu saw a corpse thrown on a charnel ground … he compares this same body of his with it thus, ‘This body too is of like nature, awaits a like fate, is not exempt from that’”( [M]_  *I 58*\  ), it can be assumed that these nine, which are given in progressive order of decay in order to demonstrate the body’s impermanence, are not necessarily intended as contemplations of actual corpses so much as mental images to be created, the primary purpose being to cultivate impermanence. This may be why these nine are not used here (see :ref:`VIII.43 <VIII.43>` ).
+    Another set of nine progressive stages in the decay of a corpse, mostly different from these, is given at  [M]_  *I 58*\  , 89, etc., beginning with a corpse one day old and ending with bones turned to dust. From the words “suppose a bhikkhu saw a corpse thrown on a charnel ground … he compares this same body of his with it thus, ‘This body too is of like nature, awaits a like fate, is not exempt from that’”( [M]_  *I 58*\  ), it can be assumed that these nine, which are given in progressive order of decay in order to demonstrate the body’s impermanence, are not necessarily intended as contemplations of actual corpses so much as mental images to be created, the primary purpose being to cultivate impermanence. This may be why these nine are not used here (see :ref:`VIII.43 <VIII.43>`).
     
     The word *asubha* (foul, foulness) is used both of the contemplations of corpses as here and of the contemplation of the parts of the body ( [A]_  *V 109*\  ).
 
 
 .. _III.n29:
 
-.. [#29] Also quoted in  [A-a]_  *V 79*\   on AN 11:9. Cf.  [Sn]_  *1119.*\   A similar quotation with Sopāka is found in  [Vism-mhṭ]_  *334–35*\  , see note 1 to :ref:`XI.2 <XI.2>` .
+.. [#29] Also quoted in  [A-a]_  *V 79*\   on AN 11:9. Cf.  [Sn]_  *1119.*\   A similar quotation with Sopāka is found in  [Vism-mhṭ]_  *334–35*\  , see note 1 to :ref:`XI.2 <XI.2>`.
 
 
 .. _III.n30:

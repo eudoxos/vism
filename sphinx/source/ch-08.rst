@@ -10,7 +10,7 @@ General Definitions
 
 .. _VI.1:
 
-**§1** *[169/227]*  ``178``  Now, ten kinds of foulness, [as corpses] without consciousness, were listed next after the kasiṇas thus: the bloated, the livid, the festering, the cut up, the gnawed, the scattered, the hacked and scattered, the bleeding, the worm infested, a skeleton (:ref:`III.105 <III.105>` ).
+**§1** *[169/227]*  ``178``  Now, ten kinds of foulness, [as corpses] without consciousness, were listed next after the kasiṇas thus: the bloated, the livid, the festering, the cut up, the gnawed, the scattered, the hacked and scattered, the bleeding, the worm infested, a skeleton (:ref:`III.105 <III.105>`).
 
 *The bloated*\ : it is bloated (*uddhumāta*\ ) because bloated by gradual dilation and swelling after (*uddhaṃ*\ ) the close of life, as a bellows is with wind. What is bloated (*uddhumāta*\ ) is the same as “the bloated” (*uddhumātaka*\ ). Or alternatively, what is bloated (*uddhumāta*\ ) is vile (*kucchita*\ ) because of repulsiveness, thus it is “the bloated” (*uddhumātaka*\ ). This is a term for a corpse in that particular state.
 
@@ -364,7 +364,7 @@ A Skeleton
 
 .. _VI.81:
 
-**§81** What is said in the Commentaries in this context allows that deduction. For there, after saying this, “There is no counterpart sign in the four divine abidings and in the ten kinds of foulness; for in the case of the divine abidings the sign is the breaking down of boundaries itself, and in the case of the ten kinds of foulness the sign comes into being as soon as the repulsiveness is seen, without any thinking about it,” it is again said, immediately next: “Here the sign is twofold: the learning sign and the counterpart sign. The learning sign appears hideous, dreadful and terrifying,” and so on. So what we said was well considered. And it is only this that is correct here. Besides, the appearance of a *[182/240]* woman’s whole body as a collection of bones to the Elder Mahā-Tissa through his merely looking at her teeth demonstrates this here (see :ref:`I.55 <I.55>` ).
+**§81** What is said in the Commentaries in this context allows that deduction. For there, after saying this, “There is no counterpart sign in the four divine abidings and in the ten kinds of foulness; for in the case of the divine abidings the sign is the breaking down of boundaries itself, and in the case of the ten kinds of foulness the sign comes into being as soon as the repulsiveness is seen, without any thinking about it,” it is again said, immediately next: “Here the sign is twofold: the learning sign and the counterpart sign. The learning sign appears hideous, dreadful and terrifying,” and so on. So what we said was well considered. And it is only this that is correct here. Besides, the appearance of a *[182/240]* woman’s whole body as a collection of bones to the Elder Mahā-Tissa through his merely looking at her teeth demonstrates this here (see :ref:`I.55 <I.55>`).
 
 .. _VI.82:
 
@@ -407,7 +407,7 @@ General
 
 .. _VI.88:
 
-**§88** This foulness, while of ten kinds, has only one characteristic. For though it is of ten kinds, nevertheless its characteristic is only its impure, stinking, disgusting and repulsive state (essence). And foulness appears with this characteristic not only in a dead body but also in a living one, as it did to the Elder Mahā-Tissa who lived at Cetiyapabbata (:ref:`I.55 <I.55>` ), and to the novice attendant on the Elder Saṅgharakkhita while he was watching the king riding an elephant. For a living body is just as foul as a dead one,  ``195``  only the characteristic of foulness is not evident in a living body, being hidden by adventitious embellishments.
+**§88** This foulness, while of ten kinds, has only one characteristic. For though it is of ten kinds, nevertheless its characteristic is only its impure, stinking, disgusting and repulsive state (essence). And foulness appears with this characteristic not only in a dead body but also in a living one, as it did to the Elder Mahā-Tissa who lived at Cetiyapabbata (:ref:`I.55 <I.55>`), and to the novice attendant on the Elder Saṅgharakkhita while he was watching the king riding an elephant. For a living body is just as foul as a dead one,  ``195``  only the characteristic of foulness is not evident in a living body, being hidden by adventitious embellishments.
 
 .. _VI.89:
 
@@ -515,7 +515,7 @@ The sixth chapter called “The Description of Foulness as a Meditation Subject�
 
 .. _VI.n3:
 
-.. [#3] This does not imply what we, now, might suppose. See the description of “brain” in :ref:`VIII.126 <VIII.126>`  and especially :ref:`VIII.136 <VIII.136>` . What is meant is perhaps that he might get a cold or catarrh.
+.. [#3] This does not imply what we, now, might suppose. See the description of “brain” in :ref:`VIII.126 <VIII.126>` and especially :ref:`VIII.136 <VIII.136>`. What is meant is perhaps that he might get a cold or catarrh.
 
 
 .. _VI.n4:
@@ -530,7 +530,7 @@ The sixth chapter called “The Description of Foulness as a Meditation Subject�
 
 .. _VI.n6:
 
-.. [#6] *Vipphandana—*\ “wrong kind of excitement”:  [Vism-mhṭ]_   says here “*Kilesa-paripphandanass’ eva nimittaṃ hotī ti attho*\  (the meaning is, it becomes the sign for interference by (activity of) defilement” ( [Vism-mhṭ]_  *170*\  ). *Phandati*\  and *vipphandati*\  are both given only such meanings as “to throb, stir, twitch” and *paripphandati*\  is not in PED. For the sense of wrong (*vi*\ -) excitement (*phandana*\ ) cf. :ref:`IV.89 <IV.89>`  and :ref:`XIV.132 <XIV.132>`  and note. There seems to be an association of meaning between *vipphāra, vyāpāra, vipphandana, īhaka*\ , and *paripphandana*\  (perhaps also *ābhoga*\ ) in the general senses of interestedness, activity, concern, interference, intervention, etc.
+.. [#6] *Vipphandana—*\ “wrong kind of excitement”:  [Vism-mhṭ]_   says here “*Kilesa-paripphandanass’ eva nimittaṃ hotī ti attho*\  (the meaning is, it becomes the sign for interference by (activity of) defilement” ( [Vism-mhṭ]_  *170*\  ). *Phandati*\  and *vipphandati*\  are both given only such meanings as “to throb, stir, twitch” and *paripphandati*\  is not in PED. For the sense of wrong (*vi*\ -) excitement (*phandana*\ ) cf. :ref:`IV.89 <IV.89>` and :ref:`XIV.132 <XIV.132>` and note. There seems to be an association of meaning between *vipphāra, vyāpāra, vipphandana, īhaka*\ , and *paripphandana*\  (perhaps also *ābhoga*\ ) in the general senses of interestedness, activity, concern, interference, intervention, etc.
 
 
 .. _VI.n7:
@@ -545,7 +545,7 @@ The sixth chapter called “The Description of Foulness as a Meditation Subject�
 
 .. _VI.n9:
 
-.. [#9] There is no sense of *ajjhottharati*\  given in PED that fits here. Cf. :ref:`I.56 <I.56>` .
+.. [#9] There is no sense of *ajjhottharati*\  given in PED that fits here. Cf. :ref:`I.56 <I.56>`.
 
 
 .. _VI.n10:
