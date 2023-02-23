@@ -45,11 +45,11 @@ To that question, which was asked above, we reply that this development of under
 
 .. _XXIII.3:
 
-**§3** Not only the removal of the various defilements but also the experience of the taste of the noble fruit is a benefit of the development of understanding.  ``699``  For it is the fruitions of stream-entry, etc.—the fruits of asceticism—that are called
+**§3** Not only the removal of the various defilements but also the experience of the taste of the noble fruit is a benefit of the development of understanding.  ``699``  For it is the fruitions of stream-entry, etc.—the fruits of asceticism—that are called *[731/789]* the “noble fruit.” Its taste is experienced in two ways, that is to say, in its occurrence in the cognitive series of the path, and in its occurrence in the attainment of fruition. Of these, only its occurrence in the cognitive series of the path has been shown (:ref:`XXII.3f. <XXII.3>`).
 
 .. _XXIII.4:
 
-**§4** *[731/789]* the “noble fruit.” Its taste is experienced in two ways, that is to say, in its occurrence in the cognitive series of the path, and in its occurrence in the attainment of fruition. Of these, only its occurrence in the cognitive series of the path has been shown (:ref:`XXII.3f. <XXII.3>`). Furthermore, when people say that the fruit is the mere abandoning of fetters [#1]_  and nothing more than that, the following sutta can be cited in order to convince them that they are wrong: “How is it that understanding of the tranquilizing of effort is knowledge of fruit? At the moment of the stream-entry path right view in the sense of seeing emerges from wrong view, and it emerges from the defilements and from the aggregates that occur consequent upon that [wrong view], and externally it emerges from all signs. Right view arises because of the tranquilizing of that effort. This is the fruit of the path” ( [Paṭis]_  *I 71*\  ), and this should be given in detail. Also such passages as, “The four paths and the four fruits—these states have a measureless object” (Dhs §1408), and, “An exalted state is a condition, as proximity condition, for a measureless state” ( [Paṭṭh]_  *II 227*\   (Be)), establish the meaning here.
+**§4**  Furthermore, when people say that the fruit is the mere abandoning of fetters [#1]_  and nothing more than that, the following sutta can be cited in order to convince them that they are wrong: “How is it that understanding of the tranquilizing of effort is knowledge of fruit? At the moment of the stream-entry path right view in the sense of seeing emerges from wrong view, and it emerges from the defilements and from the aggregates that occur consequent upon that [wrong view], and externally it emerges from all signs. Right view arises because of the tranquilizing of that effort. This is the fruit of the path” ( [Paṭis]_  *I 71*\  ), and this should be given in detail. Also such passages as, “The four paths and the four fruits—these states have a measureless object” (Dhs §1408), and, “An exalted state is a condition, as proximity condition, for a measureless state” ( [Paṭṭh]_  *II 227*\   (Be)), establish the meaning here.
 
 .. _XXIII.5:
 
@@ -167,7 +167,9 @@ This, firstly, is how attaining comes about.  ``701``
 
 **§17** Now, in order to explain the attainment of cessation there is this set of questions:
 
-(i) What is the attainment of cessation? (ii) Who attains it? (iii) Who do not attain it? (iv) Where do they attain it? (v) Why do they attain it? (vi) How does its attainment come about? (vii) How is it made to last? (viii) How does the emergence from it come about?
+
+
+.. todo:: enumeration(i) What is the attainment of cessation? (ii) Who attains it? (iii) Who do not attain it? (iv) Where do they attain it? (v) Why do they attain it? (vi) How does its attainment come about? (vii) How is it made to last? (viii) How does the emergence from it come about?
 
 (ix) Towards what does the mind of one who has emerged tend?
 
@@ -444,7 +446,9 @@ Now, at this point that has all been expounded. And herein:
 | Desiring purification duly show
 | Reverence for this *Path of Purification*\ .
 
-* * *
+
+
+.. todo:: * * *
 
 
 

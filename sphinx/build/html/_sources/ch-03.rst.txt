@@ -185,7 +185,9 @@ II. Virtue
 
 **§16** However, even when this path of purification is shown in this way under the headings of virtue, concentration and understanding, each comprising various special qualities, it is still only shown extremely briefly. And so since that is insufficient to help all, there is, in order to show it in detail, the following set of questions dealing in the first place with virtue:
 
-(i) What is virtue? (ii) In what sense is it virtue? (iii) What are its characteristic, function, manifestation, and proximate cause?
+
+
+.. todo:: enumeration(i) What is virtue? (ii) In what sense is it virtue? (iii) What are its characteristic, function, manifestation, and proximate cause?
 
 (iv) What are the benefits of virtue? (v) How many kinds of virtue are there? (vi) What is the defiling of it? (viii) What is the cleansing of it?
 
@@ -358,9 +360,7 @@ This is how virtue’s characteristic, function, manifestation, and proximate ca
 
 2. It is of two kinds as keeping and avoiding.
 
-3. Likewise as that of good behaviour and that of the beginning of the life of
-
-purity,
+3. Likewise as that of good behaviour and that of the beginning of the life of purity,
 
 4. As abstinence and non-abstinence,
 
@@ -374,9 +374,7 @@ purity,
 
 9. It is of three kinds as inferior, medium, and superior.
 
-10. Likewise as giving precedence to self, giving precedence to the world, and
-
-giving precedence to the Dhamma,
+10. Likewise as giving precedence to self, giving precedence to the world, and giving precedence to the Dhamma,
 
 11. As adhered to, not adhered to, and tranquillized.
 
@@ -386,9 +384,7 @@ giving precedence to the Dhamma,
 
 14. It is of four kinds as partaking of diminution, of stagnation, of distinction, of penetration.
 
-15. Likewise as that of bhikkhus, of bhikkhunīs, of the not-fully-admitted, of
-
-the laity,
+15. Likewise as that of bhikkhus, of bhikkhunīs, of the not-fully-admitted, of the laity,
 
 16. As natural, customary, necessary, due to previous causes,
 
@@ -605,9 +601,7 @@ Being thus furnished with … endowed with, this (proper) conduct and this (prop
 | And standing on that very spot
 | The elder became an Arahant.”
 
-But her husband, who was going after her, saw the elder and asked, “Venerable
-
-sir, did you by any chance see a woman?” The elder told him:
+But her husband, who was going after her, saw the elder and asked, “Venerable sir, did you by any chance see a woman?” The elder told him:
 
 
 
@@ -885,9 +879,7 @@ It seems that robbers in the Mahāvaṭṭanī Forest bound an elder with black 
 
 This mind is called “quickly transformed” ( [A]_  *I 10*\  ), so restraint of the faculties should be undertaken by removing arisen lust with the contemplation of foulness, as was done by the Elder Vaṅgīsa soon after he had gone forth.  ``38`` 
 
-As the elder was wandering for alms, it seems, soon after going forth, lust arose
-
-in him on seeing a woman. Thereupon he said to the venerable Ānanda:
+As the elder was wandering for alms, it seems, soon after going forth, lust arose in him on seeing a woman. Thereupon he said to the venerable Ānanda:
 
 
 
@@ -1494,10 +1486,6 @@ And: “What do you think, bhikkhus, which is better, that one should have a str
 
 | So out upon the life of him abiding
 | Without restraint, of him that wears the guise
-
-
-
-
 | *[53/111]* Of the ascetic that he will not be,
 | And damages and undermines himself!
 

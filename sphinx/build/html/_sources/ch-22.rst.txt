@@ -36,7 +36,9 @@ Herein, the understanding that occurs by observing the specific characteristics 
 
 (5) Causing fading away, he abandons greed.
 
-(6) Causing cessation, he abandons originating. (7) Relinquishing, he abandons grasping ( [Paṭis]_  *I 58*\  ). [#3]_ 
+(6) Causing cessation, he abandons originating.
+
+(7) Relinquishing, he abandons grasping ( [Paṭis]_  *I 58*\  ). [#3]_ 
 
 .. _XX.5:
 
@@ -69,7 +71,9 @@ Insight: Comprehension by Groups
 
 **§9** Herein, the abbreviation, “The eye … (etc.) … Ageing-and-death,” should be understood to represent the following sets of things elided:
 
-1. The states that occur in the doors [of consciousness] together with the doors and the objects.
+
+
+.. todo:: enumeration1. The states that occur in the doors [of consciousness] together with the doors and the objects.
 
 2. The five aggregates. 3. The six doors. 4. The six objects. 5. The six kinds of consciousness. 6. The six kinds of contact. 7. The six kinds of feeling. 8. The six kinds of perception. 9. The six kinds of volition. 10. The six kinds of craving. 11. The six kinds of applied thought. 12. The six kinds of sustained thought. 13. The six elements. 14. The ten kasiṇas. 15. The thirty-two bodily aspects. 16. The twelve bases.
 
@@ -673,7 +677,7 @@ This is how tranquillity, associated with lightness, etc., arises in him, bringi
 
 .. _XX.117:
 
-**§117** *. 5. Bliss* (*pleasure*\ ) is bliss due to insight. At that time perhaps there arises in him exceedingly refined bliss (pleasure) flooding his whole body.
+**§117** *5. Bliss* (*pleasure*\ ) is bliss due to insight. At that time perhaps there arises in him exceedingly refined bliss (pleasure) flooding his whole body.
 
 .. _XX.118:
 
