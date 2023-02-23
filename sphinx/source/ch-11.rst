@@ -91,6 +91,9 @@ But when he begins, he must know that some persons are of the wrong sort at the 
 
 *[Getting Rid of Resentment]*\ 
 
+Getting Rid of Resentment
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. _IX.14:
 
 **§14** If resentment arises in him when he applies his mind to a hostile person because he remembers wrongs done by that person, he should get rid of the resentment by entering repeatedly into loving-kindness [jhāna] towards any of the first-mentioned persons and then, after he has emerged each time, directing loving-kindness towards that person.
@@ -433,6 +436,12 @@ And with no hate in his mind and regardless of his own pain he saw to it that th
 
 *[The Breaking Down of the Barriers—The Sign]*\ 
 
+The Breaking Down of the Barriers—The Sign
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Texts and Commentary
+^^^^^^^^^^^^^^^^^^^^
+
 .. _IX.40:
 
 **§40** When his resentment towards that hostile person has been thus allayed, then he can turn his mind with loving-kindness towards that person too, just as towards the one who is dear, the very dear friend, and the neutral person. Then he should break down the barriers by practicing loving-kindness over and over again, accomplishing mental impartiality towards the four persons, that is to say, himself, the dear person, the neutral person and the hostile person.
@@ -722,19 +731,26 @@ This is the detailed explanation of the development of equanimity.
 
 *[Meanings]*\ 
 
+General
+-------
+
+Meanings
+^^^^^^^^
+
 .. _IX.92:
 
 **§92** Now, as to the meaning firstly of loving-kindness, compassion, gladness and equanimity: it fattens (*mejjati*\ ), thus it is loving-kindness (*mettā*\ ); it is solvent (*siniyhati*\ ) is the meaning. Also: it comes about with respect to a friend (*mitta*\ ),  ``318``  or it is behaviour towards a friend, thus it is loving-kindness (*mettā*\ ).
 
 When there is suffering in others it causes (*karoti*\ ) good people’s hearts to be moved (*kampana*\ ), thus it is compassion (*karuṇā*\ ). Or alternatively, it combats (*kiṇāti*\ ) [#11]_  others’ suffering, attacks and demolishes it, thus it is compassion. Or alternatively, it is scattered (*kiriyati*\ ) upon those who suffer, it is extended to them by pervasion, thus it is compassion (*karuṇā*\ ).
 
-Those endowed with it are glad (*modanti*\ ), or itself is glad (*modati*\ ), or it is the
-
-mere act of being glad (*modana*\ ), thus it is gladness (*muditā*\ ).
+Those endowed with it are glad (*modanti*\ ), or itself is glad (*modati*\ ), or it is the mere act of being glad (*modana*\ ), thus it is gladness (*muditā*\ ).
 
 It looks on at (*upekkhati*\ ), abandoning such interestedness as thinking “May they be free from enmity” and having recourse to neutrality, thus it is equanimity (*upekkhā*\ ).
 
 *[Characteristic, Etc.]*\ 
+
+Characteristic etc.
+^^^^^^^^^^^^^^^^^^^
 
 .. _IX.93:
 
@@ -754,11 +770,17 @@ It looks on at (*upekkhati*\ ), abandoning such interestedness as thinking “Ma
 
 *[Purpose]*\ 
 
+Purpose
+^^^^^^^
+
 .. _IX.97:
 
 **§97** The general purpose of these four divine abidings is the bliss of insight and an excellent [form of future] existence. That peculiar to each is respectively the warding off of ill will, and so on. For here loving-kindness has the purpose of warding off ill will, while the others have the respective purposes of warding off cruelty, aversion (boredom), and greed or resentment. And this is said too: “For this is the escape from ill will, friends, that is to say, the mind-deliverance of loving-kindness … For this is the escape from cruelty, friends, that is to say, the mind-deliverance of compassion … For this is the escape from boredom, friends, that is to say, the mind-deliverance of gladness … For this is the escape from greed, friends, that is to say, the mind-deliverance of equanimity” ( [D]_  *III 248*\  ).
 
 *[The Near and Far Enemies]*\ 
+
+The Near and Far Enemies
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _IX.98:
 
@@ -780,11 +802,17 @@ The divine abiding of *loving-kindness*  ``319``  has greed as its near enemy, [
 
 *[The Beginning, Middle and End, Etc.]*\ 
 
+The Beginning, Middle and End, Etc.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. _IX.102:
 
 **§102** Now, zeal consisting in desire to act is the beginning of all these things. Suppression of the hindrances, etc., is the middle. Absorption is the end. Their *[314/372]* object is a single living being or many living beings, as a mental object consisting in a concept.
 
 *[The Order in Extension]*\ 
+
+The Order in Extension
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _IX.103:
 
@@ -792,11 +820,17 @@ The divine abiding of *loving-kindness*  ``319``  has greed as its near enemy, [
 
 *[The Outcome]*\ 
 
+The Outcome
+^^^^^^^^^^^
+
 .. _IX.104:
 
 **§104** Just as the immaterial states are the outcome of the kasiṇas, and the base consisting of neither perception nor non-perception is the outcome of concentration, and fruition attainment is the outcome of insight, and the attainment of cessation is the outcome of serenity coupled with insight, so the divine abiding of equanimity is the outcome of the first three divine abidings. For just as the gable rafters cannot be placed in the air without having first set up the scaffolding and built the framework of beams, so it is not possible to develop the fourth (jhāna in the fourth divine abiding) without having already developed the third jhāna in the earlier (three divine abidings).
 
 *[Four Questions]*\ 
+
+Four Questions
+^^^^^^^^^^^^^^
 
 .. _IX.105:
 
@@ -842,6 +876,9 @@ That is why it was said:  ``322``
 
 *[As Producing Three Jhānas and Four Jhānas]*\ 
 
+As Producing Three Jhānas and Four Jhānas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. _IX.111:
 
 **§111** Though they have a single characteristic in having a measureless scope, yet the first three are only of triple and quadruple jhāna [respectively in the fourfold and fivefold reckonings]. Why? Because they are not dissociated from *[316/374]* joy. But why are their aims not dissociated from joy? Because they are the escape from ill will, etc., which are originated by grief. But the last one belongs only to the remaining single jhāna. Why? Because it is associated with equanimous feeling. For the divine abiding of equanimity that occurs in the aspect of neutrality towards beings does not exist apart from equanimous [that is to say, neither-painful-nor-pleasant] feeling.
@@ -875,6 +912,9 @@ That is why it was said:  ``322``
 **§118** Having thus shown how its [further] development by means of quadruple and quintuple jhāna is preceded by loving-kindness, etc., and having told him, “As soon as this concentration has been developed by you, bhikkhu, and frequently practiced, then you should train thus: ‘I shall dwell contemplating the body as a body,’” etc., he concluded the discourse with Arahantship as its culmination thus: “As soon as this concentration has been developed by you, bhikkhu, completely developed, then wherever you go you will go in comfort, wherever you stand you will stand in comfort, wherever  ``324``  you sit you will sit in comfort, wherever you make your couch you will do so in comfort” ( [A]_  *IV 301*\  ). From that it must be understood that the [three] beginning with loving-kindness have only triple-quadruple jhāna, and that equanimity has only the single *[318/376]* remaining jhāna. And they are expounded in the same way in the Abhidhamma as well.
 
 *[The Highest Limit of Each]*\ 
+
+The Highest Limit of Each
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _IX.119:
 

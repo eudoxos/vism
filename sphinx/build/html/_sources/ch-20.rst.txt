@@ -5,19 +5,25 @@
 XVIII. Purification of View
 ===========================
 
+Introductory
+------------
+
 .. _XVIII.1:
 
 **§1** *[609/667]*  ``587``  Now, it was said earlier (:ref:`XIV.32 <XIV.32>`) that he “should first fortify his knowledge by learning and questioning about those things that are the ‘soil’ after he has perfected the two purifications—purification of virtue and purification of consciousness—that are the ‘roots.’” Now, of those, purification of virtue is the quite purified fourfold virtue beginning with Pātimokkha restraint; and that has already been dealt with in detail in the Description of Virtue; (Chs. I and II) and the purification of consciousness, namely, the eight attainments together with access concentration, has also been dealt with in detail in all its aspects in the Description of Concentration, (Chs. III to XIII) stated under the heading of “consciousness” [in the introductory verse]. So those two purifications should be understood in detail as given there.
-
-.. _XVIII.2:
-
-**§2** But it was said above (:ref:`XIV.32 <XIV.32>`) that “The five purifications, purification of view, purification by overcoming doubt, purification by knowledge and vision of what is the path and what is not the path, purification by knowledge and vision of the way, and purification by knowledge and vision, are the ‘trunk.’” Herein, “purification of view” is the correct seeing of mentality-materiality. [#1]_ 
 
 Defining of Mentality-Materiality
 ---------------------------------
 
 (1) Definition Based on the Four Primaries
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+(a) Starting with Mentality
+"""""""""""""""""""""""""""
+
+.. _XVIII.2:
+
+**§2** But it was said above (:ref:`XIV.32 <XIV.32>`) that “The five purifications, purification of view, purification by overcoming doubt, purification by knowledge and vision of what is the path and what is not the path, purification by knowledge and vision of the way, and purification by knowledge and vision, are the ‘trunk.’” Herein, “purification of view” is the correct seeing of mentality-materiality. [#1]_ 
 
 *[(a) Starting with Mentality]*\ 
 
@@ -30,6 +36,9 @@ Defining of Mentality-Materiality
 **§4** Then, just as a man, by following a snake that he has seen in his house, finds its abode, so too this meditator scrutinizes that mentality, he seeks to find out what its occurrence is supported by and he sees that it is supported  ``588``  by the matter of the heart. After that, he discerns as materiality the primary elements, which are the heart’s support, and the remaining, derived kinds of materiality that have the elements as their support. He defines all that as “materiality” (*rūpa*\ ) because it is “molested” (*ruppana*\ ) [by cold, etc.]. After that he defines in brief as “mentality-materiality” (*nāma-rūpa*\ ) the mentality that has the characteristic of “bending” and the materiality that has the characteristic of “being molested.”
 
 *[(b) Starting with Materiality]*\ 
+
+(b) Starting with Materiality
+"""""""""""""""""""""""""""""
 
 .. _XVIII.5:
 
@@ -320,6 +329,9 @@ But there is nothing to prevent their occurrence when they support each other.
 | The boat and men go on the sea.
 | And so do mind and matter both
 | Depend the one upon the other.
+
+Conclusion
+----------
 
 .. _XVIII.37:
 

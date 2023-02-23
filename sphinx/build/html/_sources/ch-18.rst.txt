@@ -223,8 +223,11 @@ This is how the exposition should be understood here as to neither less nor more
 
 ``[The Truth of Suffering]``\ 
 
+The Truth of Suffering
+^^^^^^^^^^^^^^^^^^^^^^
+
 (i) Birth
-^^^^^^^^^
+"""""""""
 
 .. _XVI.32:
 
@@ -327,7 +330,7 @@ So this birth is the basis for all this suffering. Hence this is said:
 This, firstly, is the exposition of birth.  ``502`` 
 
 (ii) Ageing
-^^^^^^^^^^^
+"""""""""""
 
 .. _XVI.44:
 
@@ -368,7 +371,7 @@ Hence this is said:
 This is the exposition of ageing.
 
 (iii) Death
-^^^^^^^^^^^
+"""""""""""
 
 .. _XVI.46:
 
@@ -405,7 +408,7 @@ Hence this is said:
 This is the exposition of death.
 
 (iv) Sorrow
-^^^^^^^^^^^
+"""""""""""
 
 .. _XVI.48:
 
@@ -430,7 +433,7 @@ This is the exposition of death.
 This is the exposition of sorrow.
 
 (v) Lamentation
-^^^^^^^^^^^^^^^
+"""""""""""""""
 
 .. _XVI.49:
 
@@ -447,7 +450,7 @@ This is the exposition of sorrow.
 This is the exposition of lamentation.
 
 (vi) Pain
-^^^^^^^^^
+"""""""""
 
 .. _XVI.50:
 
@@ -464,7 +467,7 @@ This is the exposition of lamentation.
 This is the exposition of pain. [504]
 
 (vii) Grief
-^^^^^^^^^^^
+"""""""""""
 
 .. _XVI.51:
 
@@ -481,7 +484,7 @@ This is the exposition of pain. [504]
 This is the exposition of grief.
 
 (viii) Despair
-^^^^^^^^^^^^^^
+""""""""""""""
 
 .. _XVI.52:
 
@@ -502,7 +505,7 @@ This is the exposition of despair.
 **§53** Sorrow is like the cooking [of oil, etc.] [#13]_  in a pot over a slow fire. Lamentation is like its boiling over from the pot when cooking over a quick fire. Despair is like *[517/575]* what remains in the pot after it has boiled over and is unable to do so any more, going on cooking in the pot till it dries up.
 
 (ix) Association with the Unloved
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""""
 
 .. _XVI.54:
 
@@ -527,7 +530,7 @@ This is the exposition of despair.
 This is the exposition of association with the unloved.  ``505`` 
 
 (x) Separation from the Loved
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""
 
 .. _XVI.55:
 
@@ -544,7 +547,7 @@ This is the exposition of association with the unloved.  ``505``
 This is the exposition of separation from the loved.
 
 (xi) Not to Get What One Wants
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""
 
 .. _XVI.56:
 
@@ -569,7 +572,7 @@ This is the exposition of separation from the loved.
 This is the exposition of not to get what one wants.
 
 (xii) The Five Aggregates
-^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""
 
 .. _XVI.57:
 
@@ -606,14 +609,14 @@ This is the exposition of not to get what one wants.
 This is the exposition of the aggregates [as objects] of clinging. This, firstly, is the method for the description of suffering.
 
 The Truth of the Origin of Suffering
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XVI.61:
 
 **§61** But in the description of the *origin*\ , the expression *yāyaṃ taṇhā* (that craving which) = *yā ayaṃ taṇhā*\ . [As regards the expression] *produces further becoming*\ : it is a making become again, thus it is “becoming again” (*punabbhava*\ ); becoming again is its habit, thus it “produces further becoming” (*ponobbhavika*\ ). The expression *nandirāgasahagatā* (accompanied by concern and greed) = *nandirāgena* *[519/577]* *sahagatā*\ ; what is meant is that it is identical in meaning with delight and greed. *Concerned with this and that*\ : wherever personality is generated there is concern with that. The expression *that is to say* (*seyyathidaṃ*\ ) is a particle; its meaning is “which is that.” *Craving for sense desires, craving for becoming, craving for non-becoming* will be explained in the Description of Dependent Origination (:ref:`XVII.233ff. <XVII.233>`). Although this is threefold, it should nevertheless be understood as “the noble truth of the origin of suffering,” taking it as one in the sense of its generating the truth of suffering.
 
 The Truth of the Cessation of Suffering
----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XVI.62:
 
@@ -644,7 +647,7 @@ The Truth of the Cessation of Suffering
 **§66** It has peace as its characteristic. Its function is not to die; or its function is to comfort. It is manifested as the signless; or it is manifested as non-diversification. [#17]_ 
 
 Discussion on Nibbāna
----------------------
+"""""""""""""""""""""
 
 .. _XVI.67:
 
@@ -723,7 +726,7 @@ The Buddhas’ goal is one and has no plurality. But this [single goal, Nibbāna
 *[524/582]* This is the section of the definition dealing with the description of the cessation of suffering.
 
 The Truth of the Way
---------------------
+^^^^^^^^^^^^^^^^^^^^
 
 .. _XVI.75:
 

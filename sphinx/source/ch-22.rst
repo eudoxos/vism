@@ -5,16 +5,22 @@
 XX. Purification by Knowledge and Vision of What is the Path and What is Not the Path
 =====================================================================================
 
+Introductory
+------------
+
 .. _XX.1:
 
 **§1** *[631/689]*  ``606``  The knowledge established by getting to know the path and the not-path thus, “This is the path, this is not the path,” is called “purification by knowledge and vision of what is the path and what is not the path.”
+
+The Fifth Purification
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.2:
 
 **§2** One who desires to accomplish this should first of all apply himself to the inductive insight called “comprehension by groups. [#1]_ ” Why? Because knowledge of what is the path and what is not the path appears in connection with the appearance of illumination, etc. (:ref:`XX.105f. <XX.105>`) in one who has begun insight. For it is after illumination, etc., have appeared in one who has already begun insight that there comes to be knowledge of what is the path and what is not the path. And comprehension by groups is the beginning of insight. That is why it is set forth next to the overcoming of doubt. Besides, knowledge of what is the path and what is not the path arises when “full-understanding as investigation” is occurring, and full-understanding as investigation comes next to full-understanding as the known (see :ref:`XIX.21 <XIX.21>`). So this is also a reason why one who desires to accomplish this purification by knowledge and vision of what is the path and what is not the path should first of all apply himself to comprehension by groups.
 
 The Three Kinds of Full-Understanding
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.3:
 
@@ -44,8 +50,11 @@ Herein, the understanding that occurs by observing the specific characteristics 
 
 **§5** *[633/691]* So, of these three kinds of full-understanding, only full-understanding as the known has been attained by this meditator as yet, which is because the delimitation of formations and the discernment of conditions have already been accomplished; the other two still remain to be attained. Hence it was said above: “Besides, knowledge of what is the path and what is not the path arises when full-understanding as investigation is occurring, and full-understanding as investigation comes next to full-understanding as the known. So this is also a reason why one who desires to accomplish this purification by knowledge and vision of what is the path and what is not the path should first of all apply himself to comprehension by groups” (§2).
 
-Insight: Comprehension by Groups
---------------------------------
+Insight
+-------
+
+Comprehension by Groups
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.6:
 
@@ -90,7 +99,7 @@ Insight: Comprehension by Groups
 **§12** Since all this detail is given there it has been abbreviated here. But what is thus abbreviated includes the supramundane states. These should not be dealt with at this stage because they are not amenable to comprehension. And as regards those that are amenable to comprehension a beginning should be made by comprehending those among them that are obvious to and easily discernible by the individual [meditator].
 
 Comprehension by Groups—Application of Text
--------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.13:
 
@@ -113,7 +122,7 @@ Comprehension by Groups—Application of Text
 **§17** But what is impermanent is necessarily classed as formed, etc., and so in order to show the synonyms for that [impermanence], or in order to show how the attention given to it occurs in different ways, it is restated in the text thus: “Materiality, whether past, future, or present, is impermanent, formed, dependently arisen, subject to destruction, subject to fall, subject to fading away, subject to cessation” (§7). The same method applies to feeling, and so on.
 
 Strengthening of Comprehension in Forty Ways
---------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.18:
 
@@ -130,14 +139,14 @@ Strengthening of Comprehension in Forty Ways
 So when a man comprehends the five aggregates by means of this comprehending as impermanent, etc., in its two hundred aspects, his comprehending as impermanent, painful and not-self, which is called “inductive insight,” is strengthened. These in the first place are the directions for undertaking comprehension here in accordance with the method given in the texts.
 
 Nine Ways of Sharpening the Faculties, Etc.
--------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.21:
 
 **§21** While thus engaged in inductive insight, however, if it does not succeed, he should sharpen his faculties [of faith, etc.,] in the nine ways stated thus: “The faculties become sharp in nine ways: (1) he sees only the destruction of arisen formations; (2) and in that [occupation] he makes sure of working carefully, (3) he makes sure of working perseveringly, (4) he makes sure of working suitably, and (5) by apprehending the sign of concentration and (6) by balancing the enlightenment factors (7) he establishes disregard of body and life, (8) wherein he overcomes [pain] by renunciation and (9) by not stopping halfway. [#12]_  He should avoid the seven unsuitable things in the way stated in the Description of the Earth Kasiṇa (:ref:`IV.34 <IV.34>`) and cultivate the seven suitable things, and he should comprehend the material at one time and the immaterial at another.
 
 Comprehension of the Material
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.22:
 
@@ -162,7 +171,7 @@ Comprehension of the Material
 Also seventy instances of materiality occur in the same way with the sevenfold continuity [beginning with the eye decad] of those apparitionally born.
 
 (a) Kamma-Born Materiality
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""
 
 .. _XX.27:
 
@@ -181,7 +190,7 @@ This is how the generation of kamma-born materiality in the first place should b
 
 
 (b) Consciousness-Born Materiality
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""
 
 .. _XX.30:
 
@@ -220,7 +229,7 @@ As regards the sense sphere, thirty-two consciousnesses, namely, the eight profi
 This is how the generation of consciousness-born materiality should be seen.
 
 (c) Nutriment-Born Materiality
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""
 
 .. _XX.35:
 
@@ -243,7 +252,7 @@ This is how the generation of consciousness-born materiality should be seen.
 This is how the generation of nutriment-born materiality should be seen.
 
 (d) Temperature-Born Materiality
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""
 
 .. _XX.39:
 
@@ -270,7 +279,7 @@ One who sees the generation of materiality thus is said to “comprehend the mat
 
 
 Comprehension of the Immaterial
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.43:
 
@@ -289,7 +298,7 @@ This is how the generation of the immaterial should be seen in the case of the s
 **§45** This is how one [meditator] accomplishes the development of understanding, progressing gradually by comprehending at one time the material and at another time the immaterial, by attributing the three characteristics to them.
 
 The Material Septad
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 Another comprehends formations by attributing the three characteristics to them through the medium of the material septad and the immaterial septad.
 
@@ -466,7 +475,7 @@ He comprehends all natural materiality in this way.
 This is how, firstly, he comprehends formations by attributing the three characteristics to them by means of the material septad.
 
 The Immaterial Septad
----------------------
+^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.76:
 
@@ -525,7 +534,7 @@ When he discerns formations with consciousness from which [false] view has been 
 At this stage both the material meditation subject and the immaterial meditation subject have become familiar to him.
 
 The Eighteen Principal Insights
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.89:
 
@@ -544,7 +553,7 @@ The Eighteen Principal Insights
 **§92** *[657/715]* For it was with reference only to what has already been penetrated that it was said above: “having thus become familiar with the material and immaterial meditation subjects, and so having penetrated here already a part of those eighteen principal insights, which are later on to be attained in all their aspects by means of full understanding as abandoning starting with contemplation of dissolution, he consequently abandons things opposed [to what he has already penetrated]” (§89).
 
 Knowledge of Rise and Fall—I
-----------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XX.93:
 
@@ -609,7 +618,7 @@ When he thus sees rise and fall in the two ways, according to condition and acco
 At this point he has attained tender insight-knowledge called contemplation of rise and fall, which has become established by penetrating the fifty characteristics in this manner: “Only what is subject to fall arises; and to be arisen necessitates fall.” With the attainment of this he is known as a “beginner of insight.”
 
 The Ten Imperfections of Insight
---------------------------------
+""""""""""""""""""""""""""""""""
 
 .. _XX.105:
 

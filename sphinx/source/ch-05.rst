@@ -196,7 +196,7 @@ Herein, the dwelling itself is the “impediment due to the dwelling.” So too 
 
 .. _III.35:
 
-**§35** *2 Family* means a family consisting of relatives or of supporters. For even a family consisting of supporters is an impediment for someone who lives in close association with it in the way beginning, “He is pleased when they are pleased” ( [S]_  *III 11*\  ), and who does not even go to a neighbouring monastery to hear the Dhamma without members of the family.
+**§35** *2. Family* means a family consisting of relatives or of supporters. For even a family consisting of supporters is an impediment for someone who lives in close association with it in the way beginning, “He is pleased when they are pleased” ( [S]_  *III 11*\  ), and who does not even go to a neighbouring monastery to hear the Dhamma without members of the family.
 
 .. _III.36:
 
@@ -232,7 +232,7 @@ Herein, the dwelling itself is the “impediment due to the dwelling.” So too 
 
 .. _III.44:
 
-**§44** *4 Class* is a class (group) of students of suttas or students of Abhidhamma. If with the group’s instruction and questioning he gets no opportunity for the ascetic’s duties, then that group is an impediment for him. He should sever that impediment in this way: if those bhikkhus have already acquired the main part and little still remains, he should finish that off and then go to the forest. If they have only acquired little and much still remains,  ``94``  he should, without travelling more than a league, approach another instructor of a class within the radius of a league and say, “Help those venerable ones with instruction, etc.” If he does not find anyone in this way, he should take leave of the class, saying. “I have a task to see to, friends; go where it suits you,” and he should do his own work.
+**§44** *4. Class* is a class (group) of students of suttas or students of Abhidhamma. If with the group’s instruction and questioning he gets no opportunity for the ascetic’s duties, then that group is an impediment for him. He should sever that impediment in this way: if those bhikkhus have already acquired the main part and little still remains, he should finish that off and then go to the forest. If they have only acquired little and much still remains,  ``94``  he should, without travelling more than a league, approach another instructor of a class within the radius of a league and say, “Help those venerable ones with instruction, etc.” If he does not find anyone in this way, he should take leave of the class, saying. “I have a task to see to, friends; go where it suits you,” and he should do his own work.
 
 .. _III.45:
 
@@ -244,7 +244,7 @@ Herein, the dwelling itself is the “impediment due to the dwelling.” So too 
 
 .. _III.47:
 
-**§47** *7 Kin* in the case of the monastery means teacher, preceptor, co-resident, pupil, those with the same preceptor as oneself, and those with the same teacher as oneself; and in the case of the house it means mother, father, brother, and so on. When they are sick they are an impediment for him. Therefore that impediment should be severed by curing them with nursing.
+**§47** *7. Kin* in the case of the monastery means teacher, preceptor, co-resident, pupil, those with the same preceptor as oneself, and those with the same teacher as oneself; and in the case of the house it means mother, father, brother, and so on. When they are sick they are an impediment for him. Therefore that impediment should be severed by curing them with nursing.
 
 .. _III.48:
 
@@ -401,6 +401,9 @@ Temperaments
 
 **§79** What is the source of these temperaments? And how is it to be known that such a person is of greedy temperament, that such a person is of one of those beginning with hating temperament? What suits one of what kind of temperament?
 
+Source of temperaments
+""""""""""""""""""""""
+
 .. _III.80:
 
 **§80** Herein, as some say, [#19]_  the first three kinds of temperament to begin with have their source in previous habit; and they have their source in elements and humours. Apparently one of greedy temperament has formerly had plenty of desirable tasks and gratifying work to do, or has reappeared here after dying in a heaven. And one *[98/156]* of hating temperament has formerly had plenty of stabbing and torturing and brutal work to do or has reappeared here after dying in one of the hells or the nāga (serpent) existences. And one  ``103``  of deluded temperament has formerly drunk a lot of intoxicants and neglected learning and questioning, or has reappeared here after dying in the animal existence. It is in this way that they have their source in previous habit, they say.
@@ -439,11 +442,21 @@ Temperaments
 
 **§86** One who, as it is said here, “has greed” is one of greedy temperament; one who “has hate” and one who “is dull” are respectively of hating temperament and deluded temperament. One who “possesses understanding” is one of intelligent temperament. One who “has no greed” and one who “has no hate” are of faithful temperament because they are naturally trustful. Or just as one who is reborn through kamma accompanied by non-delusion is of intelligent temperament, so one who is reborn through kamma accompanied by strong faith is of faithful temperament, one who is reborn through kamma accompanied by thoughts of sense desire is of speculative temperament, and one who is reborn through kamma accompanied by mixed greed, etc., is of mixed temperament. So it is the kamma productive of rebirth-linking and accompanied by someone among the things beginning with greed that should be understood as the source of the temperaments.
 
+Recognition of temperament
+""""""""""""""""""""""""""
+
 .. _III.87:
 
 **§87** But it was asked, *and how is it to be known that “This person is of greedy temperament?”* (§79), and so on. This is explained as follows:
 
-By the posture, by the action, By eating, seeing, and so on, By the kind of states occurring, May temperament be recognized.
+
+
+
+| By the posture, by the action,
+| By eating, seeing, and so on,
+| By the kind of states occurring,
+| 
+        May temperament be recognized.
 
 .. _III.88:
 
@@ -455,7 +468,13 @@ One of hating temperament walks as though he were digging with the points of his
 
 And this is said in the account of the origin of the Māgandiya Sutta:
 
-The step of one of greedy nature will be springy; The step of one of hating nature, dragged along; Deluded, he will suddenly press down his step; And one without defilement has a step like this. [#22]_ 
+
+
+
+| The step of one of greedy nature will be springy;
+| The step of one of hating nature, dragged along;
+| Deluded, he will suddenly press down his step;
+| And one without defilement has a step like this. [#22]_ 
 
 .. _III.89:
 
@@ -506,6 +525,9 @@ This is how the temperaments may be recognized by the kind of states occurring.
 .. _III.96:
 
 **§96** However, these directions for recognizing the temperaments have not been handed down in their entirety in either the texts or the commentaries; they are only expressed according to the opinion of the teachers and cannot therefore be treated as authentic. For even those of hating temperament can exhibit postures, etc., ascribed to the greedy temperament when they try diligently. And postures, etc., never arise with distinct characteristics in a person of mixed temperament. Only such directions for recognizing temperament as are given in the commentaries should be treated as authentic; for this is said: “A teacher who has acquired penetration of minds will know the temperament and will explain a meditation subject accordingly; one who has not should question the pupil.” So it is by penetration of minds or by questioning the person, that it can be known whether he is one of greedy temperament or one of those beginning with hating temperament.
+
+What suits one of what kind of temperament?
+"""""""""""""""""""""""""""""""""""""""""""
 
 .. _III.97:
 

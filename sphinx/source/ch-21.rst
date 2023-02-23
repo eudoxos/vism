@@ -5,6 +5,9 @@
 XIX. Purification by Overcoming Doubt
 =====================================
 
+Introductory
+------------
+
 .. _XIX.1:
 
 **§1** *[621/679]*  ``598``  Knowledge established by overcoming doubt about the three divisions of time by means of discerning the conditions of that same mentality-materiality is called “purification by overcoming doubt.”
@@ -16,8 +19,8 @@ Ways of Discerning Cause and Condition
 
 **§2** The bhikkhu who wants to accomplish this sets about seeking the cause and condition for that mentality-materiality; just as when a skilled physician encounters a disease he seeks its origin, or just as when a compassionate man sees a tender little child lying on its back in the road he wonders who its parents are.
 
-Neither Created by a Creator nor Causeless
-------------------------------------------
+1. Neither Created by a Creator nor Causeless
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIX.3:
 
@@ -27,8 +30,8 @@ Neither Created by a Creator nor Causeless
 
 **§4** Having thus directed his attention to mentality-materiality’s cause and condition, he first discerns the cause and condition for the material body in this way: “When this body is born it is not born inside a blue, red or white lotus or water-lily, etc., or inside a store of jewels or pearls, etc.; on the contrary, like a worm in rotting flesh, in a rotting corpse, in rotting dough, in a drain, in a cesspool, etc., it is born in between the receptacle for undigested food and the receptacle for digested food, behind the belly lining, in front of the backbone, surrounded by the bowel and the entrails, in a place that is stinking, disgusting, repulsive, and extremely cramped, being itself stinking, disgusting, and repulsive. When it is born thus, its causes (root-causes) are the four things, namely, ignorance, craving, clinging, and kamma,  ``599``  since it is they that bring about its birth; and nutriment is its condition, since it is that that consolidates it. So five things constitute its cause and condition. And of these, the three beginning with ignorance are the decisive-support for this body, as the *[622/680]* mother is for her infant, and kamma begets it, as the father does the child; and nutriment sustains it, as the wet-nurse does the infant.”
 
-Its Occurance is Always Due to Conditions
------------------------------------------
+2. Its Occurance is Always Due to Conditions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIX.5:
 
@@ -38,8 +41,8 @@ Its Occurance is Always Due to Conditions
 
 **§6** When he sees it in this way, all his uncertainty is abandoned, that is to say, the five kinds of uncertainty about the past stated thus: “Was I in the past? Was I not in the past? What was I in the past? How was I in the past? Having been what, what was I in the past?” ( [M]_  *I 8*\  ), and also the five kinds of uncertainty about the future stated thus: “Shall I be in the future? Shall I not be in the future? What shall I be in the future? How shall I be in the future? Having been what, what shall I be in the future?” ( [M]_  *I 8*\  ); and also the six kinds of uncertainty about the present stated thus: “Am I? Am I not? What am I? How am I? Whence will this being have come? Whither will it be bound?” ( [M]_  *I 8*\  ).
 
-General and Particular Conditions
----------------------------------
+3. General and Particular Conditions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIX.7:
 
@@ -59,22 +62,22 @@ General and Particular Conditions
 
 **§10** When he has seen that the occurrence of mentality-materiality is due to conditions in this way, he sees also that, as now, so too in the past its occurrence was due to conditions, and in the future its occurrence will be due to conditions. When he sees it in this way, his uncertainty about the three periods of time is abandoned in the way already stated.
 
-Dependent Origination in Reverse Order
---------------------------------------
+4. Dependent Origination in Reverse Order
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIX.11:
 
 **§11** Another, when he has seen that the formations called mentality-materiality arrive at aging and that those that have aged dissolve, discerns mentality-materiality’s conditions by means of dependent origination in reverse order in this way: “This is called aging-and-death of formations; it comes to be when there is birth, and birth when there is becoming, and becoming when there is clinging, and clinging when there is craving, and craving when there is feeling, and feeling when there is contact, and contact when there is the sixfold base, and the sixfold base when there is mentality-materiality, and mentality-materiality when there is consciousness, and consciousness when there are formations, and formations when there is ignorance.” Then his uncertainty is abandoned in the way already stated.
 
-Dependent Origination in Direct Order
--------------------------------------
+5. Dependent Origination in Direct Order
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIX.12:
 
 **§12** Another discerns mentality-materiality’s conditions by means of dependent origination in direct order as already shown (:ref:`XVII.29 <XVII.29>`) in detail, doing so in this way: “So, with ignorance as condition there are formations” ( [M]_  *I 261*\  ). Then his uncertainty is abandoned in the way already stated.
 
-Kamma and Kamma-Result
-----------------------
+6. Kamma and Kamma-Result
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIX.13:
 
@@ -126,8 +129,8 @@ This is how one man discerns mentality-materiality by means of the round of kamm
 
 **§19** When he sees thus, he abandons all his uncertainty, that is to say, the sixteen kinds described in the way beginning, “Was I in the past?” [see §6].
 
-No Doer Apart from Kamma and Result
------------------------------------
+7. No Doer Apart from Kamma and Result
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In all kinds of becoming, generation, destiny, station, and abode there appears only mentality-materiality, which occurs by means of linking of cause with fruit. He sees no doer over and above the doing, no experiencer of the result over and above the occurrence of the result. But he sees clearly with right understanding that the wise say “doer” when there is doing and “experiencer” when there is experiencing simply as a mode of common usage.
 

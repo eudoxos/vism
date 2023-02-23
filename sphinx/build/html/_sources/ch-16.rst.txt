@@ -41,6 +41,9 @@ And that has been developed in all its aspects by the bhikkhu who is thus posses
 
 Understanding (*paññā*\ ) is of many sorts and has various aspects. An answer that attempted to explain it all would accomplish neither its intention nor its purpose, and would, besides, lead to distraction; so we shall confine ourselves to the kind intended here, which is understanding consisting in insight knowledge associated with profitable consciousness.
 
+(ii) In what sense is it understanding?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. _XIV.3:
 
 **§3** (ii) ``In what sense is it understanding?``\  It is understanding (*paññā*\ ) in the sense of act of understanding (*pajānana*\ ). [#1]_  What is this act of understanding? It is *[432/490]* knowing (*jānana*\ ) in a particular mode separate from the modes of perceiving (*sañjānana*\ ) and cognizing (*vijānana*\ ).  ``437``  For though the state of knowing (*jānana-bhāva*\ ) is equally present in perception (*saññā*\ ), in consciousness (*viññāṇa*\ ), and in understanding (*paññā*\ ), nevertheless perception is only the mere perceiving of an object as, say, blue or yellow; it cannot bring about the penetration of its characteristics as impermanent, painful, and not-self. Consciousness knows the objects as blue or yellow, and it brings about the penetration of its characteristics, but it cannot bring about, by endeavouring, the manifestation of the [supramundane] path. Understanding knows the object in the way already stated, it brings about the penetration of the characteristics, and it brings about, by endeavouring, the manifestation of the path.
@@ -57,9 +60,15 @@ Understanding (*paññā*\ ) is of many sorts and has various aspects. An answer
 
 **§6** That is why this act of understanding should be understood as “knowing in a particular mode separate from the modes of perceiving and cognizing.” For that is what the words “it is understanding in the sense of act of understanding” refer to. However, it is not always to be found where perception and consciousness are. [#2]_   ``438``  But when it is, it is not disconnected from those states. And because it cannot be taken as disconnected thus: “This is perception, this is consciousness, this is understanding,” its difference is consequently subtle and hard to see. Hence the venerable Nāgasena said: “A difficult thing, O King, has been done by the Blessed One.”—“What, venerable Nāgasena, is the difficult thing that has been done by the Blessed One?”—“The difficult thing, O King, done by the Blessed One was the *[433/491]* defining of the immaterial states of consciousness and its concomitants, which occur with a single object, and which he declared thus: ‘This is contact, this is feeling, this is perception, this is volition, this is consciousness’” ( [Mil]_  *87*\  ).
 
+(iii) What are its characteristic, etc.?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. _XIV.7:
 
 **§7** (iii) ``What are its characteristic, function, manifestation and proximate cause?`` Understanding has the characteristic of penetrating the individual essences of states. [#3]_  Its function is to abolish the darkness of delusion, which conceals the individual essences of states. It is manifested as non-delusion. Because of the words, “One who is concentrated knows and sees correctly” ( [A]_  *V 3*\  ), its proximate cause is concentration.
+
+(iv) How many kinds of understanding are there?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIV.8:
 
@@ -212,6 +221,9 @@ So it is of three kinds as skill in improvement, in detriment, and in means.
 **§31** Herein, Buddhas and Paccekabuddhas reach the discriminations through prior effort and through achievement. Disciples do so through all these means. And there is no special way of developing a meditation subject in order to attain discriminations. But in trainers the attaining of the discriminations comes about next upon the liberation consisting in trainers’ fruition, and in non-trainers it does so next upon the liberation consisting in non-trainers’ fruition. For the discriminations come to success in Noble Ones only through the noble fruition as the ten powers do in Perfect Ones.
 
 So these were the discriminations referred to when it was said above: “It is of four kinds … as the four discriminations” (§8).
+
+(v) How is it developed?
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XIV.32:
 
@@ -473,7 +485,7 @@ The Consciousness Aggregate
 **§82** “Whatever has the characteristic of cognizing should be understood, all taken together, as the consciousness aggregate” was said above. And what has the characteristic of cognizing (*vijānana*\ )? Consciousness (*viññāṇa*\ ); according as it is said, “It cognizes, friend, that is why ‘consciousness’ is said” ( [M]_  *I 292*\  ). The words *viññāṇa*\  (consciousness), *citta*\  (mind, consciousness), and *mano*\  (mind) are one in meaning.
 
 The 89 Kinds of Consciousness—see Table III
--------------------------------------------
+"""""""""""""""""""""""""""""""""""""""""""
 
 That same [consciousness], though one in its individual essence with the characteristic of cognizing, is threefold according to kind, namely, (I) profitable, (II) unprofitable, and (III) indeterminate. [#35]_ 
 
@@ -618,7 +630,7 @@ So functional consciousness in the three planes is of twenty kinds in all.
 **§110** So the 21 kinds of profitable, the 12 kinds of unprofitable, the 36 kinds of resultant, and the 20 kinds of functional, amount in all to 89 kinds of consciousness. And these occur in the fourteen modes of (a) rebirth-linking, (b) life-continuum, (c) adverting, (d) seeing, (e) hearing, (f) smelling, (g) tasting, (h) touching, (i) receiving, (j) investigating, (k) determining, (l) impulsion, (m) registration, and (n) death.
 
 The 14 Modes of Occurrence of Consciousness
--------------------------------------------
+"""""""""""""""""""""""""""""""""""""""""""
 
 .. _XIV.111:
 
@@ -751,7 +763,7 @@ But though it is singlefold according to its individual essence as the character
 This is the section of the detailed explanation dealing with the perception aggregate.
 
 The Formations Aggregate—see Tables II & IV
--------------------------------------------
+"""""""""""""""""""""""""""""""""""""""""""
 
 .. _XIV.131:
 
@@ -762,7 +774,7 @@ The Formations Aggregate—see Tables II & IV
 **§132** They have the characteristic of forming. Their function is to accumulate. They are manifested as intervening. [#58]_  Their proximate cause is the remaining *[469/527]* three [immaterial] aggregates. So according to characteristic, etc., they are singlefold. And according to kind they are threefold, namely, (I) profitable, (II) unprofitable, and (III) indeterminate. As regards these, when associated with profitable consciousness they are profitable, when associated with unprofitable consciousness they are unprofitable, when associated with indeterminate consciousness they are indeterminate.
 
 According to Association with Consciousness
--------------------------------------------
+"""""""""""""""""""""""""""""""""""""""""""
 
 .. _XIV.133:
 
@@ -1126,7 +1138,7 @@ C. Classification of the Aggregates
 **§185** The foregoing section, firstly, is that of the detailed explanation of the aggregates according to the Abhidhamma-Bhājaniya [of the Vibhaṅga]. But the aggregates have been given in detail by the Blessed One [in the Suttanta-Bhājaniya] in this way: “Any materiality whatever, whether past, future or present, internal or external, gross or subtle, inferior or superior, far or near: all that together in the mass and in the gross is called the materiality aggregate. Any feeling whatever … Any perception whatever … Any formations whatever … Any consciousness whatever, whether past, future or present … all that together in the mass and in the gross is called the consciousness aggregate” (Vibh 1–9; cf.  [M]_  *III 17*\  ).
 
 Materiality
------------
+^^^^^^^^^^^
 
 .. _XIV.186:
 
@@ -1181,7 +1193,7 @@ And here only the explanations beginning with the *moment*\  are absolutely lite
 And just as in the case of materiality, so also feeling, etc., [are respectively shown as the feeling aggregate, etc.,] since they come under the collections with the [respective] characteristics of being felt, etc.; for there is no feeling aggregate apart from feeling and so on.
 
 Feeling
--------
+^^^^^^^
 
 .. _XIV.197:
 

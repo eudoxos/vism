@@ -17,7 +17,7 @@ I. Change-of-Lineage, Paths, and Fruits
 **§2** Purification by knowledge and vision properly consists in knowledge of the four paths, that is to say, the path of stream-entry, the path of once-return, the path of non-return, and the path of Arahantship.
 
 The First Path—First Noble Person
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.3:
 
@@ -78,7 +78,7 @@ The First Path—First Noble Person
 The first kind of knowledge is ended.
 
 The First Fruition—Second Noble Person
---------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.15:
 
@@ -109,7 +109,7 @@ The First Fruition—Second Noble Person
 **§21** And as in the case of the stream-enterer, so also in the cases of the once-returner and non-returner. But the Arahant has no reviewing of remaining defilements. So all the kinds of reviewing total nineteen. This is the maximum number. Trainers may or may not have the reviewing of the defilements abandoned and those still remaining. In fact it was owing to the absence of such reviewing that Mahānāma asked the Blessed One, “What state is there still unabandoned by me internally owing to which at times states of greed invade my mind and remain?” ( [M]_  *I 91*\  ) all of which should be quoted.
 
 The Second Path—Third Noble Person
-----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.22:
 
@@ -122,14 +122,14 @@ The Second Path—Third Noble Person
 The second kind of knowledge is ended.
 
 The Second Fruition—Fourth Noble Person
----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.24:
 
 **§24** The fruition consciousness should be understood to follow immediately upon this knowledge in the same way as before. And at this point this once-returner is called the fourth noble person. He is bound to make an end of suffering after returning once to this world. Next there comes reviewing in the way already described.
 
 The Third Path—Fifth Noble Person
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.25:
 
@@ -142,14 +142,14 @@ The Third Path—Fifth Noble Person
 The third kind of knowledge is ended.
 
 The Third Fruition—Sixth Noble Person
--------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.27:
 
 **§27** The fruition consciousnesses should be understood to follow immediately upon this knowledge in the same way as before. And at this point this non-returner is called the sixth noble person. [After death] he reappears apparitionally [elsewhere] and attains complete extinction there without ever returning, without ever coming to this world again through rebirth-linking. Next there comes reviewing in the way already described.
 
 The Fourth Path—Seventh Noble Person
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.28:
 
@@ -162,7 +162,7 @@ The Fourth Path—Seventh Noble Person
 The fourth kind of knowledge is ended.
 
 The Fourth Fruition—Eighth Noble Person
----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.30:
 
@@ -192,6 +192,9 @@ II. The States Associated with the Path, Etc.
 As stated when truths are penetrated to,
 
 (7) Each one of which ought to be recognized According to its individual essence.
+
+The 37 states partaking of enlightenment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.33:
 
@@ -269,6 +272,9 @@ At the time of arising of [any one of] the four kinds of [path] knowledge, [all 
 
 This is how, firstly, the “fulfilment of states partaking in enlightenment” should be understood here.
 
+Emergence and coupling of the powers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. _XXII.44:
 
 **§44** *2. Emergence* and *3. coupling of the powers*\ : the resolution of the compound *vuṭṭhānabalasamāyoga*\  is *vuṭṭhānañ c’eva bala-samāyogo ca*\ .
@@ -294,6 +300,9 @@ These four kinds of [path] knowledge emerge from the sign because they have the 
 **§46** [*3. Coupling of the powers*\ :] At the time of developing the eight mundane attainments the serenity power is in excess, while at the time of developing the contemplations of impermanence, etc., the insight power is in excess. But at the noble path moment they occur coupled together in the sense that neither one exceeds the other. So there is coupling of the powers in the case of each one of these four kinds of knowledge, according as it is said: “When he emerges from the defilements associated with agitation, and from the aggregates, his mental unification, non-distraction, concentration, has cessation as its domain. When he emerges from the defilements associated with ignorance and from the aggregates, his insight in the sense of contemplation has cessation as its domain. So serenity and insight have a single nature in the sense of emergence, they are coupled together, and neither exceeds the other. Hence it was said: He develops serenity and insight coupled together in the sense of emergence” ( [Paṭis]_  *II 98*\  ).
 
 “Emergence” and “coupling of the powers” should be understood here in this way.
+
+States to be abandoned
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XXII.47:
 
@@ -510,7 +519,7 @@ Herein, (v) *arisen as happening*\  is the same as (i) “arisen as actually occ
 So here “the kinds of states that ought to be abandoned, also the act of their abandoning” (§32) should be known in this way.
 
 The Four Functions
-------------------
+^^^^^^^^^^^^^^^^^^
 
 .. _XXII.92:
 
@@ -525,7 +534,7 @@ The Four Functions
 | According to its individual essence. (§32)
 
 The Four Functions in a Single Moment
--------------------------------------
+"""""""""""""""""""""""""""""""""""""
 
 *6.*\  Now, at the times of penetrating to the truths each one of the four [path] knowledges is said to exercise four functions in a single moment. These are full-understanding, abandoning, realizing, and developing; and each one of them ought to be recognized according to its individual essence.  ``690``  For this is said by the Ancients: “Just as a lamp performs the four functions simultaneously in a single moment—it burns the wick, dispels darkness, makes light appear, and uses up the oil—, so too, path knowledge penetrates to the four truths simultaneously in a single moment—it penetrates to suffering by penetrating to it with full-understanding, penetrates to origination by penetrating to it with abandoning, penetrates to the path by penetrating to it with developing, and penetrates cessation by penetrating to it with realizing” (see  [Peṭ]_  *134*\  ). What is meant? By making cessation its object it reaches, sees and pierces the four truths.”
 
@@ -578,7 +587,7 @@ Firstly, in the passage beginning, “Herein, what is knowledge of suffering? It
 At the path moment, however, all these senses are penetrated simultaneously by a single knowledge that has four functions with respect to suffering and the rest. But about those who would have it that [the different truths] are penetrated to separately, more is said in the Abhidhamma in the Kathāvatthu ( [Kv]_  *212–20*\  ).
 
 The Four Functions Described Separately
----------------------------------------
+"""""""""""""""""""""""""""""""""""""""
 
 .. _XXII.104:
 
@@ -731,7 +740,7 @@ Abandoning by substitution of the opposites should be understood in detail in th
 | According to its individual essence.
 
 Conclusion
-----------
+^^^^^^^^^^
 
 .. _XXII.129:
 

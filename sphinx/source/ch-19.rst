@@ -5,8 +5,8 @@
 XVII. The Soil of Understanding—Conclusion: Dependent Origination
 =================================================================
 
-Section A. Definition of Dependent Origination
-----------------------------------------------
+A. Definition of Dependent Origination
+--------------------------------------
 
 .. _XVII.1:
 
@@ -154,8 +154,8 @@ Consequently, it should be understood that dependent origination has the charact
 
 *[539/597]* This, in the first place, is the meaning of the mere words “dependent origination” (*paṭicca-samuppāda*\ ).
 
-Section B. Exposition
----------------------
+B. Exposition
+-------------
 
 I. Preamble
 ^^^^^^^^^^^
@@ -212,9 +212,6 @@ Therefore, considering that to comment on the dependent origination is impossibl
 
 II. Brief Exposition
 ^^^^^^^^^^^^^^^^^^^^
-
-III. Detailed Exposition
-^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XVII.27:
 
@@ -354,12 +351,15 @@ This is how the exposition should be known here “as to singlefold and so on.�
 
 **§57** *5. As to defining of the factors*\ : sorrow, etc., are stated here for the purpose of showing that the Wheel of Becoming never halts; for they are produced in the fool who is afflicted by ageing and death, according as it is said: “The untaught ordinary man, bhikkhus, on being touched by painful bodily feeling, sorrows, grieves and laments, beating his breast, he weeps and becomes distraught” ( [M]_  *III 285*\  ;  [S]_  *IV 206*\  ). And as long as these go on occurring so long does ignorance, and so the Wheel of Becoming renews [its revolution]: “With ignorance as condition there are formations” and so on. That is why the factors of the dependent origination should be understood as twelve by taking those [that is, sorrow, etc.,] along with ageing-and-death as one summarization. This is how the exposition should be known here “as to defining of the factors.”
 
+III. Detailed Exposition
+^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. _XVII.58:
 
 **§58** This, firstly, is the brief treatment. The following method, however, is in detail.
 
-(i) Ignorance
-^^^^^^^^^^^^^
+(1) Ignorance
+"""""""""""""
 
 According to the Suttanta method  ``530``  ignorance is unknowing about the four instances beginning with suffering. According to the Abhidhamma method it is unknowing about the eight instances [that is to say, the above-mentioned four] together with [the four] beginning with the past; for this is said: “Herein, what is ignorance? It is unknowing about suffering, [unknowing about the origin of suffering, unknowing about the cessation of suffering, unknowing about the way leading to the cessation of suffering], unknowing about the past, unknowing about the future, unknowing about the past and future, unknowing about specific conditionality and conditionally-arisen states” (cf.  [Dhs]_  *§1162*\  ).
 
@@ -367,8 +367,8 @@ According to the Suttanta method  ``530``  ignorance is unknowing about the four
 
 **§59** Herein, while ignorance about any instance that is not the two supra-mundane truths can also arise as object (see §102), nevertheless here it is only intended [subjectively] as concealment. For when [thus] arisen it keeps the truth of *suffering*\  concealed, preventing penetration of the true individual function and characteristic of that truth. Likewise, origin, cessation, and the path, bygone five aggregates called *the past*\ , coming five aggregates called *the future*\ , both of these together called *the past and future*\ , and both specific conditionality and conditionally-arisen states together called *specific conditionality and conditionally-arisen states—*\ all of which it keeps concealed, preventing their true individual *[548/606]* functions and characteristics being penetrated thus: “This is ignorance, these are formations.” That is why it is said, “It is unknowing about suffering … unknowing about specific conditionality and conditionally-arisen states.”
 
-(ii) Formations
-^^^^^^^^^^^^^^^
+(2) Formations
+""""""""""""""
 
 .. _XVII.60:
 
@@ -399,6 +399,9 @@ This is said too: “Not knowing, bhikkhus, in ignorance, he forms the formation
 Here is the reply: “Twenty-four conditions have been stated by the Blessed One as follows.”
 
 *[The 24 Conditions]*\ 
+
+The 24 conditions
+'''''''''''''''''
 
 .. _XVII.66:
 
@@ -546,11 +549,14 @@ But these two, namely, jhāna and path conditions, should be understood as inapp
 
 **§100** (24) The same states that are presence condition, because they assist by their non-disappearance, should be understood as a *non-disappearance condition*\ . Or this dyad is stated as an embellishment of teaching to suit the needs of those who are teachable, just as [in the Mātikā of the Dhammasaṅgaṇī] the “dissociated-from-cause dyad” is given after the “causeless dyad.”
 
-*[559/617]* *[How Ignorance is a Condition for Formations]*\ 
+*[How Ignorance is a Condition for Formations]*\ 
+
+How Ignorance is a Condition for Formations
+'''''''''''''''''''''''''''''''''''''''''''
 
 .. _XVII.101:
 
-**§101** Now, as regards these twenty-four conditions:
+**§101** *[559/617]* Now, as regards these twenty-four conditions:
 
 
 
@@ -573,6 +579,9 @@ But these two, namely, jhāna and path conditions, should be understood as inapp
 **§104** *But for the last kind only once:*\   ``542``  it is reckoned as a condition in one way, namely, as decisive-support condition only, for formations of the imperturbable. But its relation as decisive-support condition should be understood as stated under formations of merit.
 
 *[No Single Fruit from Single Cause]*\ 
+
+No Single Fruit from Single Cause
+'''''''''''''''''''''''''''''''''
 
 .. _XVII.105:
 
@@ -708,6 +717,12 @@ This is the detailed explanation of the clause, “With ignorance as condition t
 
 *[(1) Kinds of Mundane Resultant Consciousness]*\ 
 
+(3) Consciousness
+"""""""""""""""""
+
+1. Kinds of Mundane Resultant Consciousness
+'''''''''''''''''''''''''''''''''''''''''''
+
 .. _XVII.120:
 
 **§120** In the clause, *with formations as condition, consciousness*\ , consciousness is sixfold as eye-consciousness, and so on. Herein, eye-consciousness is twofold, namely, profitable [kamma-]resultant and unprofitable [kamma-]resultant (see Table II for bracketed numbers that follow). Likewise ear-, nose-, tongue-, and body-consciousness ((34)–(38) and (50)–(54)). But mind-consciousness is twenty-two-fold, namely, the two profitable and unprofitable resultant mind elements ((39) and (55)), the three root-causeless mind-consciousness elements ((40), (41) and (56)), the eight sense-sphere resultant consciousnesses with root-cause ((42)–(49)), the five of the fine-material sphere ((57)–(61)), and the four of the immaterial sphere ((62)–(65)). So all the thirty-two mundane resultant consciousnesses ((34)–(65)) are included by these six kinds of consciousness. But the supramundane kinds do not belong to the exposition of the round [of becoming], and so they are not included.
@@ -740,11 +755,16 @@ Firstly, the following sixteen kinds arise with the sense-sphere formation of me
 
 *[(2) The Occurrence of Resultant Consciousness]*\ 
 
+2. The Occurrence of Resultant Consciousness
+''''''''''''''''''''''''''''''''''''''''''''
+
 Now, this resultant consciousness all occurs in two ways, namely, (a) in the course of an individual existence (or continuity), and (b) at the rebirth-linking [moment].
 
 Herein, there are the two fivefold consciousnesses ((34)–(38) and (50)–(54)), two mind elements ((39) and (55)), and root-causeless mind-consciousness *[565/623]* element accompanied by joy (40), that is, thirteen which occur only in the course of an existence in the five-constituent kind of becoming. [#20]_  The remaining nineteen occur in the three kinds of becoming, either in the course of an existence or at rebirth-linking, as appropriate. How?
 
 *[2. (a) In the Course of an Existence]*\ 
+
+**[2a. In the Course of an Existence]**\ 
 
 .. _XVII.127:
 
@@ -774,6 +794,8 @@ This, in the first place, is how the thirty-twofold resultant consciousness occu
 
 *[2. (b) At Rebirth-Linking]*\ 
 
+**[2b. At Rebirth-Linking]**\ 
+
 .. _XVII.133:
 
 **§133** But what was said above, namely, “as to the remaining nineteen, there is none that does not occur as a rebirth-linking appropriate to it” (§130), is hard to understand since it is too brief. Hence, in order to show the details it may be asked: (i) How many kinds of rebirth-linking are there? (ii) How many kinds of rebirth-linking consciousness? (iii) Where and by what means does rebirth-linking come about? (iv) What does rebirth-linking [consciousness] have as its object?
@@ -792,6 +814,8 @@ This, in the first place, is how the thirty-twofold resultant consciousness occu
 
 **§135** Herein, in the base consisting of boundless consciousness and the base consisting of neither perception nor non-perception, the object of rebirth-linking is *past*\ . That of the ten kinds of sense-sphere rebirth-linking is *past*\  or *present*\ . That of the rest is *not-so-classifiable*\ . But while the rebirth-linking consciousness occurs thus with three kinds of objects, the death consciousness, next to which it occurs, has only a past or a not-so-classifiable object, there being no death consciousness with a present object. Consequently, it should be understood how it occurs in the happy destinies and the unhappy destinies as follows, that is to say, how rebirth-linking consciousness with one of three kinds of objects occurs next to death consciousness with one of two kinds of objects.
 
+*[From happy to unhappy destiny]*\ 
+
 .. _XVII.136:
 
 **§136** [*From happy to unhappy destiny*\ .] For example, firstly in the case of a person in the happy destinies of the sense-sphere who is an evildoer, when he is lying on his deathbed, his evil kamma according as it has been stored up, or its sign, comes into focus in the mind door. For it is said, “Then [the evil deeds that he did in the past] … cover him [and overspread him and envelop him]” ( [M]_  *III 164*\  ), and so on. Then next to the cognitive series of impulsions ending in registration [#22]_  that arose contingent upon that [kamma or its sign], death consciousness arises making the life-continuum’s objective field its object. When it has ceased, rebirth-linking consciousness arises contingent upon that same kamma or kamma sign that had come into focus, and it does so located in the unhappy destiny, being driven there by the force of defilements that have not been cut off.  ``549``  This is the kind of rebirth-linking that has a *past*\  object and comes next to death consciousness with a *past*\  object.
@@ -806,13 +830,15 @@ This, in the first place, is how the thirty-twofold resultant consciousness occu
 
 This, firstly, is how rebirth-linking in an unhappy destiny with *past*\  and *present* objects occurs next to death consciousness in a happy destiny with a past object.
 
+*[From unhappy to happy destiny]*\ 
+
 .. _XVII.139:
 
 **§139** [*From unhappy to happy destiny*\ .] In the case of one in an unhappy destiny who has stored up blameless kamma all should be understood in the same way, substituting the bright for the dark side thus: His good kamma, [according as it has been stored up], or its sign, comes into focus in the mind door [and continuing] in the way already stated.
 
-This is how rebirth-linking occurs in a happy destiny with *past*\  and *present*\ 
+This is how rebirth-linking occurs in a happy destiny with *past*\  and *present*\  objects next to death consciousness in an unhappy destiny with a *past*\  object.
 
-objects next to death consciousness in an unhappy destiny with a *past*\  object.
+*[From happy to happy destiny]*\ 
 
 .. _XVII.140:
 
@@ -834,9 +860,13 @@ objects next to death consciousness in an unhappy destiny with a *past*\  object
 
 **§144** Rebirth-linking next to immaterial-sphere death should be understood in this way too. This is how rebirth-linking occurs with a *past, present*\ , or *not-so-classifiable*\  object next to death consciousness in a happy destiny with a past or *not-so-classifiable*\  object.
 
+*[From unhappy to unhappy destiny]*\ 
+
 .. _XVII.145:
 
 **§145** [*From unhappy to unhappy destiny*\ .] In the case of one in an unhappy destiny who is an evil-doer, that kamma, or its sign, or the sign of the destiny, comes into focus in the mind door, or in the five doors, as the object that is the cause for the unprofitable rebirth. Then his rebirth-linking consciousness arises in due succession at the end of the death consciousness and located in the unhappy destiny and with one of those objects as its object. This is how rebirth-linking occurs with a past or present object next to death in an unhappy destiny with a past object.
+
+*[How Kamma is a Condition]*\ 
 
 *[How Kamma is a Condition]*\ 
 
@@ -1048,6 +1078,9 @@ Up to this point the occurrence, with formations as condition, of rebirth-linkin
 
 *[(3) How Formations are a Condition for Consciousness]*\ 
 
+3. How Formations are a Condition for Consciousness
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
 .. _XVII.175:
 
 **§175** Now, in order to eliminate confusion about all these thirty-two kinds of resultant consciousness:
@@ -1112,8 +1145,8 @@ This, firstly, is how it should be understood what kinds of resultant consciousn
 
 This is the detailed explanation of the clause, “With formations as condition, consciousness.”
 
-(iv) Mentality-Materiality
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+(4) Mentality-Materiality
+"""""""""""""""""""""""""
 
 .. _XVII.186:
 
@@ -1251,8 +1284,8 @@ This is how the exposition should be known “by manner of condition.”
 
 This is the detailed explanation of the clause “With consciousness as condition, mentality-materiality.”
 
-(v) The Sixfold Base
-^^^^^^^^^^^^^^^^^^^^
+(5) The Sixfold Base
+""""""""""""""""""""
 
 .. _XVII.203:
 
@@ -1287,6 +1320,9 @@ This is the detailed explanation of the clause “With consciousness as conditio
 **§206** Herein what follows illustrates the meaning.
 
 *[(1) Mentality as Condition]*\ 
+
+1. Mentality as Condition
+'''''''''''''''''''''''''
 
 
 
@@ -1350,6 +1386,9 @@ This is the detailed explanation of the clause “With consciousness as conditio
 
 This, firstly, is how it should be understood what bases mentality alone is a condition for in rebirth-linking and in the course of an existence, and how it is a condition.
 
+2. Materiality as Condition
+'''''''''''''''''''''''''''
+
 .. _XVII.214:
 
 **§214** [(2) *Materiality as Condition*\ ]
@@ -1384,6 +1423,9 @@ This, firstly, is how it should be understood what bases mentality alone is a co
 
 *[(3) Mentality-Materiality as Condition]*\ 
 
+3. Mentality-Materiality as Condition
+'''''''''''''''''''''''''''''''''''''
+
 .. _XVII.218:
 
 **§218** 
@@ -1404,8 +1446,8 @@ This is the detailed explanation of the clause “With mentality-materiality as
 
 condition, the sixfold base.”
 
-(vi) Contact
-^^^^^^^^^^^^
+(6) Contact
+"""""""""""
 
 .. _XVII.220:
 
@@ -1459,6 +1501,9 @@ condition, the sixfold base.”
 
 *[How the Sixfold Base is a Condition for Contact]*\ 
 
+How the Sixfold Base is a Condition for Contact
+'''''''''''''''''''''''''''''''''''''''''''''''
+
 .. _XVII.226:
 
 **§226** But as regards these bases:
@@ -1477,8 +1522,8 @@ condition, the sixfold base.”
 
 This is the detailed explanation of the clause “With the sixfold base as condition, contact.”
 
-(vii) Feeling
-^^^^^^^^^^^^^
+(7) Feeling
+"""""""""""
 
 .. _XVII.228:
 
@@ -1528,8 +1573,8 @@ This is the detailed explanation of the clause “With contact as condition, fee
 
 
 
-(viii) Craving
-^^^^^^^^^^^^^^
+(8) Craving
+"""""""""""
 
 .. _XVII.233:
 
@@ -1603,8 +1648,8 @@ This is the detailed explanation of the clause “With feeling as condition, cra
 
 
 
-(ix) Clinging
-^^^^^^^^^^^^^
+(9) Clinging
+""""""""""""
 
 .. _XVII.239:
 
@@ -1648,6 +1693,9 @@ This is the detailed explanation of the clause “With feeling as condition, cra
 
 *[How Craving is a Condition for Clinging]*\ 
 
+How Craving is a Condition for Clinging
+'''''''''''''''''''''''''''''''''''''''
+
 .. _XVII.247:
 
 **§247** 
@@ -1667,8 +1715,8 @@ This is the detailed explanation of the clause “With feeling as condition, cra
 
 
 
-(x) Becoming
-^^^^^^^^^^^^
+(10) Becoming (being)
+"""""""""""""""""""""
 
 .. _XVII.249:
 
@@ -1766,6 +1814,9 @@ This is how the exposition should be known here according to “which is conditi
 
 *[How Clinging is a Condition for Becoming]*\ 
 
+How Clinging is a Condition for Becoming
+''''''''''''''''''''''''''''''''''''''''
+
 .. _XVII.268:
 
 **§268** But which is condition for which kind of becoming in what way here?
@@ -1786,6 +1837,9 @@ This is the detailed explanation of the clause “With clinging as condition, be
 
 ``[(xi)–(xii) Birth, Etc.]``\ 
 
+(11)–(12) Birth, Etc.
+"""""""""""""""""""""
+
 .. _XVII.270:
 
 **§270** As regards the clause “With becoming as condition, birth,” etc., the definition of birth should be understood in the way given in the Description of the Truths (:ref:`XIV.31ff. <XIV.31>`)
@@ -1804,8 +1858,8 @@ This is the detailed explanation of the clause “With becoming as condition, bi
 
 
 
-Section C. The Wheel of Becoming
---------------------------------
+C. The Wheel of Becoming
+------------------------
 
 (i) The Wheel
 ^^^^^^^^^^^^^

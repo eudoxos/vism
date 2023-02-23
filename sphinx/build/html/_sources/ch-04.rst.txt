@@ -16,9 +16,7 @@ The 13 kinds of Ascetic Practices
 
 **§2** Thirteen kinds of ascetic practices have been allowed by the Blessed One to clansmen who have given up the things of the flesh and, regardless of body and life, are desirous of undertaking a practice in conformity [with their aim]. They are:
 
-i. the refuse-rag-wearer’s practice, ii. the triple-robe-wearer’s practice, iii. the alms-food-eater’s practice, iv. the house-to-house-seeker’s practice, v. the one-sessioner’s practice, vi. the bowl-food-eater’s practice, vii. the later-food-refuser’s practice, viii. the forest-dweller’s practice,
-
-ix. the tree-root-dweller’s practice, x. the open-air-dweller’s practice, xi. the charnel-ground-dweller’s practice, xii. the any-bed-user’s practice, xiii. the sitter’s practice.
+**TODO: {e.text}**\ i. the refuse-rag-wearer’s practice, ii. the triple-robe-wearer’s practice, iii. the alms-food-eater’s practice, iv. the house-to-house-seeker’s practice, v. the one-sessioner’s practice, vi. the bowl-food-eater’s practice, vii. the later-food-refuser’s practice, viii. the forest-dweller’s practice, ix. the tree-root-dweller’s practice, x. the open-air-dweller’s practice, xi. the charnel-ground-dweller’s practice, xii. the any-bed-user’s practice, xiii. the sitter’s practice.
 
 .. _II.3:
 
@@ -29,16 +27,15 @@ ix. the tree-root-dweller’s practice, x. the open-air-dweller’s practice, xi
 
 | (1) As to meaning, (2) characteristic, et cetera,
 | (3) The undertaking and directions,
-
-
-
-
 | *[56/114]* And then the grade, and breach as well,
 | And benefits of each besides,
 | (4) As to the profitable triad,
 | (5) “Ascetic” and so on distinguished,
 | (6) And as to groups, and also (7) singly,
 | The exposition should be known.  ``60`` 
+
+Meaning
+-------
 
 .. _II.4:
 
@@ -74,15 +71,16 @@ ix. Dwelling at the root of a tree is “tree-root-dwelling.” He has that habi
 
 **§10** xii. Only what has been distributed (*yad eva santhata*\ ) is “as distributed” (*yathāsanthata*\ ). This is a term for the resting place first allotted thus “This one falls to you.” He has the habit of dwelling in that as distributed, thus he is an “as-distributed-user” (*yathāsanthatika*\ ), [that is, an “any-bed-user”]. His practice is the “any-bed-user’s practice.”
 
-xiii. He has the habit of keeping to the sitting [posture when resting], refusing
-
-to lie down, thus he is a “sitter.” His practice is the “sitter’s practice.”
+xiii. He has the habit of keeping to the sitting [posture when resting], refusing to lie down, thus he is a “sitter.” His practice is the “sitter’s practice.”
 
 .. _II.11:
 
 **§11** All these, however, are the practices (*aṅga*\ ) of a bhikkhu who is ascetic (*dhuta*\ ) because he has shaken off (*dhuta*\ ) defilement by undertaking one or other of them. Or the knowledge that has got the name “ascetic” (*dhuta*\ ) because it shakes off (*dhunana*\ ) defilement is a practice (*aṅga*\ ) belonging to these, thus they are “ascetic practices” (*dhutaṅga*\ ). Or alternatively, they are ascetic (*dhuta*\ ) because they shake off (*niddhunana*\ ) opposition, and they are practices (*aṅga*\ ) because they are a way (*paṭipatti*\ ).
 
 This, firstly, is how the exposition should be known here as to meaning.
+
+Characteristic
+--------------
 
 .. _II.12:
 
@@ -96,9 +94,15 @@ And here should be told the story of the senior of the two brothers who were eld
 
 This, firstly, is what applies to all [the practices].
 
+Undertaking, directions, etc.
+-----------------------------
+
 .. _II.14:
 
 **§14** Now, we shall proceed to comment on the undertaking, directions, grade, breach and benefits, of each one [separately].
+
+Refuse-rag-wearer
+^^^^^^^^^^^^^^^^^
 
 i. First, the *refuse-rag-wearer’s practice*\  is undertaken with one of these two statements: “I refuse robes given by householders” or “I undertake the refuse-rag-wearer’s practice.” This, firstly, is the *undertaking*\ .
 
@@ -189,6 +193,9 @@ The moment anyone of these of his own choice or inclination agrees to [accept] a
 
 This, firstly, is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the refuse-rag-wearer’s practice.
 
+Triple-robe-wearer
+^^^^^^^^^^^^^^^^^^
+
 .. _II.23:
 
 **§23** *[61/119]* ii. Next there is the *triple-robe-wearer’s practice*\ . This is undertaken with one of the following statements: “I refuse a fourth robe” or “I undertake the triple-robe-wearer’s practice.”  ``65`` 
@@ -199,9 +206,7 @@ When a triple-robe wearer has got cloth for a robe, he can put it by for as long
 
 **§24** This too has three *grades*\ . Herein, one who is strict should, at the time of dyeing, first dye either the inner cloth or the upper garment, and having dyed it, he should wear that round the waist and dye the other. Then he can put that on over the shoulder and dye the cloak of patches. But he is not allowed to wear the cloak of patches round the waist. This is the duty when in an abode inside a village. But it is allowable for him in the forest to wash and dye two together. However, he should sit in a place near [to the robes] so that, if he sees anyone, he can pull a yellow cloth over himself. But for the medium one there is a yellow cloth in the dyeing room for use while dyeing, and it is allowable for him to wear that [as an inner cloth] or to put it on [as an upper garment] in order to do the work of dyeing. For the mild one it is allowable to wear, or put on, the robes of bhikkhus who are in communion (i.e. not suspended, etc.) in order to do the work of dyeing. A bedspread that remains where it is [#10]_  is also allowable for him, but he must not take it about him. And it is allowed for him to use from time to time the robes of bhikkhus who are in communion. It is allowed to one who wears the triple robe as an ascetic practice to have a yellow shoulder-cloth too as a fourth; but it must be only a span wide and three hands long.
 
-The moment anyone of these three agrees to [accept] a fourth robe, his ascetic
-
-practice is broken. This is the *breach*\  in this instance.
+The moment anyone of these three agrees to [accept] a fourth robe, his ascetic practice is broken. This is the *breach*\  in this instance.
 
 .. _II.25:
 
@@ -227,6 +232,9 @@ practice is broken. This is the *breach*\  in this instance.
 | That frugalness in garments be his choice.
 
 This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the triple-robe-wearer’s practice.
+
+Alms-food-eater
+^^^^^^^^^^^^^^^
 
 .. _II.27:
 
@@ -276,6 +284,9 @@ Since it is said:
 
 This is the commentary on the undertaking, directions, grades, breach and benefits, in the case of the alms-food-eater’s practice.
 
+House-to-house seeker
+^^^^^^^^^^^^^^^^^^^^^
+
 .. _II.31:
 
 **§31** iv. The *house-to-house seeker’s practice*\  is *undertaken*\  with one of the following statements “I refuse a greedy alms round” or “I undertake the house-to-house seeker’s practice.”
@@ -309,6 +320,9 @@ The ascetic practice of these three is broken as soon as the greedy alms round s
 | Then let him wisely seek from door to door.
 
 This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the house-to-house-seeker’s practice.  ``69`` 
+
+One-sessioner
+^^^^^^^^^^^^^
 
 .. _II.35:
 
@@ -345,6 +359,9 @@ This is the commentary on the undertaking, directions, grades, breach, and benef
 
 
 
+Bowl-food-eater
+^^^^^^^^^^^^^^^
+
 .. _II.39:
 
 **§39** vi. The *bowl-food-eater’s practice*\  is *undertaken*\  with one of the following statements: “I refuse a second vessel” or “I undertake the bowl-food-eater’s practice.”
@@ -355,9 +372,7 @@ When at the time of drinking rice gruel, the bowl-food eater gets curry that is 
 
 **§40** This too has three *grades*\ . Herein, for one who is strict, except at the time of eating sugarcane, it is not allowed [while eating] to throw rubbish away, and it is not allowed while eating to break up rice-lumps, fish, meat and cakes. [The rubbish should be thrown away and the rice-lumps, etc., broken up before starting to eat.] The medium one is allowed to break them up with one hand while eating; and he is called a “hand ascetic.” The mild one is called a “bowl ascetic”; anything that can be put into his bowl he is allowed, while eating, to break up, [that is, rice lumps, etc.,] with his hand or [such things as palm sugar, ginger, etc.,] with his teeth.
 
-The moment anyone of these three agrees to a second vessel his ascetic practice
-
-is broken. This is the *breach*\  in this instance.
+The moment anyone of these three agrees to a second vessel his ascetic practice is broken. This is the *breach*\  in this instance.
 
 .. _II.41:
 
@@ -380,6 +395,9 @@ is broken. This is the *breach*\  in this instance.
 This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the bowl-food-eater’s practice.  ``71`` 
 
 
+
+Late-food-refuser
+^^^^^^^^^^^^^^^^^
 
 .. _II.43:
 
@@ -413,6 +431,9 @@ The moment any one of these three has eaten what has been made allowable [again]
 | The special qualities such as content.
 
 This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the later-food-refuser’s practice.
+
+Forest-dweller
+^^^^^^^^^^^^^^
 
 .. _II.47:
 
@@ -485,6 +506,9 @@ This is the commentary on the undertaking, directions, grades, breach, and benef
 
 
 
+Tree-root-dweller
+^^^^^^^^^^^^^^^^^
+
 .. _II.56:
 
 **§56** ix. The *tree-root-dweller’s practice*\  is *undertaken*\  with one of the following statements: “I refuse a roof” or “I undertake the tree-root-dweller’s practice.”
@@ -539,6 +563,9 @@ The moment any one of these three makes his abode under a roof, his ascetic prac
 
 This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the tree-root-dweller’s practice.
 
+Open-air-dweller
+^^^^^^^^^^^^^^^^
+
 .. _II.60:
 
 **§60** x. The *open-air-dweller’s practice*\  is *undertaken*\  with one of the following statements: “I refuse a roof and a tree root” or “I undertake the open-air-dweller’s practice.”
@@ -581,6 +608,9 @@ The moment any one of these three goes under a roof or to a tree root to dwell t
 
 This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the open-air-dweller’s practice.
 
+Charnel-groud-dweller
+^^^^^^^^^^^^^^^^^^^^^
+
 .. _II.64:
 
 **§64** xi. The *charnel-ground-dweller’s practice*\  is *undertaken*\  with one of the following statements: “I refuse what is not a charnel ground” or “I undertake the charnel-ground-dweller’s practice.” *[71/129]* Now, the charnel-ground dweller should not live in some place just because the people who built the village have called it “the charnel ground” for it is not a charnel ground unless a dead body has been burnt on it. But as soon as one has been burnt on it, it becomes a charnel ground. And even if it has been neglected for a dozen years, it is so still.
@@ -620,6 +650,9 @@ When any one of these three makes his abode in some place not a charnel ground, 
 | Embrace this practice for it has rare virtues to impart.
 
 *[72/130]* This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the charnel-ground dweller’s practice.  ``78`` 
+
+Any-bed-user
+^^^^^^^^^^^^
 
 .. _II.69:
 
@@ -667,6 +700,9 @@ As soon as greed for resting places arises in any one of these three, his asceti
 | As one the sages’ Lord approves.
 
 This is the commentary on the undertaking, directions, grades, breach, and benefits, in the case of the any-bed-user’s practice.
+
+Sitter
+^^^^^^
 
 .. _II.73:
 
@@ -724,6 +760,9 @@ This is the commentary on the undertaking, directions, grades, breach, and benef
 | (6) As to groups, and also (7) singly,
 | The exposition should be known (see §3).
 
+Profitable triad
+----------------
+
 .. _II.78:
 
 **§78** *4.* Herein, as to the *profitable triad*\ : ( [Dhs]_ *, p.1*\  ) all the ascetic practices, that is to say, those of trainers, ordinary men, and men whose cankers have been destroyed, may be either profitable or [in the Arahant’s case] indeterminate.  ``80``  No ascetic practice is unprofitable.
@@ -733,6 +772,9 @@ This is the commentary on the undertaking, directions, grades, breach, and benef
 **§79** But if someone should say: There is also an unprofitable ascetic practice because of the words “One of evil wishes, a prey to wishes, becomes a forest dweller” ( [A]_  *III 219*\  ), etc., he should be told: We have not said that he does not live in the forest with unprofitable consciousness. Whoever has his dwelling in the forest is a forest dweller; and he may be one of evil wishes or of few wishes. But, as it was said above (§11), they “are the practices (*aṅga*\ ) of a bhikkhu who is ascetic (*dhuta*\ ) because he has shaken off (*dhuta*\ ) defilement by undertaking one or other of them. Or the *[74/132]* knowledge that has got the name “ascetic” (*dhuta*\ ) because it shakes off (*dhunana*\ ) defilement is a practice (*aṅga*\ ) belonging to these, thus they are “ascetic practices” (*dhutaṅga*\ ). Or alternatively, they are ascetic (*dhuta*\ ) because they shake off (*niddhunana*\ ) opposition, and they are practices (*aṅga*\ ) because they are a way (*paṭipatti*\ ).” Now, no one called “ascetic” on account of what is unprofitable could have these as his practices; nor does what is unprofitable shake off anything so that those things to which it belonged as a practice could be called “ascetic practices.” And what is unprofitable does not both shake off cupidity for robes, etc., and become the practice of the way. Consequently it was rightly said that no ascetic practice is unprofitable. And those who hold that an ascetic practice is outside the profitable triad [#18]_  have no ascetic practice as regards meaning. Owing to the shaking off of what is non-existent could it be called an ascetic practice? Also there are the words “Proceeded to undertake the ascetic qualities” ( [Vin]_  *III 15*\  ), and it follows [#19]_  that those words are contradicted. So that should not be accepted.
 
 This, in the first place, is the commentary on the profitable triad.
+
+Ascetic and so on distinguished
+-------------------------------
 
 .. _II.80:
 
@@ -770,9 +812,12 @@ One who has failed in both, like Lāḷudāyin, is “neither ascetic nor a prea
 
 This is the commentary “as to ‘ascetic’ and so on distinguished.”  ``82`` 
 
+Groups
+------
+
 .. _II.87:
 
-**§87** *6. and 7. As to groups and also singly*\ . Now, *6. as to groups*\ : these ascetic practices are in fact only eight, that is to say, three principal and five individual practices. Herein, the three, namely, the house-to-house-seeker’s practice, the one-sessioner’s practice, and the open-air-dweller’s practice, are principal practices. For one who keeps the house-to-house-seeker’s practice will keep the alms-food-eater’s practice; and the bowl-food-eater’s practice and the later-food-refuser’s practice will be well kept by one who keeps the one-sessioner’s practice. And what need has one who keeps the open-air-dweller’s practice to keep the tree-root-dweller’s practice or the any-bed-user’s practice? So there are these three principal practices that, *[76/134]* together with the five individual practices, that is to say, the forest-dweller’s practice, the refuse-rag-wearer’s practice, the triple-robe-wearer’s practice, the sitter’s practice, and the charnel-ground-dweller’s practice, come to eight only.
+**§87** *6. and 7. As to groups and also singly.* Now, *6. as to groups*\ : these ascetic practices are in fact only eight, that is to say, three principal and five individual practices. Herein, the three, namely, the house-to-house-seeker’s practice, the one-sessioner’s practice, and the open-air-dweller’s practice, are principal practices. For one who keeps the house-to-house-seeker’s practice will keep the alms-food-eater’s practice; and the bowl-food-eater’s practice and the later-food-refuser’s practice will be well kept by one who keeps the one-sessioner’s practice. And what need has one who keeps the open-air-dweller’s practice to keep the tree-root-dweller’s practice or the any-bed-user’s practice? So there are these three principal practices that, *[76/134]* together with the five individual practices, that is to say, the forest-dweller’s practice, the refuse-rag-wearer’s practice, the triple-robe-wearer’s practice, the sitter’s practice, and the charnel-ground-dweller’s practice, come to eight only.
 
 .. _II.88:
 
@@ -783,6 +828,9 @@ Again they all amount to two only, since twelve are dependent on requisites and 
 .. _II.89:
 
 **§89** And all are of one kind as volition. For there is only one ascetic practice, namely, that consisting in the volition of undertaking. Also it is said in the Commentary: “It is the volition that is the ascetic practice, they say.”
+
+Singly
+------
 
 .. _II.90:
 
