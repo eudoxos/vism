@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.2.23)  23 FEB 2023 21:51
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.2.23)  23 FEB 2023 21:54
  restricted system commands enabled.
 **vism.tex
 (./vism.tex
@@ -12087,14 +12087,14 @@ Package marginnote Info: Margin note 473.2 is on absolute page 473 on input lin
 e 12844.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 12844.
 Package marginnote Info: Margin note 473.3 is on absolute page 474 on input lin
-e 12849.
-Package marginnote Info: xpos seems to be 71.13188pt on input line 12849.
+e 12848.
+Package marginnote Info: xpos seems to be 71.13188pt on input line 12848.
  [437
 
 ]
 Package marginnote Info: Margin note 474.1 is on absolute page 474 on input lin
-e 12850.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 12850.
+e 12849.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 12849.
 Package marginnote Info: Margin note 474.2 is on absolute page 474 on input lin
 e 12854.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 12854.
@@ -14608,7 +14608,7 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 15597.
 \openout5 = vism.ptc
  [574] (./vism.aux)
 Package rerunfilecheck Info: File `vism.out' has not changed.
-(rerunfilecheck)             Checksum: 635FAD370F365281291F4C59633C6BF9;94159.
+(rerunfilecheck)             Checksum: BE1F3D079C65E77810F798A74244E9D5;94159.
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -14678,7 +14678,7 @@ warning  (pdf backend): unreferenced destination with name 'XVI.4n2'
 /usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></usr/sh
 are/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></usr/share/t
 exmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf>
-Output written on vism.pdf (610 pages, 3558605 bytes).
+Output written on vism.pdf (610 pages, 3558589 bytes).
 
 PDF statistics: 23324 PDF objects out of 26593 (max. 8388607)
  22275 compressed objects within 223 object streams
