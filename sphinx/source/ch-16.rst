@@ -20,9 +20,7 @@ A. Understanding
 
 And that has been developed in all its aspects by the bhikkhu who is thus possessed of the more advanced development of concentration that has acquired with direct-knowledge the benefits [described in Chs. XII and XIII]. But *understanding*\  comes next and that has still to be developed. Now, that is not easy, firstly even to know about, let alone to develop, when it is taught very briefly. In order, therefore, to deal with the detailed method of its development there is the following set of questions:
 
-
-
-.. todo:: enumeration(i) What is understanding?
+**TODO: {e.text}**\ (i) What is understanding?
 
 (ii) In what sense is it understanding?
 
@@ -67,9 +65,7 @@ Understanding (*paññā*\ ) is of many sorts and has various aspects. An answer
 
 **§8** (iv) ``How many kinds of understanding are there?``\ 
 
-
-
-.. todo:: enumeration1. Firstly, as having the characteristic of penetrating the individual essences of states, it is of one kind.
+**TODO: {e.text}**\ 1. Firstly, as having the characteristic of penetrating the individual essences of states, it is of one kind.
 
 2. As mundane and supramundane it is of two kinds.
 
@@ -774,21 +770,15 @@ According to Association with Consciousness
 
 Herein, the twenty-seven given as such are these:
 
-
-
-.. todo:: enumeration(i) contact, (ii) volition, (iii) applied thought,  ``463``  (iv) sustained thought, (v) happiness (interest), (vi) energy, (vii) life, (viii) concentration, (ix) faith, (x) mindfulness, (xi) conscience, (xii) shame, (xiii) non-greed, (xiv) non-hate, (xv) non-delusion, (xvi) tranquillity of the [mental] body, (xvii) tranquillity of consciousness, (xviii) lightness of the [mental] body, (xix) lightness of consciousness, (xx) malleability of the [mental] body, (xxi) malleability of consciousness, (xxii) wieldiness of the [mental] body, (xxiii) wieldiness of consciousness, (xxiv) proficiency of the [mental] body, (xxv) proficiency of consciousness, (xxvi) rectitude of the [mental) body, *[470/528]* (xxvii) rectitude of consciousness.
+**TODO: {e.text}**\ (i) contact, (ii) volition, (iii) applied thought,  ``463``  (iv) sustained thought, (v) happiness (interest), (vi) energy, (vii) life, (viii) concentration, (ix) faith, (x) mindfulness, (xi) conscience, (xii) shame, (xiii) non-greed, (xiv) non-hate, (xv) non-delusion, (xvi) tranquillity of the [mental] body, (xvii) tranquillity of consciousness, (xviii) lightness of the [mental] body, (xix) lightness of consciousness, (xx) malleability of the [mental] body, (xxi) malleability of consciousness, (xxii) wieldiness of the [mental] body, (xxiii) wieldiness of consciousness, (xxiv) proficiency of the [mental] body, (xxv) proficiency of consciousness, (xxvi) rectitude of the [mental) body, *[470/528]* (xxvii) rectitude of consciousness.
 
 The four ‘or-whatever-states’ are these:
 
-
-
-.. todo:: enumeration(xxviii) zeal (desire), (xxix) resolution, (xxx) attention (bringing to mind), (xxxi) specific neutrality.
+**TODO: {e.text}**\ (xxviii) zeal (desire), (xxix) resolution, (xxx) attention (bringing to mind), (xxxi) specific neutrality.
 
 And the five inconstant are these:
 
-
-
-.. todo:: enumeration(xxxii) compassion, (xxxiii) gladness, (xxxiv) abstinence from bodily misconduct, (xxxv) abstinence from verbal misconduct, (xxxvi) abstinence from wrong livelihood.
+**TODO: {e.text}**\ (xxxii) compassion, (xxxiii) gladness, (xxxiv) abstinence from bodily misconduct, (xxxv) abstinence from verbal misconduct, (xxxvi) abstinence from wrong livelihood.
 
 These last arise sometimes [but not always], and when they arise they do not do so together.
 
@@ -911,9 +901,7 @@ Herein, the thirteen given as such are these:
 
 
 
-| 
-
-.. todo:: enumerationscontact (i),
+| **TODO: {e.text}**\ contact (i),
 | volition (ii),
 | applied thought (iii),
 
@@ -992,9 +980,7 @@ That [pride] has the characteristic of haughtiness. Its function is arrogance. I
 
 
 
-| 
-
-.. todo:: enumerations*[478/536]* contact (i),
+| **TODO: {e.text}**\ *[478/536]* contact (i),
 | volition (ii),
 | applied thought (iii),
 | sustained thought (iv),
@@ -1051,9 +1037,7 @@ So these eighteen formations should be understood to come into association with 
 
 
 
-| 
-
-.. todo:: enumerationscontact (i),
+| **TODO: {e.text}**\ contact (i),
 | volition (ii),
 | applied thought (iii),
 | sustained thought (iv),
@@ -1097,9 +1081,7 @@ Herein, firstly, those associated with the profitable resultant (34) and unprofi
 
 
 
-| 
-
-.. todo:: enumerationscontact (i),
+| **TODO: {e.text}**\ contact (i),
 | volition (ii),
 | life (vii),
 | steadiness of consciousness (xlix),

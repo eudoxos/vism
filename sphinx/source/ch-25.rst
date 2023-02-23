@@ -167,9 +167,7 @@ This, firstly, is how attaining comes about.  ``701``
 
 **§17** Now, in order to explain the attainment of cessation there is this set of questions:
 
-
-
-.. todo:: enumeration(i) What is the attainment of cessation? (ii) Who attains it? (iii) Who do not attain it? (iv) Where do they attain it? (v) Why do they attain it? (vi) How does its attainment come about? (vii) How is it made to last? (viii) How does the emergence from it come about?
+**TODO: {e.text}**\ (i) What is the attainment of cessation? (ii) Who attains it? (iii) Who do not attain it? (iv) Where do they attain it? (v) Why do they attain it? (vi) How does its attainment come about? (vii) How is it made to last? (viii) How does the emergence from it come about?
 
 (ix) Towards what does the mind of one who has emerged tend?
 
@@ -446,9 +444,7 @@ Now, at this point that has all been expounded. And herein:
 | Desiring purification duly show
 | Reverence for this *Path of Purification*\ .
 
-
-
-.. todo:: * * *
+**TODO: {e.text}**\ 
 
 
 

@@ -158,8 +158,11 @@ This is how repulsiveness should be reviewed as to outflow.
 
 This is the detailed explanation of the development of the perception of repulsiveness in nutriment.
 
-Defining of The Elements: Word Definitions
-------------------------------------------
+Defining of The Elements
+------------------------
+
+Word Definitions
+^^^^^^^^^^^^^^^^
 
 .. _XI.27:
 
@@ -170,7 +173,7 @@ Herein, “defining” (*vavatthāna*\ ) is determining by characterizing indivi
 This is given in two ways: in brief and in detail. It is given in brief in the Mahāsatipaṭṭhāna Sutta ( [D]_  *II 294*\  ), and in detail in the Mahāhatthipadopama Sutta ( [M]_  *I 185*\  ), the Rāhulovāda Sutta ( [M]_  *I 421*\  ), and the Dhātuvibhaṅga Sutta ( [M]_  *III 240*\  ).
 
 Texts and Commentary in Brief
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XI.28:
 
@@ -185,7 +188,7 @@ Texts and Commentary in Brief
 **§30** What is meant? Just as the butcher, while feeding the cow, bringing it to the shambles, keeping it tied up after bringing it there, slaughtering it, and seeing it slaughtered and dead, does not lose the perception “cow” so long as he has not carved it up and divided it into parts; but when he has divided it up and is sitting there, he loses the perception “cow” and the perception “meat” occurs; he does not think “I am selling cow” or “They are carrying cow away,” but rather he thinks “I am selling meat” or “They are carrying meat away”; so too this bhikkhu, while still a foolish ordinary person—both formerly as a layman and as one gone forth into homelessness—does not lose the perception “living being” or “man” or “person” so long as he does not, by resolution of the compact into elements, review this body, however placed, however disposed, as consisting of elements. But when he does review it as consisting of elements, he loses the perception “living being” and his mind establishes itself upon elements. That is why the Blessed One said: “Bhikkhus, just as though a skilled butcher … were seated at the crossroads … so too, bhikkhus, a bhikkhu … air element.”
 
 In Detail
----------
+^^^^^^^^^
 
 .. _XI.31:
 
@@ -230,7 +233,7 @@ And: “What is the internal air element, friends? Whatever there is internally 
 This, firstly, is the commentary on the texts here.
 
 Method of Development in Brief
-------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XI.39:
 
@@ -259,21 +262,21 @@ Method of Development in Brief
 This is the method of development when the definition of the elements is given in brief.
 
 Method of Development in Detail
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XI.45:
 
 **§45** The method given in detail should be understood in this way. A meditator of not over-quick understanding who wants to develop this meditation subject should learn the elements in detail in the forty-two aspects from a teacher, and he should live in an abode of the kind already described. Then, when he has done all the duties, he should go into solitary retreat and develop the meditation subject in four ways thus: (1) with constituents in brief, (2) with constituents by analysis, (3) with characteristics in brief, and (4) with characteristics by analysis.
 
 (1) With Constituents in Brief
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""
 
 .. _XI.46:
 
 **§46** Herein, how does he develop it *with constituents in brief*\ ? Here a bhikkhu does his defining in this way, “In twenty of the parts what has the stiffened mode is the earth element,” and he does his defining thus, “In twelve parts the liquid called water with the mode of cohesion is the water element,”  ``353``  and he does his defining thus, “In four parts what matures (what has the mode of ripening) is the fire element,” and he does his defining thus, “In six parts what has the mode of distending is the air element.” As he defines them in this way they become evident to him. As he again and again adverts to them and gives his attention to them, concentration arises as access only.
 
 (2) With Constituents by Analysis
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""""
 
 .. _XI.47:
 
@@ -440,7 +443,7 @@ What is called *in-breath and out-breath*\  is a particular component of this bo
 **§83** As he gives his attention in this way the elements become evident to him. As he adverts and gives attention to them again and again access concentration arises in him in the way already described.
 
 (3) With Characteristics in Brief
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""""
 
 .. _XI.84:
 
@@ -449,7 +452,7 @@ What is called *in-breath and out-breath*\  is a particular component of this bo
 As he defines them in this way the elements become evident to him. As he adverts to them and gives attention to them again and again access concentration arises in him in the way already stated.
 
 (4) With Characteristics by Analysis
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""""
 
 .. _XI.85:
 
@@ -458,7 +461,7 @@ As he defines them in this way the elements become evident to him. As he adverts
 As he defines them in this way the elements become evident to him. As he adverts and gives attention to them again and again access concentration arises in him in the way already described.
 
 Additional Ways of Giving Attention
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XI.86:
 
@@ -712,7 +715,7 @@ Development of Concentration—Conclusion
 **§119** This concentration as intended here is twofold, that is to say, access concentration and absorption concentration. Herein, the unification [of mind] in the case of ten meditation subjects and in the consciousness preceding absorption [in the case of the remaining meditation subjects] [#44]_  is access concentration. The unification of mind in the case of the remaining meditation subjects is absorption concentration. And so it is developed in two forms with the development of these meditation subjects. Hence it was said above: “This completes in all its aspects the commentary on the meaning of the clause, ‘How should it be developed?’”
 
 The Benefits of Developing Concentration
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _XI.120:
 

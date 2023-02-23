@@ -144,7 +144,7 @@ So it is of four kinds as of difficult progress and sluggish direct-knowledge, a
 **§27** (vii) *How should it be developed?*\ 
 
 A. Development in Brief
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 The method of developing the kind of concentration associated with the noble paths mentioned (§7) under that “of two kinds as mundane and supramundane,” etc., is included in the method of developing understanding; (:ref:`Ch. XXII <XXII>`) for in developing [path] understanding that is developed too. So we shall say nothing separately [here] about how that is to be developed.
 
@@ -153,14 +153,14 @@ The method of developing the kind of concentration associated with the noble pat
 **§28** But mundane concentration should be developed by one who has taken his stand on virtue that is quite purified in the way already stated. He should sever any of the ten impediments that he may have. He should then approach the good friend, the giver of a meditation subject, and he should apprehend from among the forty meditation subjects one that suits his own temperament. After that he should avoid a monastery unfavourable to the development of concentration and *[87/145]* go to live in one that is favourable. Then he should sever the lesser impediments and not overlook any of the directions for development. This is in brief.
 
 B. Development in Detail
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 .. _III.29:
 
 **§29** The detail is this:
 
 The ten impediments
-"""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^
 
 Firstly it was said above, *he should sever any of the ten impediments that he may have*\ .  ``90``  Now, the “ten impediments” are:
 
@@ -287,7 +287,7 @@ For such as these, books are no impediment.
 This, in the first place, is the detailed explanation of the impediments.
 
 Meditation subjects etc.
-""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _III.57:
 
@@ -310,7 +310,7 @@ With mindfulness of death, thinking, “I have got to die,” he gives up improp
 So it is the one who gives this twofold meditation subject that is called the *giver of a meditation subject*\ .
 
 The good friend
-"""""""""""""""
+^^^^^^^^^^^^^^^
 
 .. _III.61:
 
@@ -370,12 +370,12 @@ When [a bhikkhu] goes to him, he should not do so with feet washed and anointed,
 
 **§73** If the teacher says, “Come in the morning,” he should do so. But if his stomach burns with a bile affliction at that hour, or if his food does not get digested owing to sluggish digestive heat, or if some other ailment afflicts him, he should let it be known, and proposing a time that suits himself, he should come at that time. For if a meditation subject is expounded at an inconvenient time, one cannot give attention.
 
-This is the detailed explanation of the words “approach the good friend, the
+This is the detailed explanation of the words “approach the good friend, the giver of a meditation subject.”
 
-giver of a meditation subject.”
+
 
 Temperaments
-""""""""""""
+^^^^^^^^^^^^
 
 .. _III.74:
 
@@ -538,7 +538,7 @@ For one of speculative temperament an open lodging with a view,  ``110``  where 
 These are the details, with definition of the kind, source, recognition, and what is suitable, as regards the various temperaments handed down here with the words “that suits his own temperament” (§60).
 
 Definition of meditation subjects
-"""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _III.103:
 
@@ -647,12 +647,12 @@ This is “as to extension and non-extension.”
 
 **§122** All this has been stated in the form of direct opposition and complete suitability. But there is actually no profitable development that does not suppress greed, etc., and help faith, and so on. And this is said in the Meghiya Sutta: “[One] should, in addition, [#36]_  develop these four things: foulness should be developed for the purpose of abandoning greed (lust). Loving-kindness should be developed for *[110/168]* the purpose of abandoning ill will.  ``115``  Mindfulness of breathing should be developed for the purpose of cutting off applied thought. Perception of impermanence should be cultivated for the purpose of eliminating the conceit, ‘I am’” ( [A]_  *IV 358*\  ). Also in the Rāhula Sutta, in the passage beginning, “Develop loving-kindness, Rāhula” ( [M]_  *I 424*\  ), seven meditation subjects are given for a single temperament. So instead of insisting on the mere letter, the intention should be sought in each instance.
 
-This is the explanatory exposition of the meditation subject referred to by the
+This is the explanatory exposition of the meditation subject referred to by the words *he should apprehend…one*\  [meditation subject] (§28).
 
-words *he should apprehend…one*\  [meditation subject] (§28).
+
 
 Self-dedication
-"""""""""""""""
+^^^^^^^^^^^^^^^
 
 .. _III.123:
 
@@ -674,9 +674,9 @@ Self-dedication
 
 **§127** Three bhikkhus came to the elder, it seems. One of them said, “Venerable sir, I am ready to fall from a cliff the height of one hundred men, if it is said to be to your advantage.” The second said, “Venerable sir, I am ready to grind away this body from the heels up without remainder on a flat stone, if it is said to be to your advantage.” The third said, “Venerable sir, I am ready to die by stopping breathing, *[111/169]* if it is said to be to your advantage.” Observing, “These bhikkhus are certainly capable of progress,” the elder expounded a meditation subject to them. Following his advice, the three attained Arahantship.
 
-This is the benefit in self-dedication. Hence it was said above “dedicating himself
+This is the benefit in self-dedication. Hence it was said above “dedicating himself to the Blessed One, the Enlightened One, or to a teacher.”
 
-to the Blessed One, the Enlightened One, or to a teacher.”
+
 
 .. _III.128:
 
@@ -687,7 +687,7 @@ to the Blessed One, the Enlightened One, or to a teacher.”
 **§129** He should be whole-heartedly resolved on that. The meaning is  ``117``  that he should be resolved upon concentration, respect concentration, incline to concentration, be resolved upon Nibbāna, respect Nibbāna, incline to Nibbāna.
 
 Ways of expounding
-""""""""""""""""""
+^^^^^^^^^^^^^^^^^^
 
 .. _III.130:
 

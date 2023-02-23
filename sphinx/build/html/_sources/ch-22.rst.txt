@@ -71,9 +71,7 @@ Insight: Comprehension by Groups
 
 **§9** Herein, the abbreviation, “The eye … (etc.) … Ageing-and-death,” should be understood to represent the following sets of things elided:
 
-
-
-.. todo:: enumeration1. The states that occur in the doors [of consciousness] together with the doors and the objects.
+**TODO: {e.text}**\ 1. The states that occur in the doors [of consciousness] together with the doors and the objects.
 
 2. The five aggregates. 3. The six doors. 4. The six objects. 5. The six kinds of consciousness. 6. The six kinds of contact. 7. The six kinds of feeling. 8. The six kinds of perception. 9. The six kinds of volition. 10. The six kinds of craving. 11. The six kinds of applied thought. 12. The six kinds of sustained thought. 13. The six elements. 14. The ten kasiṇas. 15. The thirty-two bodily aspects. 16. The twelve bases.
 
@@ -178,9 +176,9 @@ Also seventy instances of materiality occur in the same way with the sevenfold c
 
 **§29** (4) *What is originated by consciousness that has kamma as its condition*\  is materiality originated by kamma-resultant consciousness. (5) *What is originated by nutriment that has kamma as its condition*\  is so called since the nutritive essence that has reached presence in the instances of materiality originated by kamma originates a further octad-with-nutritive-essence-as-eighth, and the nutritive essence there that has reached presence also originates a further one, and so it *[641/699]* links up four or five occurrences of octads. (6) *What is originated by temperature that has kamma as its condition*\  is so called since the kamma-born fire element that has reached presence originates an octad-with-nutritive-essence-as-eighth, which is temperature-originated, and the temperature in that originates a further octad-with-nutritive-essence-as eighth, and so it links up four or five occurrences of octads.
 
-This is how the generation of kamma-born materiality in the first place should
+This is how the generation of kamma-born materiality in the first place should be seen.  ``615`` 
 
-be seen.  ``615`` 
+
 
 (b) Consciousness-Born Materiality
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -267,9 +265,9 @@ Herein, this temperature is a condition for temperature-originated material inst
 
 *[644/702]* This is how the generation of temperature-born materiality should be seen.
 
-One who sees the generation of materiality thus is said to “comprehend the
+One who sees the generation of materiality thus is said to “comprehend the material at one time” (§21). [#18]_ 
 
-material at one time” (§21). [#18]_ 
+
 
 Comprehension of the Immaterial
 -------------------------------

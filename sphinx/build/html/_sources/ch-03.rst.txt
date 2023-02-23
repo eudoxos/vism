@@ -185,9 +185,7 @@ II. Virtue
 
 **§16** However, even when this path of purification is shown in this way under the headings of virtue, concentration and understanding, each comprising various special qualities, it is still only shown extremely briefly. And so since that is insufficient to help all, there is, in order to show it in detail, the following set of questions dealing in the first place with virtue:
 
-
-
-.. todo:: enumeration(i) What is virtue? (ii) In what sense is it virtue? (iii) What are its characteristic, function, manifestation, and proximate cause?
+**TODO: {e.text}**\ (i) What is virtue? (ii) In what sense is it virtue? (iii) What are its characteristic, function, manifestation, and proximate cause?
 
 (iv) What are the benefits of virtue? (v) How many kinds of virtue are there? (vi) What is the defiling of it? (viii) What is the cleansing of it?
 
@@ -717,7 +715,7 @@ But her husband, who was going after her, saw the elder and asked, “Venerable 
 
 .. _I.82:
 
-**§82** `In the description of *pursuing gain with gain: pursuing* is hunting after. *Got from here* is got from this house. *There* is into that house. *Seeking* is wanting. *Seeking for* is hunting after. *Seeking out* is hunting after again and again.  ``30``  The story of the bhikkhu who went round giving away the alms he had got at first to children of families here and there and in the end got milk and gruel should be told here. *Searching*\ , etc., are synonyms for “seeking,” etc., and so the construction here should be understood thus: *going in search of* is seeking; *searching for* is seeking for; *searching out* is seeking out.
+**§82** In the description of *pursuing gain with gain: pursuing* is hunting after. *Got from here* is got from this house. *There* is into that house. *Seeking* is wanting. *Seeking for* is hunting after. *Seeking out* is hunting after again and again.  ``30``  The story of the bhikkhu who went round giving away the alms he had got at first to children of families here and there and in the end got milk and gruel should be told here. *Searching*\ , etc., are synonyms for “seeking,” etc., and so the construction here should be understood thus: *going in search of* is seeking; *searching for* is seeking for; *searching out* is seeking out.
 
 This is the meaning of *scheming,* and so on.
 
