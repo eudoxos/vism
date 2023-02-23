@@ -121,11 +121,8 @@ Consequently, it should be understood that dependent origination has the charact
 
 | This total conditionally, acting interdependently,
 | Arouses states together equally;
-| So this too is a reason here wherefore the Greatest Sage,
-
-the Seer,
-
-Gave to this term its form thus succinctly.
+| So this too is a reason here wherefore the Greatest Sage, the Seer,
+| Gave to this term its form thus succinctly.
 
 .. _XVII.20:
 
@@ -155,9 +152,7 @@ Gave to this term its form thus succinctly.
 
 **§24** *The two together*\ : since any given states are produced without interrupting the [cause-fruit] continuity of any given combination of conditions, the whole expression “dependent origination” (*paṭicca-samuppāda*\ ) represents the middle way, which rejects the doctrines, “He who acts is he who reaps” and “One acts while another reaps” ( [S]_  *II 20*\  ), and which is the proper way described thus, “Not insisting on local language and not overriding normal usage” ( [M]_  *III 234*\  ). [#4]_ 
 
-*[539/597]* This, in the first place, is the meaning of the mere words “dependent
-
-origination” (*paṭicca-samuppāda*\ ).
+*[539/597]* This, in the first place, is the meaning of the mere words “dependent origination” (*paṭicca-samuppāda*\ ).
 
 Section B. Exposition
 ---------------------
@@ -177,9 +172,7 @@ I. Preamble
 | Are four things very hard to see
 | And likewise difficult to teach.
 
-Therefore, considering that to comment on the dependent origination is
-
-impossible except for those who are expert in the texts:
+Therefore, considering that to comment on the dependent origination is impossible except for those who are expert in the texts:
 
 
 
@@ -355,9 +348,7 @@ This is how the exposition should be known here “as to meaning.”
 
 The singlefoldness, etc., of *contact*\ , etc., should be understood in this way too.
 
-This is how the exposition should be known here “as to singlefold and so
-
-on.”
+This is how the exposition should be known here “as to singlefold and so on.”
 
 .. _XVII.57:
 
@@ -405,9 +396,7 @@ This is said too: “Not knowing, bhikkhus, in ignorance, he forms the formation
 
 **§65** Here it might be said: “Let us then firstly agree that ignorance is a condition for formations. But it must now be stated for which formations, and in which way it is a condition.”
 
-Here is the reply: “Twenty-four conditions have been stated by the Blessed
-
-One as follows.”
+Here is the reply: “Twenty-four conditions have been stated by the Blessed One as follows.”
 
 *[The 24 Conditions]*\ 
 
@@ -986,11 +975,12 @@ In this way they can be coupled together by opposites as appropriate.
 
 .. _XVII.165:
 
-**§165** An echo, or its like, supplies
+**§165** 
 
 
 
 
+| An echo, or its like, supplies
 | The figures here; connectedness
 | By continuity denies
 | Identity and otherness.
@@ -1061,9 +1051,7 @@ Up to this point the occurrence, with formations as condition, of rebirth-linkin
 
 .. _XVII.175:
 
-**§175** Now, in order to eliminate confusion about all these thirty-two kinds of
-
-resultant consciousness:
+**§175** Now, in order to eliminate confusion about all these thirty-two kinds of resultant consciousness:
 
 
 
@@ -1127,9 +1115,7 @@ This, firstly, is how it should be understood what kinds of resultant consciousn
 | *[579/637]* In birth and life and the three
 | Kinds of becoming and the rest.
 
-This is the detailed explanation of the clause, “With formations as condition,
-
-consciousness.”
+This is the detailed explanation of the clause, “With formations as condition, consciousness.”
 
 (iv) Mentality-Materiality
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1190,9 +1176,7 @@ This is the maximum. But at minimum the computation of “mentality-materiality 
 | One hidden in his mother’s womb
 | Thereby obtains his nourishment ( [S]_  *I 206*\  ).
 
-And it appears in apparitionally born beings as soon as they first swallow
-
-the spittle that has come into their own mouths. *[581/639]* So, with the twenty-six [material instances] consisting of the bare octad originated by nutriment, and of the, at most, two [sound] enneads originated respectively by temperature and consciousness, and also with the already-mentioned seventy kamma-originated instances (§191) that arise three times in each conscious moment [at the instants of arising, presence, and dissolution], there are thus ninety-six material instances; and with the three immaterial aggregates there is thus a total of ninety-nine states.
+And it appears in apparitionally born beings as soon as they first swallow the spittle that has come into their own mouths. *[581/639]* So, with the twenty-six [material instances] consisting of the bare octad originated by nutriment, and of the, at most, two [sound] enneads originated respectively by temperature and consciousness, and also with the already-mentioned seventy kamma-originated instances (§191) that arise three times in each conscious moment [at the instants of arising, presence, and dissolution], there are thus ninety-six material instances; and with the three immaterial aggregates there is thus a total of ninety-nine states.
 
 .. _XVII.195:
 
@@ -1202,9 +1186,7 @@ the spittle that has come into their own mouths. *[581/639]* So, with the twenty
 
 **§196** Now, although this kamma-born materiality is the first to find a footing in the several kinds of becoming, generation, destiny, station of consciousness, and abode of beings, it is nevertheless unable to carry on without being consolidated by materiality of triple origination [by consciousness, temperature, and nutriment], nor can that of triple origination do so without being consolidated by the former. But when they thus give consolidating support to each other, they can stand up without falling, like sheaves of reeds propped together on all four sides, even though battered by the wind, and like [boats with] broken floats [#37]_  that have found a support, even though battered by waves somewhere in mid-ocean, and they can last one year, two years … a hundred years, until those beings’ life span or their merit is exhausted.
 
-This is how the exposition should be understood here “by occurrence in
-
-becoming, etc.”
+This is how the exposition should be understood here “by occurrence in becoming, etc.”
 
 .. _XVII.197:
 
@@ -1272,9 +1254,7 @@ Whether consciousness likes it or not, [certain] material instances are seen to 
 
 This is how the exposition should be known “by manner of condition.”
 
-This is the detailed explanation of the clause “With consciousness as
-
-condition, mentality-materiality.”
+This is the detailed explanation of the clause “With consciousness as condition, mentality-materiality.”
 
 (v) The Sixfold Base
 ^^^^^^^^^^^^^^^^^^^^
@@ -2232,7 +2212,7 @@ abandoning other duties:
 
 .. _XVII.n24:
 
-.. [#24] . The *Sammohavinodanī*\  adds more details here: “When hell appears it does so like a metal cauldron; when the human world appears, the mother’s womb appears like a woollen slipper (*kambala-yāna—*\ for *yāna* as footwear or sandals see  [M-a]_  *III 222*\  ); when the heavenly world appears, wishing trees, divine palaces and couches, etc., appear.” Vism-mhṭ remarks here: “By the words ‘the appearance of the mother's womb,’ etc., only visual appearance is given as the sign of destiny. Herein, in the first place it would be logical that sound has not been given in the Commentaries as a sign of destiny because it is included in the happy destinies as not-clung-to, but the reason for odour, etc., not having been given, will be inquired into” ( [Vism-mhṭ]_  *609*\  ). This question is in fact dealt with at length at  [Vism-mhṭ]_  *611*\  , but the arguments are not reproduced here. See note 26 below.
+.. [#24] . The *Sammohavinodanī*\  adds more details here: “When hell appears it does so like a metal cauldron; when the human world appears, the mother’s womb appears like a woollen slipper (*kambala-yāna—*\ for *yāna* as footwear or sandals see  [M-a]_  *III 222*\  ); when the heavenly world appears, wishing trees, divine palaces and couches, etc., appear.” Vism-mhṭ remarks here: “By the words ‘the appearance of the mother’s womb,’ etc., only visual appearance is given as the sign of destiny. Herein, in the first place it would be logical that sound has not been given in the Commentaries as a sign of destiny because it is included in the happy destinies as not-clung-to, but the reason for odour, etc., not having been given, will be inquired into” ( [Vism-mhṭ]_  *609*\  ). This question is in fact dealt with at length at  [Vism-mhṭ]_  *611*\  , but the arguments are not reproduced here. See note 26 below.
 
 
 .. _XVII.n25:
