@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.2.24)  24 FEB 2023 14:18
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.2.24)  24 FEB 2023 15:31
  restricted system commands enabled.
 **vism.tex
 (./vism.tex
@@ -14598,11 +14598,15 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 15597.
 [542] (./vism.ptc) [543
 
 ] [544] [545] [546] [547] [548] [549] [550] [551]
-[552] [553] [554] [555] [556] [557] [558] [559] [560]) (./vism-glossary.tex
-[561] [562
+[552] [553] [554] [555] [556] [557] [558] [559]
+Underfull \hbox (badness 8094) in paragraph at lines 886--887
+ []\TU/TexGyrePagella(0)/b/n/10 Tissa Thera, Ciragumbavasik- 
+ []
 
-] (./vism.ptc) [563] [564] [565] [566] [567] [568] [569] [570]
-[571] [572] [573])
+[560]) (./vism-glossary.tex [561] [562
+
+] (./vism.ptc) [563] [564] [565] [566]
+[567] [568] [569] [570] [571] [572] [573])
 \tf@ptc=\write5
 
 \openout5 = vism.ptc
@@ -14617,7 +14621,7 @@ Here is how much of LuaTeX's memory you used:
  8885 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 748 glue, 3 kern, 1 glyph, 766 attribute, 70 glue_s
 pec, 766 attribute_list, 1 write, 15 pdf_action nodes
-   avail lists: 1:1,2:3433,3:1136,4:182,5:2317,6:556,7:23088,8:978,9:2820,10:40,
+   avail lists: 1:1,2:3433,3:1264,4:182,5:2317,6:556,7:23088,8:978,9:2820,10:40,
 11:1569
  40105 multiletter control sequences out of 65536+600000
  73 fonts using 11469495 bytes
@@ -14678,10 +14682,10 @@ warning  (pdf backend): unreferenced destination with name 'XVI.4n2'
 /usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></usr/sh
 are/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></usr/share/t
 exmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf>
-Output written on vism.pdf (610 pages, 3701241 bytes).
+Output written on vism.pdf (610 pages, 3701803 bytes).
 
-PDF statistics: 26887 PDF objects out of 31911 (max. 8388607)
- 25802 compressed objects within 259 object streams
+PDF statistics: 26890 PDF objects out of 31911 (max. 8388607)
+ 25805 compressed objects within 259 object streams
  8339 named destinations out of 8907 (max. 131072)
  2993 words of extra memory for PDF output out of 10000 (max. 100000000)
 

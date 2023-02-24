@@ -55,7 +55,10 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           over-generalization (logic): :ref:`XIV.186 <XIV.186>` 
 
    \*atisāra
-          flux (of bowels), diarrhoea: :ref:`XI.21 <XI.21>` atīta-past 
+          flux (of bowels), diarrhoea: :ref:`XI.21 <XI.21>`
+
+   atīta
+          past
 
    \*attatā
           selfness, oneself: :ref:`IX.47 <IX.47>` 
@@ -85,7 +88,10 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           neither-painfulnor-pleasant (feeling) 
 
    adosa
-          non-hate addhā, addhāna—extent, period
+          non-hate
+
+   addhā, addhāna
+          extent, period
 
    advaya
           exclusive, absolute
@@ -282,10 +288,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
    amoha
           non-delusion 
 
-   [???]
-          *
-
-   aya
+   \*aya
           *also* a reason: :ref:`XIII.92 <XIII.92>`; :ref:`XVI.17 <XVI.17>`
 
    arati
@@ -421,10 +424,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           subserving: :ref:`XIV.60 <XIV.60>` ( [M-a]_  *II 52*\  ) 
 
    ānantarika
-          (kamma) with immediate 
-
-   [???]
-          result (on rebirth)
+          (kamma) with immediate result (on rebirth)
 
    ānāpāna
           breathing
@@ -475,10 +475,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           *also* accumulation (of kamma)
 
    ārammaṇa
-          object (of consciousness or 
-
-   [???]
-          its concomitants), support
+          object (of consciousness or its concomitants), support
 
    āruppa
           immaterial state (the 4)
@@ -574,10 +571,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           1) climate, (2) season, (3) temperature
 
    utu-samuṭṭhāna
-          temperature-originated 
-
-   [???]
-          (matter)
+          temperature-originated (matter)
 
    udaya
           rise
@@ -616,10 +610,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           inducement, application (log): :ref:`VII.83 <VII.83>` 
 
    \*upanayana
-          *also* applying (log.), induc
-
-   [???]
-          ing, leading on: :ref:`VII.83 <VII.83>`; :ref:`XIV.68 <XIV.68>`
+          *also* applying (log.), inducing, leading on: :ref:`VII.83 <VII.83>`; :ref:`XIV.68 <XIV.68>`
 
    upapatti
           reappearance, rebirth
@@ -1194,8 +1185,8 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
    \*drabya
           substance: :ref:`XVIII.n.8 <XVIII.n8>`
 
-   [???]
-          *drava-fluid: :ref:`XI.41 <XI.41>`
+   \*drava
+          fluid: :ref:`XI.41 <XI.41>`
 
    dvattiṃsākāra
           the thirty-two aspects (of the body) 
@@ -1345,10 +1336,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           cessation
 
    nissaya
-          (1) support, (2) the dependence 
-
-   [???]
-          (given by teacher to pupil) 
+          (1) support, (2) the dependence (given by teacher to pupil) 
 
    nissatta
           not-a-living-being
@@ -1375,10 +1363,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           distant: :ref:`VII.81 <VII.81>`
 
    pakati
-          (1) nature, natural, normal, (2) 
-
-   [???]
-          Primordial Essence, Prakṛti
+          (1) nature, natural, normal, (2) Primordial Essence, Prakṛti
 
    \*pakāsa
           illumination: :ref:`XVII.77 <XVII.77>`
@@ -1678,7 +1663,10 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           denigrating: :ref:`I.81 <I.81>`
 
    pāpicchatā
-          evilness of wishes pāramī, pāramitā—perfection
+          evilness of wishes
+
+   pāramī, pāramitā
+          perfection
 
    \*pārāvata
           pigeon (pārāpata in PED): :ref:`XI.7 <XI.7>`
@@ -1708,10 +1696,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           person
 
    puthujjana
-          ordinary man (i.e. one who has not 
-
-   [???]
-          reached the path)
+          ordinary man (i.e. one who has not reached the path)
 
    \*pupphaka
           balloon, swelling: :ref:`VIII.117 <VIII.117>`
@@ -1774,10 +1759,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           enlightenment, awakening 
 
    bodhisatta
-          Bodhisatta, Being Destined 
-
-   [???]
-          to Enlightenment
+          Bodhisatta, Being Destined to Enlightenment
 
    \*byatti
           see vyatti
@@ -1837,10 +1819,13 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           (l) ground, soil, (2) plane (of existence; the 4) 
 
    \*bheda, vacī- 
-          speech utterance: :ref:`XIV.62 <XIV.62>` (cf. Dhs-a 90;  [M]_  *I 301*\  ) 
+          speech utterance: :ref:`XIV.62 <XIV.62>` (cf.  [Dhs-a]_  *90*\  ;  [M]_  *I 301*\  ) 
 
    magga
-          path macchariya, macchera—avarice 
+          path
+
+   macchariya, macchera
+          avarice
 
    majjhatta
           neutral, central 
@@ -1860,11 +1845,8 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
    maraṇa
           death, dying 
 
-   [???]
-          *
-
-   maru
-          *also* cliff: :ref:`XVII.63 <XVII.63>` 
+   \*maru
+          *also* cliff: :ref:`XVII.63 <XVII.63>`
 
    mala
           stain (the 3)
@@ -1948,10 +1930,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           (1) womb, (2) generation, (3) cause, reason 
 
    yoniso
-          wise, wisely, with ordered rea
-
-   [???]
-          soning
+          wise, wisely, with ordered reasoning
 
    rati
           delight
@@ -2095,10 +2074,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           (1) versatility (in development of divine abidings), (2) transformation (by supernormal power) 
 
    vikkhambhana
-          suppression (of defile
-
-   [???]
-          ments by serenity)
+          suppression (of defilements by serenity)
 
    vikkhepa
           distraction
@@ -2239,10 +2215,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           distinction
 
    vihāra
-          (1) dwelling place, abode, (2) 
-
-   [???]
-          monastery, (3) mode of abiding
+          (1) dwelling place, abode, (2) monastery, (3) mode of abiding
 
    \*vihaṭamāna
           being carded: :ref:`XXI.66 <XXI.66>`
@@ -2305,10 +2278,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           ill will
 
    \*vyāpāra
-          *also* interest, interestedness: 
-
-   [???]
-          :ref:`XVII.309 <XVII.309>`; :ref:`XVIII.31 <XVIII.31>`
+          *also* interest, interestedness: :ref:`XVII.309 <XVII.309>`; :ref:`XVIII.31 <XVIII.31>`
 
    saṃyoga
           bondage
@@ -2392,13 +2362,13 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           *also* holding together: :ref:`XI.93 <XI.93>`
 
    \*saṅgahīta
-          *also* heldtogether::ref:`XI.90 <XI.90>`
+          *also* held together::ref:`XI.90 <XI.90>`
 
    saṅgha
-          theOrder,theCommunity
+          the Order,the Community
 
    saṅghaṭṭana
-          knockingtogether, impingement 
+          knocking together, impingement 
 
    sacca
           truth
@@ -2419,10 +2389,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           (1) perception, (2) sign, signal, label 
 
    saññāvedayitanirodha
-          cessation of per
-
-   [???]
-          ception and feeling
+          cessation of perception and feeling
 
    saṇṭhāna
           (1) shape
@@ -2644,10 +2611,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           prompted
 
    sa-sambhāra-kathā
-          “accessory locu
-
-   [???]
-          tion” (log.)
+          “accessory locution” (log.)
 
    sassata
           eternal
@@ -2722,10 +2686,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           bare(or dry-) insight worker (one who attains the path without previously having attained jhāna) 
 
    sukha
-          pleasure, pleasant, bliss, blissful, 
-
-   [???]
-          bodily pleasure
+          pleasure, pleasant, bliss, blissful, bodily pleasure
 
    \*sukha
           tepid: :ref:`X.52 <X.52>`
@@ -2734,7 +2695,10 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           act of pleasing: :ref:`IV.100 <IV.100>`
 
    sugata
-          Sublime One (the Buddha) suñña, suññata—void 
+          Sublime One (the Buddha)
+
+   suñña, suññata
+          void 
 
    suññatā
           voidness 
@@ -2767,4 +2731,22 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           stream enterer (1st stage of realization) 
 
    somanassa
-          joy, mental pleasure hadaya—heart hadaya-vatthu—heart-basis (physical 
+          joy, mental pleasure
+
+   hadaya
+          heart
+
+   hadaya-vatthu
+          heart-basis (physical basis of mind)
+
+   hiri
+          conscience
+
+   hīna
+          (1) abandoned, (2) inferior
+
+   hetu
+          root-cause, cause
+
+   \*hetu
+          *also* middle  term  (in  syllogism; log.): :ref:`XVII.67 <XVII.67>`

@@ -58,7 +58,7 @@ All references are to chapter and paragraph numbers.
           (*upacāra*\ ) :ref:`III.5 <III.5>`, :ref:`6 <III.6>`, :ref:`8f. <III.8>`, :ref:`15 <III.15>`, :ref:`106 <III.106>`; :ref:`IV.32f. <IV.32>`, :ref:`74 <IV.74>`, :ref:`185f. <IV.185>`; :ref:`X.9 <X.9>`; :ref:`XVIII.1 <XVIII.1>`; :ref:`XXI.129 <XXI.129>` 
 
    accumulation
-          (*āyūhana*\ ) :ref:`I.140 <I.140>`; XIV. 132, 135; :ref:`XVII.61 <XVII.61>`, :ref:`292f. <XVII.292>`; :ref:`XIX.13 <XIX.13>`; :ref:`XX.90 <XX.90>`; :ref:`XXI.37 <XXI.37>`, :ref:`38 <XXI.38>`, :ref:`80 <XXI.80>`; :ref:`XXII.5 <XXII.5>`, :ref:`79 <XXII.79>`, :ref:`97 <XXII.97>`, :ref:`113 <XXII.113>`, :ref:`115 <XXII.115>` 
+          (*āyūhana*\ ) :ref:`I.140 <I.140>`; XIV.132, 135; :ref:`XVII.61 <XVII.61>`, :ref:`292f. <XVII.292>`; :ref:`XIX.13 <XIX.13>`; :ref:`XX.90 <XX.90>`; :ref:`XXI.37 <XXI.37>`, :ref:`38 <XXI.38>`, :ref:`80 <XXI.80>`; :ref:`XXII.5 <XXII.5>`, :ref:`79 <XXII.79>`, :ref:`97 <XXII.97>`, :ref:`113 <XXII.113>`, :ref:`115 <XXII.115>` 
 
    action
           (*kammanta*\ ) :ref:`XXII.42 <XXII.42>`, :ref:`45 <XXII.45>`, :ref:`66 <XXII.66>`
@@ -133,13 +133,34 @@ All references are to chapter and paragraph numbers.
           (*uccheda-diṭṭhi*\ ) :ref:`XIII.74 <XIII.74>`; :ref:`XVI.85 <XVI.85>`; :ref:`XVII.10 <XVII.10>`, :ref:`23 <XVII.23>`, :ref:`235f. <XVII.235>`, :ref:`286 <XVII.286>`, :ref:`310f. <XVII.310>`; :ref:`XX.102 <XX.102>`; :ref:`XXII.112 <XXII.112>` 
 
    annoyance
-          (*āghāta*\ ) 
+          (*āghāta*\ ) :ref:`IV.87 <IV.87>`; :ref:`IX.21 <IX.21>`, :ref:`93 <IX.93>`; :ref:`XIV.143 <XIV.143>`, :ref:`171 <XIV.171>`
 
-   [???]
-          :ref:`IV.87 <IV.87>`; :ref:`IX.21 <IX.21>`, :ref:`93 <IX.93>`; 
+   Anojā-devī
+          :ref:`XII.82 <XII.82>`
 
-   [???]
-          :ref:`XIV.143 <XIV.143>`, :ref:`171 <XIV.171>` Anojā-devī :ref:`XII.82 <XII.82>` Anotatta, Lake :ref:`XII.73 <XII.73>`; :ref:`XIII.38 <XIII.38>` antarāparinibbāyin :ref:`XXIII.56 <XXIII.56>` Anula Thera, Mahā :ref:`XII.128 <XII.128>` Anurādhapura :ref:`I.55 <I.55>`; :ref:`II.48 <II.48>`; :ref:`III.31 <III.31>` Anuruddha Thera :ref:`II.18 <II.18>`; :ref:`XII.74 <XII.74>` any-bed-user (*yathāsanthatika*\ ) :ref:`II.2f. <II.2>`, :ref:`69 <II.69>` Aparagoyāna :ref:`VII.436 <VII.436>` aperture (*vivara*\ ) :ref:`XIV.42 <XIV.42>`, :ref:`63 <XIV.63>`; :ref:`XV.39 <XV.39>` apparitionally-born (*opapātika*\ ) :ref:`XVII.154 <XVII.154>`, :ref:`191 <XVII.191>`, :ref:`286 <XVII.286>`; :ref:`XX.26 <XX.26>`; :ref:`XXII.27 <XXII.27>` 
+   Anotatta, Lake
+          :ref:`XII.73 <XII.73>`; :ref:`XIII.38 <XIII.38>`
+
+   antarāparinibbāyin
+          :ref:`XXIII.56 <XXIII.56>`
+
+   Anula Thera, Mahā
+          :ref:`XII.128 <XII.128>`
+
+   Anurādhapura
+          :ref:`I.55 <I.55>`; :ref:`II.48 <II.48>`; :ref:`III.31 <III.31>` Anuruddha Thera :ref:`II.18 <II.18>`; :ref:`XII.74 <XII.74>`
+
+   any-bed-user
+          (*yathāsanthatika*\ ) :ref:`II.2f. <II.2>`, :ref:`69 <II.69>`
+
+   Aparagoyāna
+          :ref:`VII.436 <VII.436>`
+
+   aperture
+          (*vivara*\ ) :ref:`XIV.42 <XIV.42>`, :ref:`63 <XIV.63>`; :ref:`XV.39 <XV.39>`
+
+   apparitionally-born
+          (*opapātika*\ ) :ref:`XVII.154 <XVII.154>`, :ref:`191 <XVII.191>`, :ref:`286 <XVII.286>`; :ref:`XX.26 <XX.26>`; :ref:`XXII.27 <XXII.27>` 
 
    appearance as terror
           (*bhayatupaṭṭhāna*\ ) :ref:`XXI.29f. <XXI.29>`, :ref:`99 <XXI.99>`, :ref:`131 <XXI.131>`; :ref:`XXII.120 <XXII.120>` 
@@ -157,25 +178,25 @@ All references are to chapter and paragraph numbers.
           (*arahant*\ ) :ref:`I.139 <I.139>`; :ref:`VII.4f. <VII.4>`; :ref:`XIII.110 <XIII.110>`; :ref:`XIV.108f. <XIV.108>`, :ref:`206 <XIV.206>`; :ref:`XXII.45 <XXII.45>`; :ref:`XXIII.7 <XXIII.7>`, :ref:`11 <XXIII.11>`, :ref:`14 <XXIII.14>`, :ref:`18 <XXIII.18>`, :ref:`58 <XXIII.58>` 
 
    arahantship
-          (
+          (*arahatta*\ ) I.14, 37, 140; :ref:`VIII.224 <VIII.224>`, :ref:`243 <VIII.243>`; :ref:`IX.118 <IX.118>`; :ref:`XIV.124 <XIV.124>`; :ref:`XVI.69 <XVI.69>`; :ref:`XVII.245 <XVII.245>`; :ref:`XXII.1f. <XXII.1>`; :ref:`XXIII.25 <XXIII.25>`, :ref:`n.1 <XXIII.n1>`
 
-   arahatta
-          ) 
+   arisen
+          (*uppanna*\ ) :ref:`XX.47 <XX.47>`; :ref:`XXII.81f. <XXII.81>`
 
-   I
-          .14, 37, 140;
+   arising
+          (*uppāda*\ ) :ref:`I.140 <I.140>`; :ref:`IV.n.33 <IV.n33>`; :ref:`VIII.242 <VIII.242>`, :ref:`n.54 <VIII.n54>`; :ref:`XIII.111 <XIII.111>`; :ref:`XIV.80 <XIV.80>`, :ref:`190 <XIV.190>`; :ref:`XX.22 <XX.22>`, :ref:`26 <XX.26>`; :ref:`XXI.10 <XXI.10>`, :ref:`27 <XXI.27>`, :ref:`37 <XXI.37>`, :ref:`n.6 <XXI.n6>`; :ref:`XXII.5 <XXII.5>`, :ref:`44 <XXII.44>`, :ref:`79 <XXII.79>`; XXI-:ref:`II.7 <II.7>`
 
-   [???]
-          :ref:`VIII.224 <VIII.224>`, :ref:`243 <VIII.243>`; :ref:`IX.118 <IX.118>`; :ref:`XIV.124 <XIV.124>`; :ref:`XVI.69 <XVI.69>`;
+   ascetic practice
+          (*dhutaṅga*\ ) :ref:`I.112 <I.112>`; :ref:`II passim <II>`
 
-   [???]
-          :ref:`XVII.245 <XVII.245>`; :ref:`XXII.1f. <XXII.1>`; :ref:`XXIII.25 <XXIII.25>`, :ref:`n.1 <XXIII.n1>` arisen (*uppanna*\ ) 
+   Asoka
+          :ref:`III.111 <III.111>`; :ref:`VII.23 <VII.23>`; :ref:`VIII.14 <VIII.14>`
 
-   [???]
-          :ref:`XX.47 <XX.47>`; :ref:`XXII.81f. <XXII.81>` arising (*uppāda*\ ) :ref:`I.140 <I.140>`; :ref:`IV.n.33 <IV.n33>`; :ref:`VIII.242 <VIII.242>`, :ref:`n.54 <VIII.n54>`; :ref:`XIII.111 <XIII.111>`; :ref:`XIV.80 <XIV.80>`, :ref:`190 <XIV.190>`; :ref:`XX.22 <XX.22>`, :ref:`26 <XX.26>`; 
+   Assagutta Thera
+          :ref:`III.63 <III.63>`; :ref:`XIII.107 <XIII.107>` Assakaṇṇapabbata :ref:`VII.42 <VII.42>` assembly (*parisā*\ ) :ref:`IV.n.28 <IV.n28>`
 
-   [???]
-          :ref:`XXI.10 <XXI.10>`, :ref:`27 <XXI.27>`, :ref:`37 <XXI.37>`, :ref:`n.6 <XXI.n6>`; :ref:`XXII.5 <XXII.5>`, :ref:`44 <XXII.44>`, :ref:`79 <XXII.79>`; XXI-:ref:`II.7 <II.7>` ascetic practice (*dhutaṅga*\ ) :ref:`I.112 <I.112>`; :ref:`II passim <II>` Asoka :ref:`III.111 <III.111>`; :ref:`VII.23 <VII.23>`; :ref:`VIII.14 <VIII.14>` Assagutta Thera :ref:`III.63 <III.63>`; :ref:`XIII.107 <XIII.107>` Assakaṇṇapabbata :ref:`VII.42 <VII.42>` assembly (*parisā*\ ) :ref:`IV.n.28 <IV.n28>` asura (demon) :ref:`VII.43f. <VII.43>`, :ref:`n.15 <VII.n15>`; :ref:`XII.137 <XII.137>`; :ref:`XIII.93 <XIII.93>` 
+   asura (demon)
+          :ref:`VII.43f. <VII.43>`, :ref:`n.15 <VII.n15>`; :ref:`XII.137 <XII.137>`; :ref:`XIII.93 <XIII.93>` 
 
    atom
           (*aṇu*\ ) :ref:`XI.n.31 <XI.n31>`; :ref:`XVI.72 <XVI.72>`, :ref:`91 <XVI.91>`; :ref:`XVII.117 <XVII.117>`
@@ -190,10 +211,7 @@ All references are to chapter and paragraph numbers.
           (*samāpatti*\ ) :ref:`XII.2 <XII.2>`; :ref:`XIV.188 <XIV.188>`, :ref:`197 <XIV.197>`, :ref:`201 <XIV.201>`; :ref:`XVII.264 <XVII.264>`; :ref:`XVIII.1 <XVIII.1>`; :ref:`XX.9 <XX.9>`; :ref:`XXII.46 <XXII.46>`; :ref:`XXIII.18 <XXIII.18>`, :ref:`20 <XXIII.20>` 
 
    attention
-          (*manasikāra*\ ) :ref:`III.22 <III.22>`, :ref:`26 <III.26>`; :ref:`IV.52 <IV.52>`, :ref:`59 <IV.59>`; :ref:`VII.59 <VII.59>`; :ref:`VIII.4f. <VIII.4>`, :ref:`48 <VIII.48>`, :ref:`61f. <VIII.61>`; :ref:`XIV.133 <XIV.133>`, :ref:`152 <XIV.152>`, :ref:`159 <XIV.159>`, :ref:`163 <XIV.163>`, :ref:`170 <XIV.170>`, :ref:`176 <XIV.176>`, :ref:`178f. <XIV.178>`; :ref:`XV.39 <XV.39>`; :ref:`XVIII.8 <XVIII.8>`; :ref:`XIX.8 <XIX.8>`; :ref:`XX.44 <XX.44>`; :ref:`XXIII.12 <XXIII.12>`. See also bringing-to-mind; a. directed to elements (*dhātu-manasikāra*\ ) :ref:`VIII.43 <VIII.43>`; :ref:`XI.27 <XI.27>`; a. (
-
-   avadhāna
-          ) :ref:`I.32 <I.32>` 
+          (*manasikāra*\ ) :ref:`III.22 <III.22>`, :ref:`26 <III.26>`; :ref:`IV.52 <IV.52>`, :ref:`59 <IV.59>`; :ref:`VII.59 <VII.59>`; :ref:`VIII.4f. <VIII.4>`, :ref:`48 <VIII.48>`, :ref:`61f. <VIII.61>`; :ref:`XIV.133 <XIV.133>`, :ref:`152 <XIV.152>`, :ref:`159 <XIV.159>`, :ref:`163 <XIV.163>`, :ref:`170 <XIV.170>`, :ref:`176 <XIV.176>`, :ref:`178f. <XIV.178>`; :ref:`XV.39 <XV.39>`; :ref:`XVIII.8 <XVIII.8>`; :ref:`XIX.8 <XIX.8>`; :ref:`XX.44 <XX.44>`; :ref:`XXIII.12 <XXIII.12>`. See also bringing-to-mind; a. directed to elements (*dhātu-manasikāra*\ ) :ref:`VIII.43 <VIII.43>`; :ref:`XI.27 <XI.27>`; a. (*avadhāna*\ ) :ref:`I.32 <I.32>`
 
    avarice
           (*macchariya, macchera*\ ) :ref:`I.151 <I.151>`; :ref:`III.95 <III.95>`; :ref:`VII.59 <VII.59>`, :ref:`107f. <VII.107>`; :ref:`XIV.170 <XIV.170>`, :ref:`173 <XIV.173>`; :ref:`XXII.52 <XXII.52>`, :ref:`67 <XXII.67>`
@@ -235,7 +253,13 @@ All references are to chapter and paragraph numbers.
           (*abhibhāyatana*\ ) :ref:`V.28 <V.28>`, :ref:`32 <V.32>`; :ref:`VIII.n.37 <VIII.n37>`; :ref:`X.n.3 <X.n3>` 
 
    basic
-          (*padhāna*\ ) :ref:`XVII.107 <XVII.107>`, :ref:`281 <XVII.281>` Basic principle (*padhāna*\ ) :ref:`XVI.85 <XVI.85>`, :ref:`n.23 <XVI.n23>` basis, physical (*vatthu*\ ) :ref:`I.53 <I.53>`; :ref:`X.16 <X.16>`; :ref:`XI.107 <XI.107>`; :ref:`XIV.47 <XIV.47>`, :ref:`52 <XIV.52>`, :ref:`78 <XIV.78>`; :ref:`XVII.51 <XVII.51>`, :ref:`127f. <XVII.127>`, :ref:`151 <XVII.151>`, :ref:`189 <XVII.189>`, :ref:`193 <XVII.193>`, :ref:`204 <XVII.204>`; :ref:`XVIII.7 <XVIII.7>`; :ref:`XX.25 <XX.25>`, :ref:`31 <XX.31>`; :ref:`XXI.83 <XXI.83>`; :ref:`XXII.29 <XXII.29>`. See also heart-b. 
+          (*padhāna*\ ) :ref:`XVII.107 <XVII.107>`, :ref:`281 <XVII.281>`
+
+   Basic principle
+          (*padhāna*\ ) :ref:`XVI.85 <XVI.85>`, :ref:`n.23 <XVI.n23>`
+
+   basis, physical
+          (*vatthu*\ ) :ref:`I.53 <I.53>`; :ref:`X.16 <X.16>`; :ref:`XI.107 <XI.107>`; :ref:`XIV.47 <XIV.47>`, :ref:`52 <XIV.52>`, :ref:`78 <XIV.78>`; :ref:`XVII.51 <XVII.51>`, :ref:`127f. <XVII.127>`, :ref:`151 <XVII.151>`, :ref:`189 <XVII.189>`, :ref:`193 <XVII.193>`, :ref:`204 <XVII.204>`; :ref:`XVIII.7 <XVIII.7>`; :ref:`XX.25 <XX.25>`, :ref:`31 <XX.31>`; :ref:`XXI.83 <XXI.83>`; :ref:`XXII.29 <XXII.29>`. See also heart-b. 
 
    basis for success
           , see road to power
@@ -970,10 +994,16 @@ All references are to chapter and paragraph numbers.
           (
 
    visamahetu-diṭṭhi
-          ) 
+          ) :ref:`XVII.22 <XVII.22>`; :ref:`XXII.112 <XXII.112>`
 
-   [???]
-          :ref:`XVII.22 <XVII.22>`; :ref:`XXII.112 <XXII.112>` field (*khetta*\ ) :ref:`XIII.31 <XIII.31>` final knowledge (*aññā*\ ) :ref:`XVI.3 <XVI.3>`; :ref:`XXIII.n.17 <XXIII.n17>` fine-material becoming (*rūpa-bhava*\ ) :ref:`IV.78 <IV.78>`; :ref:`VII.9f. <VII.9>`; :ref:`VIII.241 <VIII.241>`; f.-m. sphere (*rūpāvacara*\ ) :ref:`III.13 <III.13>`, :ref:`23 <III.23>`; :ref:`IV.74 <IV.74>`, :ref:`138 <IV.138>`; :ref:`X.2f. <X.2>`, :ref:`18 <X.18>`; :ref:`XIII.5 <XIII.5>`; :ref:`XIV.15 <XIV.15>`, :ref:`86 <XIV.86>`, :ref:`104 <XIV.104>`, :ref:`112 <XIV.112>`, :ref:`127 <XIV.127>`, :ref:`157 <XIV.157>`, :ref:`182 <XIV.182>`, :ref:`n.36 <XIV.n36>`; :ref:`XVI.92 <XVI.92>`; :ref:`XX.31 <XX.31>` 
+   field
+          (*khetta*\ ) :ref:`XIII.31 <XIII.31>`
+
+   final knowledge
+          (*aññā*\ ) :ref:`XVI.3 <XVI.3>`; :ref:`XXIII.n.17 <XXIII.n17>`
+
+   fine-material becoming
+          (*rūpa-bhava*\ ) :ref:`IV.78 <IV.78>`; :ref:`VII.9f. <VII.9>`; :ref:`VIII.241 <VIII.241>`; f.-m. sphere (*rūpāvacara*\ ) :ref:`III.13 <III.13>`, :ref:`23 <III.23>`; :ref:`IV.74 <IV.74>`, :ref:`138 <IV.138>`; :ref:`X.2f. <X.2>`, :ref:`18 <X.18>`; :ref:`XIII.5 <XIII.5>`; :ref:`XIV.15 <XIV.15>`, :ref:`86 <XIV.86>`, :ref:`104 <XIV.104>`, :ref:`112 <XIV.112>`, :ref:`127 <XIV.127>`, :ref:`157 <XIV.157>`, :ref:`182 <XIV.182>`, :ref:`n.36 <XIV.n36>`; :ref:`XVI.92 <XVI.92>`; :ref:`XX.31 <XX.31>` 
 
    fire
           (*tejo*\ ) :ref:`XIII.32f. <XIII.32>`; :ref:`XIV.35 <XIV.35>`; :ref:`XV.34 <XV.34>`; :ref:`XVIII.6 <XVIII.6>`; f. element (*tejo-dhātu*\ ) :ref:`V.30 <V.30>`; :ref:`XI.28f. <XI.28>`, :ref:`36 <XI.36>`, :ref:`41 <XI.41>`, :ref:`87 <XI.87>`; :ref:`XIV.35 <XIV.35>`; :ref:`XV.30 <XV.30>`; :ref:`XX.40 <XX.40>`; f. *kasiṇa* (*tejo-kasiṇa*\ ) :ref:`III.105f. <III.105>`; :ref:`V.5 <V.5>`; :ref:`XIII.95 <XIII.95>` 
@@ -1405,7 +1435,7 @@ All references are to chapter and paragraph numbers.
           (*pāṇātipāta*\ ) :ref:`I.17 <I.17>`, :ref:`140 <I.140>`; :ref:`XVII.39 <XVII.39>`, :ref:`60 <XVII.60>`; :ref:`XXII.62 <XXII.62>` 
 
    knowledge
-          (*ñāṇa*\ ) :ref:`I.18 <I.18>`, :ref:`140 <I.140>`; :ref:`II.84 <II.84>`; :ref:`IV.118 <IV.118>`; :ref:`VII.7 <VII.7>`, :ref:`n.7 <VII.n7>`; :ref:`VIII.174 <VIII.174>`; :ref:`IX.124 <IX.124>`; :ref:`XII.26 <XII.26>`; :ref:`XIII passim <XIII>`, :ref:`n.6 <XIII.n6>`; :ref:`XIV.2 <XIV.2>`, :ref:`20f. <XIV.20>`, :ref:`83 <XIV.83>`, :ref:`126 <XIV.126>`; :ref:`XV.21 <XV.21>`; :ref:`XX.94 <XX.94>`, :ref:`114 <XX.114>`, :ref:`129f. <XX.129>`; :ref:`XXI.12 <XXI.12>`, :ref:`52 <XXI.52>`; :ref:`XXII.25 <XXII.25>`, :ref:`46 <XXII.46>`, :ref:`66 <XXII.66>`; :ref:`XXIII.20 <XXIII.20>`; in conformity with truth (*saccānulomika-ñāṇa*\ ) :ref:`XXI.1 <XXI.1>`; k. of dispassion (*nibbidā-ñāṇa*\ ) :ref:`XXI.81 <XXI.81>`, :ref:`131 <XXI.131>`; k. of faring according to deeds (*yathā-kammūpagañāṇa*\ ) :ref:`XIII.78f. <XIII.78>`, :ref:`103 <XIII.103>`, :ref:`122 <XIII.122>`, :ref:`128 <XIII.128>`; k. of the future (*anāgataṃsa-ñāṇa*\ ) :ref:`XIII.80 <XIII.80>`, :ref:`103 <XIII.103>`, :ref:`122 <XIII.122>`, :ref:`125 <XIII.125>`; k. of passing away and re-appearance (*cutūpapāta-ñāṇa*\ ) :ref:`XII.2 <XII.2>`; :ref:`XIII.72 <XIII.72>`; k. of penetration of minds (*cetopariya-ñāṇa*\ ) :ref:`III.96 <III.96>`; :ref:`XII.2 <XII.2>`, :ref:`136 <XII.136>`; :ref:`XIII.8 <XIII.8>`, :ref:`110 <XIII.110>`, :ref:`120 <XIII.120>`; k. of relations of states (*dhammaṭṭhiti-ñāṇa*\ ) :ref:`VII.20 <VII.20>`; :ref:`XIX.25 <XIX.25>`; :ref:`XXI.135 <XXI.135>`; k. of rise and fall (*udayabbaya-ñāṇa*\ ) :ref:`XXI.131 <XXI.131>`; k. of the path (*magga-ñāṇa*\ ) :ref:`XXII.3f. <XXII.3>`, :ref:`22f. <XXII.22>`, :ref:`25 <XXII.25>`f, 28; k. of reviewing (*paccavekkhaṇa-ñāṇa*\ ) 132; k. and vision of deliverance (*vimutti-ñāṇadassana*\ ) :ref:`I.32 <I.32>` 
+          (*ñāṇa*\ ) :ref:`I.18 <I.18>`, :ref:`140 <I.140>`; :ref:`II.84 <II.84>`; :ref:`IV.118 <IV.118>`; :ref:`VII.7 <VII.7>`, :ref:`n.7 <VII.n7>`; :ref:`VIII.174 <VIII.174>`; :ref:`IX.124 <IX.124>`; :ref:`XII.26 <XII.26>`; :ref:`XIII passim <XIII>`, :ref:`n.6 <XIII.n6>`; :ref:`XIV.2 <XIV.2>`, :ref:`20f. <XIV.20>`, :ref:`83 <XIV.83>`, :ref:`126 <XIV.126>`; :ref:`XV.21 <XV.21>`; :ref:`XX.94 <XX.94>`, :ref:`114 <XX.114>`, :ref:`129f. <XX.129>`; :ref:`XXI.12 <XXI.12>`, :ref:`52 <XXI.52>`; :ref:`XXII.25 <XXII.25>`, :ref:`46 <XXII.46>`, :ref:`66 <XXII.66>`; :ref:`XXIII.20 <XXIII.20>`; in conformity with truth (*saccānulomika-ñāṇa*\ ) :ref:`XXI.1 <XXI.1>`; k. of dispassion (*nibbidā-ñāṇa*\ ) :ref:`XXI.81 <XXI.81>`, :ref:`131 <XXI.131>`; k. of faring according to deeds (*yathā-kammūpagañāṇa*\ ) :ref:`XIII.78f. <XIII.78>`, :ref:`103 <XIII.103>`, :ref:`122 <XIII.122>`, :ref:`128 <XIII.128>`; k. of the future (*anāgataṃsa-ñāṇa*\ ) :ref:`XIII.80 <XIII.80>`, :ref:`103 <XIII.103>`, :ref:`122 <XIII.122>`, :ref:`125 <XIII.125>`; k. of passing away and re-appearance (*cutūpapāta-ñāṇa*\ ) :ref:`XII.2 <XII.2>`; :ref:`XIII.72 <XIII.72>`; k. of penetration of minds (*cetopariya-ñāṇa*\ ) :ref:`III.96 <III.96>`; :ref:`XII.2 <XII.2>`, :ref:`136 <XII.136>`; :ref:`XIII.8 <XIII.8>`, :ref:`110 <XIII.110>`, :ref:`120 <XIII.120>`; k. of relations of states (*dhammaṭṭhiti-ñāṇa*\ ) :ref:`VII.20 <VII.20>`; :ref:`XIX.25 <XIX.25>`; :ref:`XXI.135 <XXI.135>`; k. of rise and fall (*udayabbaya-ñāṇa*\ ) :ref:`XXI.131 <XXI.131>`; k. of the path (*magga-ñāṇa*\ ) :ref:`XXII.3f. <XXII.3>`, :ref:`22f. <XXII.22>`, :ref:`25f <XXII.25>`, :ref:`28 <XXII.28>`; k. of reviewing (*paccavekkhaṇa-ñāṇa*\ ) 132; k. and vision of deliverance (*vimutti-ñāṇadassana*\ ) :ref:`I.32 <I.32>`
 
    kolaṅkola
           :ref:`XXIII.55 <XXIII.55>`
@@ -1474,13 +1504,13 @@ All references are to chapter and paragraph numbers.
           (*lahutā*\ ) :ref:`XIV.64 <XIV.64>`, :ref:`76 <XIV.76>`, :ref:`79 <XIV.79>`, :ref:`133 <XIV.133>`, :ref:`145 <XIV.145>`; :ref:`XVIII.13 <XVIII.13>`; :ref:`XX.23 <XX.23>`, :ref:`32 <XX.32>`, :ref:`36 <XX.36>` 
 
    limited
-          (
+          (*paritta*\ ) :ref:`III.5 <III.5>`, :ref:`13 <III.13>`, :ref:`20 <III.20>`, :ref:`112 <III.112>`; :ref:`IV.74 <IV.74>`; :ref:`XIII.105f. <XIII.105>`; :ref:`XIV.15 <XIV.15>`; :ref:`XVII.53 <XVII.53>`
 
-   paritta
-          ) :ref:`III.5 <III.5>`, :ref:`13 <III.13>`, :ref:`20 <III.20>`, :ref:`112 <III.112>`; :ref:`IV.74 <IV.74>`; 
+   lineage
+          (*gotta*\ ) :ref:`IV.74 <IV.74>`; :ref:`XIII.123 <XIII.123>`
 
-   [???]
-          :ref:`XIII.105f. <XIII.105>`; :ref:`XIV.15 <XIV.15>`; :ref:`XVII.53 <XVII.53>` lineage (*gotta*\ ) :ref:`IV.74 <IV.74>`; :ref:`XIII.123 <XIII.123>` livelihood (*ājīva*\ ) :ref:`I.18 <I.18>`, :ref:`42 <I.42>`, :ref:`44 <I.44>`, :ref:`60 <I.60>`, :ref:`84 <I.84>`, :ref:`111 <I.111>`, :ref:`123 <I.123>`; :ref:`XXII.42 <XXII.42>`, :ref:`45 <XXII.45>`, :ref:`66 <XXII.66>` 
+   livelihood
+          (*ājīva*\ ) :ref:`I.18 <I.18>`, :ref:`42 <I.42>`, :ref:`44 <I.44>`, :ref:`60 <I.60>`, :ref:`84 <I.84>`, :ref:`111 <I.111>`, :ref:`123 <I.123>`; :ref:`XXII.42 <XXII.42>`, :ref:`45 <XXII.45>`, :ref:`66 <XXII.66>` 
 
    living being
           (*satta*\ ), see being
@@ -1678,7 +1708,7 @@ All references are to chapter and paragraph numbers.
           (*gati*\ ) :ref:`VIII.n.54 <VIII.n54>`
 
    mundane
-          (*lokiya*\ ) :ref:`I.29 <I.29>`, :ref:`32 <I.32>`, :ref:`n.4 <I.n4>`; :ref:`III.5 <III.5>`, :ref:`7 <III.7>`, :ref:`n.5 <III.n5>`; :ref:`XIV.9 <XIV.9>`, :ref:`202 <XIV.202>`; :ref:`XVI.102 <XVI.102>`; :ref:`XVII.120 <XVII.120>`; :ref:`XVIII.8 <XVIII.8>`f; :ref:`XX.43 <XX.43>`, :ref:`130 <XX.130>`; :ref:`XXI.16 <XXI.16>`; :ref:`XXII.39 <XXII.39>`, :ref:`46 <XXII.46>`, :ref:`124 <XXII.124>`, :ref:`128 <XXII.128>`; :ref:`XXIII.2 <XXIII.2>`, :ref:`52 <XXIII.52>` 
+          (*lokiya*\ ) :ref:`I.29 <I.29>`, :ref:`32 <I.32>`, :ref:`n.4 <I.n4>`; :ref:`III.5 <III.5>`, :ref:`7 <III.7>`, :ref:`n.5 <III.n5>`; :ref:`XIV.9 <XIV.9>`, :ref:`202 <XIV.202>`; :ref:`XVI.102 <XVI.102>`; :ref:`XVII.120 <XVII.120>`; :ref:`XVIII.8f <XVIII.8>`; :ref:`XX.43 <XX.43>`, :ref:`130 <XX.130>`; :ref:`XXI.16 <XXI.16>`; :ref:`XXII.39 <XXII.39>`, :ref:`46 <XXII.46>`, :ref:`124 <XXII.124>`, :ref:`128 <XXII.128>`; :ref:`XXIII.2 <XXIII.2>`, :ref:`52 <XXIII.52>` 
 
    Nāga
           :ref:`XII.100 <XII.100>`, :ref:`106f. <XII.106>`, :ref:`137 <XII.137>`, :ref:`n.19 <XII.n19>`; :ref:`XIII.93 <XIII.93>`; :ref:`XXI.43 <XXI.43>`, :ref:`46 <XXI.46>` 
@@ -1690,10 +1720,16 @@ All references are to chapter and paragraph numbers.
           , Tipiṭaka Cūḷa :ref:`XII.105 <XII.105>`; :ref:`XXI.n.38 <XXI.n38>` 
 
    name
-          (*nāma*\ ) :ref:`II.n.18 <II.n18>`; :ref:`VII.54 <VII.54>`; :ref:`VIII.n.11 <VIII.n11>`; 
+          (*nāma*\ ) :ref:`II.n.18 <II.n18>`; :ref:`VII.54 <VII.54>`; :ref:`VIII.n.11 <VIII.n11>`; :ref:`XIII.123 <XIII.123>`; :ref:`XVIII.n.4 <XVIII.n4>`; :ref:`XXIII.n.18 <XXIII.n18>`
 
-   [???]
-          :ref:`XIII.123 <XIII.123>`; :ref:`XVIII.n.4 <XVIII.n4>`; :ref:`XXIII.n.18 <XXIII.n18>` naming (*abhidhāna*\ ) :ref:`IV.n.18 <IV.n18>`; :ref:`IX.n.6 <IX.n6>` Nanda, see Nandopananda Nanda the brahman student (*Nandamāṇava*\ ) :ref:`XXII.83 <XXII.83>` 
+   naming
+          (*abhidhāna*\ ) :ref:`IV.n.18 <IV.n18>`; :ref:`IX.n.6 <IX.n6>`
+
+   Nanda
+          , see Nandopananda
+
+   Nanda the brahman student
+          (*Nandamāṇava*\ ) :ref:`XXII.83 <XXII.83>` 
 
    Nanda Thera
           :ref:`XXII.99 <XXII.99>`
@@ -2215,13 +2251,16 @@ All references are to chapter and paragraph numbers.
           (*sīlabbata*\ ) :ref:`XIV.229 <XIV.229>`; :ref:`XVII.240f. <XVII.240>`; :ref:`XXII.48 <XXII.48>`, :ref:`54 <XXII.54>` 
 
    rivers
-          , five great (*mahā-nadī*\ ) 
+          , five great (*mahā-nadī*\ ) :ref:`XIII.36f. <XIII.36>`
 
-   [???]
-          :ref:`XIII.36f. <XIII.36>` road to power (*iddhi-pāda*\ ) :ref:`XII.50 <XII.50>`; :ref:`XVI.86 <XVI.86>`; 
+   road to power
+          (*iddhi-pāda*\ ) :ref:`XII.50 <XII.50>`; :ref:`XVI.86 <XVI.86>`; :ref:`XXII.33 <XXII.33>`, :ref:`36 <XXII.36>`, :ref:`39 <XXII.39>`, :ref:`42 <XXII.42>`
 
-   [???]
-          :ref:`XXII.33 <XXII.33>`, :ref:`36 <XXII.36>`, :ref:`39 <XXII.39>`, :ref:`42 <XXII.42>` robe (*cīvara*\ ) :ref:`I.68 <I.68>`, :ref:`86 <I.86>` Rohaṇa :ref:`III.36 <III.36>`, :ref:`53 <III.53>` 
+   robe
+          (*cīvara*\ ) :ref:`I.68 <I.68>`, :ref:`86 <I.86>`
+
+   Rohaṇa
+          :ref:`III.36 <III.36>`, :ref:`53 <III.53>` 
 
    Rohaṇa-Gutta Thera
           , Mahā :ref:`IV.135 <IV.135>`; :ref:`XII.9 <XII.9>`
@@ -2302,13 +2341,16 @@ All references are to chapter and paragraph numbers.
           (*viveka, paviveka*\ ) :ref:`II.83 <II.83>`; :ref:`III.128 <III.128>`; :ref:`IV.82 <IV.82>`, :ref:`n.23 <IV.n23>`; :ref:`VII.63 <VII.63>`; :ref:`XXIII.50 <XXIII.50>` 
 
    sectarian
-          (
+          (*titthiya*\ ) :ref:`I.45 <I.45>`; :ref:`XV.21 <XV.21>`; :ref:`XVI.63 <XVI.63>`
 
-   titthiya
-          ) :ref:`I.45 <I.45>`; :ref:`XV.21 <XV.21>`; :ref:`XVI.63 <XVI.63>` seeing (*dassana*\ ) :ref:`I.5 <I.5>`; :ref:`IV.45 <IV.45>`; :ref:`XIV.13 <XIV.13>`, :ref:`117 <XIV.117>`, :ref:`123 <XIV.123>`; 
+   seeing
+          (*dassana*\ ) :ref:`I.5 <I.5>`; :ref:`IV.45 <IV.45>`; :ref:`XIV.13 <XIV.13>`, :ref:`117 <XIV.117>`, :ref:`123 <XIV.123>`; :ref:`XVI.95 <XVI.95>`; :ref:`XVII.127 <XVII.127>`; :ref:`XXII.45 <XXII.45>`, :ref:`127 <XXII.127>`
 
-   [???]
-          :ref:`XVI.95 <XVI.95>`; :ref:`XVII.127 <XVII.127>`; :ref:`XXII.45 <XXII.45>`, :ref:`127 <XXII.127>` seen (*diṭṭha*\ ) :ref:`XVII.202 <XVII.202>`; :ref:`XXI.17 <XXI.17>`, :ref:`21 <XXI.21>` seen, heard, sensed, cognized (*diṭṭha-sutamuta viññāta*\ ) :ref:`XIV.76 <XIV.76>` 
+   seen
+          (*diṭṭha*\ ) :ref:`XVII.202 <XVII.202>`; :ref:`XXI.17 <XXI.17>`, :ref:`21 <XXI.21>`
+
+   seen, heard, sensed, cognized
+          (*diṭṭha-sutamuta viññāta*\ ) :ref:`XIV.76 <XIV.76>` 
 
    self
           (*attā*\ ) :ref:`I.34 <I.34>`, :ref:`93 <I.93>`, :ref:`140 <I.140>`; :ref:`VIII.233 <VIII.233>`, :ref:`n.65 <VIII.n65>`; :ref:`IX.10 <IX.10>`, :ref:`47 <IX.47>`, :ref:`54 <IX.54>`, :ref:`n.6 <IX.n6>`; :ref:`XI.32 <XI.32>`, :ref:`n.21 <XI.n21>`, :ref:`n.29 <XI.n29>`; :ref:`XIV.213 <XIV.213>`, :ref:`216 <XIV.216>`, :ref:`228 <XIV.228>`; :ref:`XV.21 <XV.21>`, :ref:`40 <XV.40>`; :ref:`XVI.16 <XVI.16>`, :ref:`24 <XVI.24>`, :ref:`85 <XVI.85>`, :ref:`90 <XVI.90>`, :ref:`n.25 <XVI.n25>`; :ref:`XVII.116 <XVII.116>`, :ref:`282 <XVII.282>`, :ref:`303 <XVII.303>`, :ref:`312 <XVII.312>`; :ref:`XVIII.n.9 <XVIII.n9>`; :ref:`XX.16 <XX.16>`, :ref:`84 <XX.84>`, :ref:`90 <XX.90>`, :ref:`126 <XX.126>`; :ref:`XXI.53 <XXI.53>`, :ref:`56 <XXI.56>`, :ref:`n.10 <XXI.n10>`; :ref:`XXII.117f. <XXII.117>` 
@@ -2614,13 +2656,16 @@ All references are to chapter and paragraph numbers.
           (*gantha*\ ) :ref:`IV.87 <IV.87>`; :ref:`VII.59 <VII.59>`; :ref:`XIV.202 <XIV.202>`, :ref:`226 <XIV.226>`; :ref:`XXII.54 <XXII.54>`, :ref:`69 <XXII.69>` 
 
    time
-          (*kā1a*\ ) 
+          (*kā1a*\ ) :ref:`VII.n.7 <VII.n7>`; :ref:`VIII.32 <VIII.32>`; :ref:`XIV.n.71 <XIV.n71>`; :ref:`XVI.85 <XVI.85>`; :ref:`XVII.75 <XVII.75>`, :ref:`n.3 <XVII.n3>`
 
-   [???]
-          :ref:`VII.n.7 <VII.n7>`; :ref:`VIII.32 <VIII.32>`; :ref:`XIV.n.71 <XIV.n71>`; 
+   Tissa-macca-mātar
+          :ref:`II.16 <II.16>`
 
-   [???]
-          :ref:`XVI.85 <XVI.85>`; :ref:`XVII.75 <XVII.75>`, :ref:`n.3 <XVII.n3>` Tissa-macca-mātar :ref:`II.16 <II.16>` Tissamahāvihāra :ref:`XII.80 <XII.80>` Tissa Thera, Ciragumbavasik-ambakhādakamahā :ref:`I.122 <I.122>`, :ref:`133 <I.133>` 
+   Tissamahāvihāra
+          :ref:`XII.80 <XII.80>`
+
+   Tissa Thera, Ciragumbavasik-ambakhādakamahā
+          :ref:`I.122 <I.122>`, :ref:`133 <I.133>` 
 
    Tissa Thera
           , Cūḷa-piṇḍapātika :ref:`III.127 <III.127>`; :ref:`VI.77 <VI.77>` 
@@ -2689,10 +2734,22 @@ All references are to chapter and paragraph numbers.
           (*vivaṭṭa*\ ) :ref:`I.140 <I.140>`; :ref:`VI.43 <VI.43>`. See also contemplation of t. a. 
 
    twin marvel
-          (*yamaka-pāṭihāriya*\ ) :ref:`IV.132 <IV.132>`; 
+          (*yamaka-pāṭihāriya*\ ) :ref:`IV.132 <IV.132>`; :ref:`VII.n.7 <VII.n7>`; :ref:`XII.72 <XII.72>`, :ref:`84 <XII.84>`
 
-   [???]
-          :ref:`VII.n.7 <VII.n7>`; :ref:`XII.72 <XII.72>`, :ref:`84 <XII.84>` Uccāvālika :ref:`XX.110f. <XX.110>` Uddhaṃsota :ref:`XXIII.56 <XXIII.56>` Udena-rājā :ref:`XII.35 <XII.35>` Ugga :ref:`VIII.18 <VIII.18>` ultimate sense (*paramattha*\ ) :ref:`I.n.14 <I.n14>`; :ref:`II.n.18 <II.n18>`; :ref:`VIII.39 <VIII.39>`; :ref:`XVI.n.18 <XVI.n18>`; :ref:`XX.72 <XX.72>`, :ref:`n.20 <XX.n20>` 
+   Uccāvālika
+          :ref:`XX.110f. <XX.110>`
+
+   Uddhaṃsota
+          :ref:`XXIII.56 <XXIII.56>`
+
+   Udena-rājā
+          :ref:`XII.35 <XII.35>`
+
+   Ugga
+          :ref:`VIII.18 <VIII.18>`
+
+   ultimate sense
+          (*paramattha*\ ) :ref:`I.n.14 <I.n14>`; :ref:`II.n.18 <II.n18>`; :ref:`VIII.39 <VIII.39>`; :ref:`XVI.n.18 <XVI.n18>`; :ref:`XX.72 <XX.72>`, :ref:`n.20 <XX.n20>` 
 
    uncertainty
           (*vicikicchā*\ ) :ref:`I.140 <I.140>`; :ref:`III.95 <III.95>`; :ref:`IV.86 <IV.86>`, :ref:`104 <IV.104>`; :ref:`XIV.93 <XIV.93>`, :ref:`176 <XIV.176>`, :ref:`177f. <XIV.177>`; :ref:`XIX.6 <XIX.6>`, :ref:`10 <XIX.10>`; :ref:`XXII.48 <XXII.48>`, :ref:`60 <XXII.60>` 
@@ -2878,28 +2935,40 @@ All references are to chapter and paragraph numbers.
           (*loka-vyūha-devā*\ ) :ref:`XIII.34 <XIII.34>`; w. inter-space (*lokantara*\ ) :ref:`VII.n.14 <VII.n14>`; :ref:`XVI.43 <XVI.43>`; w. soul, Puruṣa (*purisa*\ ) :ref:`XVII.8 <XVII.8>`, :ref:`n.3 <XVII.n3>`; :ref:`XVIII.n.9 <XVIII.n9>`; w. sphere (*cakka-vāla*\ ) :ref:`VII.40 <VII.40>`, :ref:`44 <VII.44>`, :ref:`n.14 <VII.n14>`; :ref:`IX.103 <IX.103>`; :ref:`X.6 <X.6>`; :ref:`XII.72 <XII.72>`, :ref:`78 <XII.78>`, :ref:`88 <XII.88>`; :ref:`XIII.3 <XIII.3>`, :ref:`31 <XIII.31>`, :ref:`48f. <XIII.48>` 
 
    worldliness
-          (*āmisa*\ ) :ref:`XXI.n.13 <XXI.n13>` worldly (*sāmisa*\ ) :ref:`XXI.37 <XXI.37>`, :ref:`41 <XXI.41>` worldly state (*loka-dhamma*\ ) :ref:`VII.38 <VII.38>`; :ref:`XXII.51 <XXII.51>`, :ref:`67 <XXII.67>` worm (*kimi*\ ) :ref:`VI.77 <VI.77>`; :ref:`VIII.25 <VIII.25>`, :ref:`121 <VIII.121>` worry (*kukkucca*\ ) :ref:`III.95 <III.95>`; :ref:`XIV.170 <XIV.170>`, :ref:`174 <XIV.174>`. See 
+          (*āmisa*\ ) :ref:`XXI.n.13 <XXI.n13>`
 
-   also agitation and w
-          . wrongdoing (
+   worldly
+          (*sāmisa*\ ) :ref:`XXI.37 <XXI.37>`, :ref:`41 <XXI.41>`
 
-   dukkata
-          ) 160 wrongness (
+   worldly state
+          (*loka-dhamma*\ ) :ref:`VII.38 <VII.38>`; :ref:`XXII.51 <XXII.51>`, :ref:`67 <XXII.67>`
 
-   micchatta
-          ) 
+   worm
+          (*kimi*\ ) :ref:`VI.77 <VI.77>`; :ref:`VIII.25 <VIII.25>`, :ref:`121 <VIII.121>`
 
-   [???]
-          :ref:`VII.59 <VII.59>`; :ref:`XVII.53 <XVII.53>`; :ref:`XXII.50 <XXII.50>`, :ref:`66 <XXII.66>` 
+   worry
+          (*kukkucca*\ ) :ref:`III.95 <III.95>`; :ref:`XIV.170 <XIV.170>`, :ref:`174 <XIV.174>`. See also agitation and w.
+
+   . wrongdoing
+          (*dukkata*\ ) 160
+
+   wrongness
+          (*micchatta*\ ) :ref:`VII.59 <VII.59>`; :ref:`XVII.53 <XVII.53>`; :ref:`XXII.50 <XXII.50>`, :ref:`66 <XXII.66>` 
 
    wrong path
-          (*micchā-magga*\ ) 
-
-   [???]
-          :ref:`XXII.14 <XXII.14>`; w. speech (*micchā-vācā*\ ) :ref:`XXII.50 <XXII.50>`; w. view (*micchā-diṭṭhi*\ ) :ref:`I.140 <I.140>`; :ref:`V.41 <V.41>`; :ref:`XIV.159 <XIV.159>`, :ref:`164 <XIV.164>`; :ref:`XVII.9 <XVII.9>`, :ref:`243 <XVII.243>`; :ref:`XXII.45 <XXII.45>`, :ref:`50 <XXII.50>`, :ref:`56 <XXII.56>`, :ref:`58 <XXII.58>`, :ref:`66 <XXII.66>` 
+          (*micchā-magga*\ ) :ref:`XXII.14 <XXII.14>`; w. speech (*micchā-vācā*\ ) :ref:`XXII.50 <XXII.50>`; w. view (*micchā-diṭṭhi*\ ) :ref:`I.140 <I.140>`; :ref:`V.41 <V.41>`; :ref:`XIV.159 <XIV.159>`, :ref:`164 <XIV.164>`; :ref:`XVII.9 <XVII.9>`, :ref:`243 <XVII.243>`; :ref:`XXII.45 <XXII.45>`, :ref:`50 <XXII.50>`, :ref:`56 <XXII.56>`, :ref:`58 <XXII.58>`, :ref:`66 <XXII.66>` 
 
    Yama-rājā
           (King of the Underworld) :ref:`VII.n.14 <VII.n14>` 
 
    Yasa Thera
-          :ref:`XII.82 <XII.82>` Yuddhiṭṭhila :ref:`VIII.19 <VIII.19>` Yugandharapabbata :ref:`VII.42 <VII.42>`; :ref:`XII.72 <XII.72>`, :ref:`121 <XII.121>` zeal (*chanda*\ ) :ref:`I.33 <I.33>`; :ref:`III.24 <III.24>`; :ref:`IV.85 <IV.85>`, :ref:`n.24 <IV.n24>`; :ref:`IX.102 <IX.102>`; :ref:`XII.12 <XII.12>`, :ref:`50 <XII.50>`; :ref:`XIV.133 <XIV.133>`, :ref:`150 <XIV.150>`, :ref:`159 <XIV.159>`, :ref:`170 <XIV.170>`; :ref:`XVI.86 <XVI.86>`; :ref:`XVII.72 <XVII.72>`; :ref:`XXII.36 <XXII.36>`, :ref:`39 <XXII.39>`, :ref:`42 <XXII.42>`, :ref:`55 <XXII.55>` 
+          :ref:`XII.82 <XII.82>`
+
+   Yuddhiṭṭhila
+          :ref:`VIII.19 <VIII.19>`
+
+   Yugandharapabbata
+          :ref:`VII.42 <VII.42>`; :ref:`XII.72 <XII.72>`, :ref:`121 <XII.121>`
+
+   zeal
+          (*chanda*\ ) :ref:`I.33 <I.33>`; :ref:`III.24 <III.24>`; :ref:`IV.85 <IV.85>`, :ref:`n.24 <IV.n24>`; :ref:`IX.102 <IX.102>`; :ref:`XII.12 <XII.12>`, :ref:`50 <XII.50>`; :ref:`XIV.133 <XIV.133>`, :ref:`150 <XIV.150>`, :ref:`159 <XIV.159>`, :ref:`170 <XIV.170>`; :ref:`XVI.86 <XVI.86>`; :ref:`XVII.72 <XVII.72>`; :ref:`XXII.36 <XXII.36>`, :ref:`39 <XXII.39>`, :ref:`42 <XXII.42>`, :ref:`55 <XXII.55>` 
