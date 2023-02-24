@@ -57,6 +57,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
 INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-names.luc
 INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc
+INPUT ./vism-defs.tex
+INPUT ./vism-defs.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
