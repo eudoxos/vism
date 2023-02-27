@@ -1,6 +1,6 @@
 var DOCUMENTATION_OPTIONS = {
     URL_ROOT: document.getElementById("documentation_options").getAttribute('data-url_root'),
-    VERSION: '8c5b955',
+    VERSION: '678b9cf',
     LANGUAGE: 'en',
     COLLAPSE_INDEX: false,
     BUILDER: 'epub',
