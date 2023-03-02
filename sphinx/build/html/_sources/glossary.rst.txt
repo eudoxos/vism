@@ -568,7 +568,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           rectitude
 
    utu
-          1) climate, (2) season, (3) temperature
+          (1) climate, (2) season, (3) temperature
 
    utu-samuṭṭhāna
           temperature-originated (matter)

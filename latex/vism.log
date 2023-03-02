@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.2)  2 MAR 2023 07:42
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.2)  2 MAR 2023 08:40
  restricted system commands enabled.
 **vism.tex
 (./vism.tex
@@ -14666,7 +14666,7 @@ Package rerunfilecheck Info: File `vism.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 30415 strings out of 477805
+ 30414 strings out of 477805
  305810,2848258 words of node,token memory allocated
  8874 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 1 local_par, 750 glue, 3 kern, 1 penalty, 3 glyph, 
@@ -14684,8 +14684,6 @@ warning  (pdf backend): unreferenced destination with name 'XV.68'
 warning  (pdf backend): unreferenced destination with name 'I.292'
 
 warning  (pdf backend): unreferenced destination with name 'I.251'
-
-warning  (pdf backend): unreferenced destination with name 'XXI.137'
 
 warning  (pdf backend): unreferenced destination with name 'VII.159'
 
@@ -14732,10 +14730,10 @@ warning  (pdf backend): unreferenced destination with name 'XVI.4n2'
 /usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></usr/sh
 are/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></usr/share/t
 exmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf>
-Output written on vism.pdf (614 pages, 3787997 bytes).
+Output written on vism.pdf (614 pages, 3788760 bytes).
 
 PDF statistics: 27631 PDF objects out of 31911 (max. 8388607)
  26535 compressed objects within 266 object streams
- 8370 named destinations out of 8907 (max. 131072)
+ 8369 named destinations out of 8907 (max. 131072)
  2689 words of extra memory for PDF output out of 10000 (max. 100000000)
 
