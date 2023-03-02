@@ -1516,7 +1516,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           production: :ref:`VIII.182 <VIII.182>` ( [Paṭis]_  *I 184*\  ) 
 
    \*pabhuti
-          encl.) and so on, etcetera ( = ādi in that sense): :ref:`VIII.17 <VIII.17>`, :ref:`121 <VIII.121>`; :ref:`X.51 <X.51>`, etc. 
+          **TODO: missing parenthesis in BPS2011?:**\ encl.) and so on, etcetera ( = ādi in that sense): :ref:`VIII.17 <VIII.17>`, :ref:`121 <VIII.121>`; :ref:`X.51 <X.51>`, etc. 
 
    pabheda
           class, category 

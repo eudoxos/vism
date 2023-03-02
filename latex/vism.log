@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.2.27)  27 FEB 2023 22:03
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.2)  2 MAR 2023 07:42
  restricted system commands enabled.
 **vism.tex
 (./vism.tex
@@ -14732,10 +14732,10 @@ warning  (pdf backend): unreferenced destination with name 'XVI.4n2'
 /usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></usr/sh
 are/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></usr/share/t
 exmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf>
-Output written on vism.pdf (614 pages, 3782376 bytes).
+Output written on vism.pdf (614 pages, 3787997 bytes).
 
-PDF statistics: 27461 PDF objects out of 31911 (max. 8388607)
- 26367 compressed objects within 264 object streams
+PDF statistics: 27631 PDF objects out of 31911 (max. 8388607)
+ 26535 compressed objects within 266 object streams
  8370 named destinations out of 8907 (max. 131072)
  2689 words of extra memory for PDF output out of 10000 (max. 100000000)
 
