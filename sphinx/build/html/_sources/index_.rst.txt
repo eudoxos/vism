@@ -697,7 +697,7 @@ All references are to chapter and paragraph numbers.
           (*paṇidhi*\ ) :ref:`I.140 <I.140>`; :ref:`XX.90 <XX.90>`; :ref:`XXI.73 <XXI.73>`, :ref:`122 <XXI.122>`; :ref:`XXII.113 <XXII.113>`, :ref:`117 <XXII.117>` 
 
    desire, sensual
-          see sense d.>
+          see sense d.
 
    desire for deliverance
           (*muccitukamyatā*\ ) :ref:`XXI.45 <XXI.45>`, :ref:`79 <XXI.79>`, :ref:`99 <XXI.99>`, :ref:`131f. <XXI.131>` 

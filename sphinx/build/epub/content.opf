@@ -12,8 +12,8 @@
     <dc:publisher>~~ eudoxos.github.io/vism WIP ~~</dc:publisher>
     <dc:rights>Digital</dc:rights>
     <dc:identifier id="visuddhimagga">978-955-24-0023-6</dc:identifier>
-    <dc:date>2023-03-02T09:36:43Z</dc:date>
-    <meta property="dcterms:modified">2023-03-02T09:36:43Z</meta>
+    <dc:date>2023-03-06T17:20:58Z</dc:date>
+    <meta property="dcterms:modified">2023-03-06T17:20:58Z</meta>
     <meta property="ibooks:version">0.1</meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
@@ -68,38 +68,38 @@
   <spine toc="ncx" page-progression-direction="ltr">
     <itemref idref="epub-40" />
     <itemref idref="epub-27" />
-    <itemref idref="epub-29" />
-    <itemref idref="epub-1" />
-    <itemref idref="epub-2" />
-    <itemref idref="epub-30" />
-    <itemref idref="epub-3" />
-    <itemref idref="epub-4" />
-    <itemref idref="epub-31" />
-    <itemref idref="epub-5" />
-    <itemref idref="epub-6" />
-    <itemref idref="epub-7" />
-    <itemref idref="epub-8" />
-    <itemref idref="epub-9" />
-    <itemref idref="epub-10" />
-    <itemref idref="epub-11" />
-    <itemref idref="epub-12" />
-    <itemref idref="epub-13" />
-    <itemref idref="epub-14" />
-    <itemref idref="epub-15" />
-    <itemref idref="epub-32" />
-    <itemref idref="epub-16" />
-    <itemref idref="epub-17" />
-    <itemref idref="epub-18" />
-    <itemref idref="epub-19" />
-    <itemref idref="epub-20" />
-    <itemref idref="epub-21" />
-    <itemref idref="epub-22" />
-    <itemref idref="epub-23" />
-    <itemref idref="epub-24" />
-    <itemref idref="epub-25" />
     <itemref idref="epub-0" />
     <itemref idref="epub-28" />
     <itemref idref="epub-26" />
+    <itemref idref="epub-1" linear="no" />
+    <itemref idref="epub-2" linear="no" />
+    <itemref idref="epub-3" linear="no" />
+    <itemref idref="epub-4" linear="no" />
+    <itemref idref="epub-5" linear="no" />
+    <itemref idref="epub-6" linear="no" />
+    <itemref idref="epub-7" linear="no" />
+    <itemref idref="epub-8" linear="no" />
+    <itemref idref="epub-9" linear="no" />
+    <itemref idref="epub-10" linear="no" />
+    <itemref idref="epub-11" linear="no" />
+    <itemref idref="epub-12" linear="no" />
+    <itemref idref="epub-13" linear="no" />
+    <itemref idref="epub-14" linear="no" />
+    <itemref idref="epub-15" linear="no" />
+    <itemref idref="epub-16" linear="no" />
+    <itemref idref="epub-17" linear="no" />
+    <itemref idref="epub-18" linear="no" />
+    <itemref idref="epub-19" linear="no" />
+    <itemref idref="epub-20" linear="no" />
+    <itemref idref="epub-21" linear="no" />
+    <itemref idref="epub-22" linear="no" />
+    <itemref idref="epub-23" linear="no" />
+    <itemref idref="epub-24" linear="no" />
+    <itemref idref="epub-25" linear="no" />
+    <itemref idref="epub-29" linear="no" />
+    <itemref idref="epub-30" linear="no" />
+    <itemref idref="epub-31" linear="no" />
+    <itemref idref="epub-32" linear="no" />
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="epub-cover.xhtml" />

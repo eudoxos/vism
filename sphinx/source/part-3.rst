@@ -1,15 +1,4 @@
 
-
-.. _part-II:
-
-Part II. Concentration (*Samādhi*\ )
-************************************
-
-.. toctree::
-   :numbered:
-   :maxdepth: 6
-
-
    
    ch-05.rst
    ch-06.rst

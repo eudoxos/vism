@@ -1,15 +1,4 @@
 
-
-.. _part-III:
-
-Part III. Understanding (*Paññā*\ )
-***********************************
-
-.. toctree::
-   :numbered:
-   :maxdepth: 6
-
-
    
    ch-16.rst
    ch-17.rst

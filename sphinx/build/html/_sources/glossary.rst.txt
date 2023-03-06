@@ -10,7 +10,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
 .. glossary::
 
    akiriya-diṭṭhi
-          (moral-) inefficacy-ofaction view 
+          (moral-) inefficacy-of-action view 
 
    akusala
           (1) unskilful, (2) (kammically) un-profitable 
@@ -85,7 +85,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           taking what is not given, stealing 
 
    adukkha-m-asukha
-          neither-painfulnor-pleasant (feeling) 
+          neither-painful-nor-pleasant (feeling) 
 
    adosa
           non-hate
@@ -133,7 +133,7 @@ This Glossary only includes (a) some epistemological and technical terms, and (b
           higher virtue (i.e. virtue as basis for jhāna and insight) 
 
    anaññātaññassāmī-t-indriya
-          I-shallcome-to-know-the-unknown faculty 
+          I-shall-come-to-know-the-unknown faculty 
 
    anattā
           not-self 
