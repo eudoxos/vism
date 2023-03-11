@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.9)  9 MAR 2023 09:00
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.11)  11 MAR 2023 09:28
  restricted system commands enabled.
 **vism.tex
 (./vism.tex
@@ -932,7 +932,7 @@ Package marginnote Info: Margin note 30.1 is on absolute page 30 on input line
 Package marginnote Info: xpos seems to be 225.60548pt on input line 363.
 Package marginnote Info: Margin note 30.2 is on absolute page 30 on input line 
 367.
-Package marginnote Info: xpos seems to be 174.59177pt on input line 367.
+Package marginnote Info: xpos seems to be 159.90036pt on input line 367.
  [18]
 Package marginnote Info: Margin note 31.1 is on absolute page 31 on input line 
 375.
@@ -954,7 +954,7 @@ Package marginnote Info: xpos seems to be 165.49225pt on input line 406.
  [21]
 Package marginnote Info: Margin note 34.1 is on absolute page 34 on input line 
 412.
-Package marginnote Info: xpos seems to be 124.07321pt on input line 412.
+Package marginnote Info: xpos seems to be 96.89929pt on input line 412.
  [22]
 Package marginnote Info: Margin note 35.1 is on absolute page 35 on input line 
 419.
@@ -1036,7 +1036,7 @@ Package marginnote Info: Margin note 42.4 is on absolute page 42 on input line
 Package marginnote Info: xpos seems to be 85.5319pt on input line 563.
 Package marginnote Info: Margin note 42.5 is on absolute page 42 on input line 
 563.
-Package marginnote Info: xpos seems to be 71.13188pt on input line 563.
+Package marginnote Info: xpos seems to be 486.32657pt on input line 563.
 Package marginnote Info: Margin note 42.6 is on absolute page 42 on input line 
 572.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 572.
@@ -1744,7 +1744,7 @@ Package marginnote Info: Margin note 73.1 is on absolute page 73 on input line
 Package marginnote Info: xpos seems to be 71.13188pt on input line 1608.
 Package marginnote Info: Margin note 73.2 is on absolute page 73 on input line 
 1617.
-Package marginnote Info: xpos seems to be 408.85153pt on input line 1617.
+Package marginnote Info: xpos seems to be 409.4577pt on input line 1617.
 Package marginnote Info: Margin note 73.3 is on absolute page 73 on input line 
 1621.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 1621.
@@ -1928,7 +1928,7 @@ Package marginnote Info: Margin note 83.4 is on absolute page 83 on input line
 Package marginnote Info: xpos seems to be 71.13188pt on input line 1994.
 Package marginnote Info: Margin note 83.5 is on absolute page 83 on input line 
 1995.
-Package marginnote Info: xpos seems to be 368.23212pt on input line 1995.
+Package marginnote Info: xpos seems to be 370.34221pt on input line 1995.
 Package marginnote Info: Margin note 83.6 is on absolute page 83 on input line 
 1997.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 1997.
@@ -1941,7 +1941,7 @@ Package marginnote Info: Margin note 84.2 is on absolute page 84 on input line
 Package marginnote Info: xpos seems to be 71.13188pt on input line 2028.
 Package marginnote Info: Margin note 84.3 is on absolute page 84 on input line 
 2029.
-Package marginnote Info: xpos seems to be 207.59933pt on input line 2029.
+Package marginnote Info: xpos seems to be 208.36719pt on input line 2029.
 Package marginnote Info: Margin note 84.4 is on absolute page 84 on input line 
 2033.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 2033.
@@ -3248,7 +3248,7 @@ e 3451.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 3451.
 Package marginnote Info: Margin note 136.3 is on absolute page 136 on input lin
 e 3451.
-Package marginnote Info: xpos seems to be 460.55371pt on input line 3451.
+Package marginnote Info: xpos seems to be 448.84918pt on input line 3451.
 Package marginnote Info: Margin note 136.4 is on absolute page 136 on input lin
 e 3453.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3453.
@@ -3419,36 +3419,36 @@ Package marginnote Info: xpos seems to be 85.5319pt on input line 3574.
 Package marginnote Info: Margin note 141.12 is on absolute page 142 on input li
 ne 3576.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3576.
+Package marginnote Info: Margin note 141.13 is on absolute page 142 on input li
+ne 3577.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 3577.
  [105]
 Package marginnote Info: Margin note 142.1 is on absolute page 142 on input lin
-e 3577.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 3577.
-Package marginnote Info: Margin note 142.2 is on absolute page 142 on input lin
 e 3579.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3579.
-Package marginnote Info: Margin note 142.3 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 142.2 is on absolute page 142 on input lin
 e 3582.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3582.
-Package marginnote Info: Margin note 142.4 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 142.3 is on absolute page 142 on input lin
 e 3583.
 Package marginnote Info: xpos seems to be 287.59691pt on input line 3583.
-Package marginnote Info: Margin note 142.5 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 142.4 is on absolute page 142 on input lin
 e 3585.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3585.
-Package marginnote Info: Margin note 142.6 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 142.5 is on absolute page 142 on input lin
 e 3588.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3588.
-Package marginnote Info: Margin note 142.7 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 142.6 is on absolute page 142 on input lin
 e 3591.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3591.
-Package marginnote Info: Margin note 142.8 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 142.7 is on absolute page 142 on input lin
 e 3592.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 3592.
-Package marginnote Info: Margin note 142.9 is on absolute page 142 on input lin
+Package marginnote Info: Margin note 142.8 is on absolute page 142 on input lin
 e 3594.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3594.
-Package marginnote Info: Margin note 142.10 is on absolute page 143 on input li
-ne 3597.
+Package marginnote Info: Margin note 142.9 is on absolute page 143 on input lin
+e 3597.
 Package marginnote Info: xpos seems to be 96.13188pt on input line 3597.
  [106]
 Package marginnote Info: Margin note 143.1 is on absolute page 143 on input lin
@@ -3471,7 +3471,7 @@ e 3617.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 3617.
 Package marginnote Info: Margin note 143.7 is on absolute page 143 on input lin
 e 3617.
-Package marginnote Info: xpos seems to be 299.19643pt on input line 3617.
+Package marginnote Info: xpos seems to be 274.43675pt on input line 3617.
 Package marginnote Info: Margin note 143.8 is on absolute page 143 on input lin
 e 3619.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3619.
@@ -3637,7 +3637,7 @@ Package marginnote Info: xpos seems to be 85.5319pt on input line 3744.
 Package marginnote Info: Margin note 148.14 is on absolute page 148 on input li
 ne 3748.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3748.
-Package marginnote Info: Margin note 148.15 is on absolute page 149 on input li
+Package marginnote Info: Margin note 148.15 is on absolute page 148 on input li
 ne 3749.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 3749.
  [112]
@@ -3671,7 +3671,7 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 3776.
 Package marginnote Info: Margin note 149.10 is on absolute page 149 on input li
 ne 3776.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 3776.
-Package marginnote Info: Margin note 149.11 is on absolute page 150 on input li
+Package marginnote Info: Margin note 149.11 is on absolute page 149 on input li
 ne 3778.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3778.
  [113]
@@ -3699,85 +3699,85 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 3800.
 Package marginnote Info: Margin note 150.8 is on absolute page 150 on input lin
 e 3804.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3804.
- [114]
-Package marginnote Info: Margin note 151.1 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 150.9 is on absolute page 151 on input lin
 e 3807.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3807.
-Package marginnote Info: Margin note 151.2 is on absolute page 151 on input lin
+ [114]
+Package marginnote Info: Margin note 151.1 is on absolute page 151 on input lin
 e 3810.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3810.
-Package marginnote Info: Margin note 151.3 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 151.2 is on absolute page 151 on input lin
 e 3813.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3813.
-Package marginnote Info: Margin note 151.4 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 151.3 is on absolute page 151 on input lin
 e 3814.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3814.
-Package marginnote Info: Margin note 151.5 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 151.4 is on absolute page 151 on input lin
 e 3818.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3818.
-Package marginnote Info: Margin note 151.6 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 151.5 is on absolute page 151 on input lin
 e 3819.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 3819.
-Package marginnote Info: Margin note 151.7 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 151.6 is on absolute page 151 on input lin
 e 3821.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3821.
-Package marginnote Info: Margin note 151.8 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 151.7 is on absolute page 151 on input lin
 e 3822.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3822.
-Package marginnote Info: Margin note 151.9 is on absolute page 151 on input lin
+Package marginnote Info: Margin note 151.8 is on absolute page 151 on input lin
 e 3824.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3824.
- [115]
-Package marginnote Info: Margin note 152.1 is on absolute page 152 on input lin
+Package marginnote Info: Margin note 151.9 is on absolute page 152 on input lin
 e 3827.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3827.
-Package marginnote Info: Margin note 152.2 is on absolute page 152 on input lin
+ [115]
+Package marginnote Info: Margin note 152.1 is on absolute page 152 on input lin
 e 3828.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 3828.
-Package marginnote Info: Margin note 152.3 is on absolute page 152 on input lin
+Package marginnote Info: Margin note 152.2 is on absolute page 152 on input lin
 e 3830.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3830.
-Package marginnote Info: Margin note 152.4 is on absolute page 152 on input lin
+Package marginnote Info: Margin note 152.3 is on absolute page 152 on input lin
 e 3833.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3833.
-Package marginnote Info: Margin note 152.5 is on absolute page 152 on input lin
+Package marginnote Info: Margin note 152.4 is on absolute page 152 on input lin
 e 3834.
 Package marginnote Info: xpos seems to be 467.78845pt on input line 3834.
-Package marginnote Info: Margin note 152.6 is on absolute page 152 on input lin
+Package marginnote Info: Margin note 152.5 is on absolute page 152 on input lin
 e 3836.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3836.
-Package marginnote Info: Margin note 152.7 is on absolute page 152 on input lin
+Package marginnote Info: Margin note 152.6 is on absolute page 152 on input lin
 e 3839.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3839.
-Package marginnote Info: Margin note 152.8 is on absolute page 152 on input lin
+Package marginnote Info: Margin note 152.7 is on absolute page 152 on input lin
 e 3842.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3842.
- [116]
-Package marginnote Info: Margin note 153.1 is on absolute page 153 on input lin
+Package marginnote Info: Margin note 152.8 is on absolute page 152 on input lin
 e 3845.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3845.
-Package marginnote Info: Margin note 153.2 is on absolute page 153 on input lin
+Package marginnote Info: Margin note 152.9 is on absolute page 153 on input lin
 e 3848.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3848.
-Package marginnote Info: Margin note 153.3 is on absolute page 153 on input lin
-e 3849.
+Package marginnote Info: Margin note 152.10 is on absolute page 153 on input li
+ne 3849.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3849.
-Package marginnote Info: Margin note 153.4 is on absolute page 153 on input lin
+ [116]
+Package marginnote Info: Margin note 153.1 is on absolute page 153 on input lin
 e 3858.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3858.
-Package marginnote Info: Margin note 153.5 is on absolute page 153 on input lin
+Package marginnote Info: Margin note 153.2 is on absolute page 153 on input lin
 e 3861.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3861.
-Package marginnote Info: Margin note 153.6 is on absolute page 153 on input lin
+Package marginnote Info: Margin note 153.3 is on absolute page 153 on input lin
 e 3866.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3866.
-Package marginnote Info: Margin note 153.7 is on absolute page 153 on input lin
+Package marginnote Info: Margin note 153.4 is on absolute page 153 on input lin
 e 3869.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3869.
-Package marginnote Info: Margin note 153.8 is on absolute page 153 on input lin
+Package marginnote Info: Margin note 153.5 is on absolute page 153 on input lin
 e 3874.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 3874.
-Package marginnote Info: Margin note 153.9 is on absolute page 153 on input lin
+Package marginnote Info: Margin note 153.6 is on absolute page 153 on input lin
 e 3875.
 Package marginnote Info: xpos seems to be 315.15434pt on input line 3875.
  [117] [118
@@ -3936,7 +3936,7 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 4014.
 Package marginnote Info: Margin note 159.12 is on absolute page 159 on input li
 ne 4017.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4017.
-Package marginnote Info: Margin note 159.13 is on absolute page 160 on input li
+Package marginnote Info: Margin note 159.13 is on absolute page 159 on input li
 ne 4020.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4020.
  [123]
@@ -4280,7 +4280,7 @@ e 4284.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4284.
 Package marginnote Info: Margin note 170.3 is on absolute page 170 on input lin
 e 4285.
-Package marginnote Info: xpos seems to be 338.95087pt on input line 4285.
+Package marginnote Info: xpos seems to be 334.3081pt on input line 4285.
 Package marginnote Info: Margin note 170.4 is on absolute page 170 on input lin
 e 4287.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4287.
@@ -4496,7 +4496,7 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 4641.
  [145]
 Package marginnote Info: Margin note 182.1 is on absolute page 182 on input lin
 e 4642.
-Package marginnote Info: xpos seems to be 249.02336pt on input line 4642.
+Package marginnote Info: xpos seems to be 234.7416pt on input line 4642.
 Package marginnote Info: Margin note 182.2 is on absolute page 182 on input lin
 e 4644.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4644.
@@ -4558,74 +4558,82 @@ e 4701.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4701.
 Package marginnote Info: Margin note 184.5 is on absolute page 184 on input lin
 e 4702.
-Package marginnote Info: xpos seems to be 110.99739pt on input line 4702.
+Package marginnote Info: xpos seems to be 111.21162pt on input line 4702.
 Package marginnote Info: Margin note 184.6 is on absolute page 184 on input lin
 e 4704.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4704.
 Package marginnote Info: Margin note 184.7 is on absolute page 184 on input lin
 e 4715.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 4715.
- [148]
-Package marginnote Info: Margin note 185.1 is on absolute page 185 on input lin
+Package marginnote Info: Margin note 184.8 is on absolute page 185 on input lin
 e 4724.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4724.
-Package marginnote Info: Margin note 185.2 is on absolute page 185 on input lin
+Package marginnote Info: Margin note 184.9 is on absolute page 185 on input lin
 e 4725.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4725.
-Package marginnote Info: Margin note 185.3 is on absolute page 185 on input lin
+ [148]
+Package marginnote Info: Margin note 185.1 is on absolute page 185 on input lin
 e 4752.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4752.
+Package marginnote Info: Margin note 185.2 is on absolute page 185 on input lin
+e 4755.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 4755.
+Package marginnote Info: Margin note 185.3 is on absolute page 185 on input lin
+e 4755.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 4755.
 Package marginnote Info: Margin note 185.4 is on absolute page 185 on input lin
-e 4755.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 4755.
-Package marginnote Info: Margin note 185.5 is on absolute page 185 on input lin
-e 4755.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 4755.
-Package marginnote Info: Margin note 185.6 is on absolute page 185 on input lin
 e 4757.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4757.
-Package marginnote Info: Margin note 185.7 is on absolute page 185 on input lin
+Package marginnote Info: Margin note 185.5 is on absolute page 185 on input lin
 e 4759.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4759.
-Package marginnote Info: Margin note 185.8 is on absolute page 185 on input lin
+Package marginnote Info: Margin note 185.6 is on absolute page 185 on input lin
 e 4764.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 4764.
-Package marginnote Info: Margin note 185.9 is on absolute page 186 on input lin
+Package marginnote Info: Margin note 185.7 is on absolute page 186 on input lin
 e 4768.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4768.
+Package marginnote Info: Margin note 185.8 is on absolute page 186 on input lin
+e 4769.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 4769.
 
 [149]
 Package marginnote Info: Margin note 186.1 is on absolute page 186 on input lin
-e 4769.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 4769.
-Package marginnote Info: Margin note 186.2 is on absolute page 186 on input lin
 e 4771.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4771.
-Package marginnote Info: Margin note 186.3 is on absolute page 186 on input lin
+Package marginnote Info: Margin note 186.2 is on absolute page 186 on input lin
 e 4775.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4775.
-Package marginnote Info: Margin note 186.4 is on absolute page 186 on input lin
+Package marginnote Info: Margin note 186.3 is on absolute page 186 on input lin
 e 4776.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4776.
-Package marginnote Info: Margin note 186.5 is on absolute page 186 on input lin
+Package marginnote Info: Margin note 186.4 is on absolute page 186 on input lin
 e 4776.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 4776.
-Package marginnote Info: Margin note 186.6 is on absolute page 186 on input lin
+Package marginnote Info: Margin note 186.5 is on absolute page 186 on input lin
 e 4778.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4778.
-Package marginnote Info: Margin note 186.7 is on absolute page 186 on input lin
+Package marginnote Info: Margin note 186.6 is on absolute page 186 on input lin
 e 4779.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 4779.
-Package marginnote Info: Margin note 186.8 is on absolute page 186 on input lin
+
+
+LaTeX Warning: Citation `Vism-mhṭ 202' on page 150 undefined on input line 47
+79.
+
+
+LaTeX Warning: Citation `Dīp' on page 150 undefined on input line 4779.
+
+Package marginnote Info: Margin note 186.7 is on absolute page 186 on input lin
 e 4781.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4781.
-Package marginnote Info: Margin note 186.9 is on absolute page 186 on input lin
+Package marginnote Info: Margin note 186.8 is on absolute page 186 on input lin
 e 4782.
 Package marginnote Info: xpos seems to be 190.93483pt on input line 4782.
-Package marginnote Info: Margin note 186.10 is on absolute page 187 on input li
-ne 4785.
+Package marginnote Info: Margin note 186.9 is on absolute page 187 on input lin
+e 4785.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4785.
- [150]
+[150]
 Package marginnote Info: Margin note 187.1 is on absolute page 187 on input lin
 e 4788.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4788.
@@ -4694,36 +4702,36 @@ Package marginnote Info: xpos seems to be 85.5319pt on input line 4887.
 Package marginnote Info: Margin note 189.7 is on absolute page 190 on input lin
 e 4889.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4889.
- [153]
-Package marginnote Info: Margin note 190.1 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 189.8 is on absolute page 190 on input lin
 e 4890.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 4890.
-Package marginnote Info: Margin note 190.2 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 189.9 is on absolute page 190 on input lin
 e 4890.
 Package marginnote Info: xpos seems to be 240.65437pt on input line 4890.
-Package marginnote Info: Margin note 190.3 is on absolute page 190 on input lin
+ [153]
+Package marginnote Info: Margin note 190.1 is on absolute page 190 on input lin
 e 4892.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4892.
-Package marginnote Info: Margin note 190.4 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 190.2 is on absolute page 190 on input lin
 e 4895.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4895.
-Package marginnote Info: Margin note 190.5 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 190.3 is on absolute page 190 on input lin
 e 4896.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 4896.
-Package marginnote Info: Margin note 190.6 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 190.4 is on absolute page 190 on input lin
 e 4898.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4898.
-Package marginnote Info: Margin note 190.7 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 190.5 is on absolute page 190 on input lin
 e 4901.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4901.
-Package marginnote Info: Margin note 190.8 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 190.6 is on absolute page 190 on input lin
 e 4906.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 4906.
-Package marginnote Info: Margin note 190.9 is on absolute page 190 on input lin
+Package marginnote Info: Margin note 190.7 is on absolute page 190 on input lin
 e 4908.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4908.
-Package marginnote Info: Margin note 190.10 is on absolute page 190 on input li
-ne 4909.
+Package marginnote Info: Margin note 190.8 is on absolute page 190 on input lin
+e 4909.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 4909.
  [154]
 Package marginnote Info: Margin note 191.1 is on absolute page 191 on input lin
@@ -4894,8 +4902,7 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 5104.
 Package marginnote Info: Margin note 197.8 is on absolute page 198 on input lin
 e 5106.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5106.
-
-[161]
+ [161]
 Package marginnote Info: Margin note 198.1 is on absolute page 198 on input lin
 e 5109.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5109.
@@ -4920,7 +4927,8 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 5138.
 Package marginnote Info: Margin note 198.8 is on absolute page 199 on input lin
 e 5141.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5141.
- [162]
+
+[162]
 Package marginnote Info: Margin note 199.1 is on absolute page 199 on input lin
 e 5144.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5144.
@@ -4942,36 +4950,36 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 5168.
 Package marginnote Info: Margin note 199.7 is on absolute page 200 on input lin
 e 5173.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5173.
- [163]
-Package marginnote Info: Margin note 200.1 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 199.8 is on absolute page 200 on input lin
 e 5174.
 Package marginnote Info: xpos seems to be 112.22441pt on input line 5174.
-Package marginnote Info: Margin note 200.2 is on absolute page 200 on input lin
+ [163]
+Package marginnote Info: Margin note 200.1 is on absolute page 200 on input lin
 e 5176.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5176.
-Package marginnote Info: Margin note 200.3 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 200.2 is on absolute page 200 on input lin
 e 5181.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5181.
-Package marginnote Info: Margin note 200.4 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 200.3 is on absolute page 200 on input lin
 e 5194.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5194.
-Package marginnote Info: Margin note 200.5 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 200.4 is on absolute page 200 on input lin
 e 5197.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5197.
-Package marginnote Info: Margin note 200.6 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 200.5 is on absolute page 200 on input lin
 e 5200.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5200.
-Package marginnote Info: Margin note 200.7 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 200.6 is on absolute page 200 on input lin
 e 5201.
 Package marginnote Info: xpos seems to be 197.19565pt on input line 5201.
-Package marginnote Info: Margin note 200.8 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 200.7 is on absolute page 200 on input lin
 e 5203.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5203.
-Package marginnote Info: Margin note 200.9 is on absolute page 200 on input lin
+Package marginnote Info: Margin note 200.8 is on absolute page 200 on input lin
 e 5206.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5206.
-Package marginnote Info: Margin note 200.10 is on absolute page 201 on input li
-ne 5209.
+Package marginnote Info: Margin note 200.9 is on absolute page 201 on input lin
+e 5209.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 5209.
  [164]
 Package marginnote Info: Margin note 201.1 is on absolute page 201 on input lin
@@ -5202,7 +5210,7 @@ e 5596.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 5596.
 Package marginnote Info: Margin note 212.7 is on absolute page 213 on input lin
 e 5596.
-Package marginnote Info: xpos seems to be 394.497pt on input line 5596.
+Package marginnote Info: xpos seems to be 393.7702pt on input line 5596.
  [176]
 Package marginnote Info: Margin note 213.1 is on absolute page 213 on input lin
 e 5598.
@@ -5797,7 +5805,7 @@ e 6088.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 6088.
 Package marginnote Info: Margin note 232.4 is on absolute page 232 on input lin
 e 6089.
-Package marginnote Info: xpos seems to be 196.22826pt on input line 6089.
+Package marginnote Info: xpos seems to be 196.9174pt on input line 6089.
 Package marginnote Info: Margin note 232.5 is on absolute page 232 on input lin
 e 6091.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 6091.
@@ -6708,7 +6716,7 @@ e 7158.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 7158.
 Package marginnote Info: Margin note 268.4 is on absolute page 268 on input lin
 e 7159.
-Package marginnote Info: xpos seems to be 438.35396pt on input line 7159.
+Package marginnote Info: xpos seems to be 469.77748pt on input line 7159.
 Package marginnote Info: Margin note 268.5 is on absolute page 268 on input lin
 e 7159.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 7159.
@@ -8062,7 +8070,7 @@ e 8340.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 8340.
 Package marginnote Info: Margin note 319.5 is on absolute page 319 on input lin
 e 8341.
-Package marginnote Info: xpos seems to be 287.20631pt on input line 8341.
+Package marginnote Info: xpos seems to be 241.1415pt on input line 8341.
 Package marginnote Info: Margin note 319.6 is on absolute page 319 on input lin
 e 8343.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 8343.
@@ -8551,7 +8559,7 @@ e 8721.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 8721.
 Package marginnote Info: Margin note 337.4 is on absolute page 337 on input lin
 e 8722.
-Package marginnote Info: xpos seems to be 232.59065pt on input line 8722.
+Package marginnote Info: xpos seems to be 193.0184pt on input line 8722.
 Package marginnote Info: Margin note 337.5 is on absolute page 337 on input lin
 e 8724.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 8724.
@@ -9225,85 +9233,85 @@ Package marginnote Info: xpos seems to be 85.5319pt on input line 9319.
 Package marginnote Info: Margin note 363.5 is on absolute page 363 on input lin
 e 9321.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9321.
- [327]
-Package marginnote Info: Margin note 364.1 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 363.6 is on absolute page 364 on input lin
 e 9324.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9324.
-Package marginnote Info: Margin note 364.2 is on absolute page 364 on input lin
+ [327]
+Package marginnote Info: Margin note 364.1 is on absolute page 364 on input lin
 e 9331.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9331.
-Package marginnote Info: Margin note 364.3 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 364.2 is on absolute page 364 on input lin
 e 9332.
 Package marginnote Info: xpos seems to be 208.0658pt on input line 9332.
-Package marginnote Info: Margin note 364.4 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 364.3 is on absolute page 364 on input lin
 e 9334.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9334.
-Package marginnote Info: Margin note 364.5 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 364.4 is on absolute page 364 on input lin
 e 9341.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9341.
-Package marginnote Info: Margin note 364.6 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 364.5 is on absolute page 364 on input lin
 e 9344.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9344.
-Package marginnote Info: Margin note 364.7 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 364.6 is on absolute page 364 on input lin
 e 9347.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9347.
-Package marginnote Info: Margin note 364.8 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 364.7 is on absolute page 364 on input lin
 e 9348.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9348.
-Package marginnote Info: Margin note 364.9 is on absolute page 364 on input lin
+Package marginnote Info: Margin note 364.8 is on absolute page 364 on input lin
 e 9350.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9350.
- [328]
-Package marginnote Info: Margin note 365.1 is on absolute page 365 on input lin
+Package marginnote Info: Margin note 364.9 is on absolute page 365 on input lin
 e 9353.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9353.
+ [328]
+Package marginnote Info: Margin note 365.1 is on absolute page 365 on input lin
+e 9354.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 9354.
 Package marginnote Info: Margin note 365.2 is on absolute page 365 on input lin
 e 9354.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 9354.
 Package marginnote Info: Margin note 365.3 is on absolute page 365 on input lin
-e 9354.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 9354.
-Package marginnote Info: Margin note 365.4 is on absolute page 365 on input lin
 e 9367.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9367.
-Package marginnote Info: Margin note 365.5 is on absolute page 365 on input lin
+Package marginnote Info: Margin note 365.4 is on absolute page 365 on input lin
 e 9372.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9372.
-Package marginnote Info: Margin note 365.6 is on absolute page 365 on input lin
+Package marginnote Info: Margin note 365.5 is on absolute page 365 on input lin
 e 9373.
 Package marginnote Info: xpos seems to be 110.23453pt on input line 9373.
-Package marginnote Info: Margin note 365.7 is on absolute page 365 on input lin
+Package marginnote Info: Margin note 365.6 is on absolute page 365 on input lin
 e 9375.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9375.
-Package marginnote Info: Margin note 365.8 is on absolute page 365 on input lin
+Package marginnote Info: Margin note 365.7 is on absolute page 365 on input lin
 e 9378.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9378.
- [329]
-Package marginnote Info: Margin note 366.1 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 365.8 is on absolute page 366 on input lin
 e 9389.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9389.
-Package marginnote Info: Margin note 366.2 is on absolute page 366 on input lin
+ [329]
+Package marginnote Info: Margin note 366.1 is on absolute page 366 on input lin
 e 9394.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 9394.
-Package marginnote Info: Margin note 366.3 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 366.2 is on absolute page 366 on input lin
 e 9396.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9396.
-Package marginnote Info: Margin note 366.4 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 366.3 is on absolute page 366 on input lin
 e 9397.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9397.
-Package marginnote Info: Margin note 366.5 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 366.4 is on absolute page 366 on input lin
 e 9399.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9399.
-Package marginnote Info: Margin note 366.6 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 366.5 is on absolute page 366 on input lin
 e 9402.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9402.
-Package marginnote Info: Margin note 366.7 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 366.6 is on absolute page 366 on input lin
 e 9405.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 9405.
-Package marginnote Info: Margin note 366.8 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 366.7 is on absolute page 366 on input lin
 e 9405.
 Package marginnote Info: xpos seems to be 443.84406pt on input line 9405.
-Package marginnote Info: Margin note 366.9 is on absolute page 366 on input lin
+Package marginnote Info: Margin note 366.8 is on absolute page 366 on input lin
 e 9407.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9407.
  [330]
@@ -9331,7 +9339,7 @@ Package marginnote Info: xpos seems to be 85.5319pt on input line 9425.
 Package marginnote Info: Margin note 367.8 is on absolute page 367 on input lin
 e 9425.
 Package marginnote Info: xpos seems to be 416.62877pt on input line 9425.
-Package marginnote Info: Margin note 367.9 is on absolute page 368 on input lin
+Package marginnote Info: Margin note 367.9 is on absolute page 367 on input lin
 e 9427.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9427.
  [331]
@@ -9362,78 +9370,78 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 9452.
 Package marginnote Info: Margin note 368.9 is on absolute page 368 on input lin
 e 9457.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9457.
+Package marginnote Info: Margin note 368.10 is on absolute page 369 on input li
+ne 9460.
+Package marginnote Info: xpos seems to be 71.13188pt on input line 9460.
  [332]
 Package marginnote Info: Margin note 369.1 is on absolute page 369 on input lin
-e 9460.
-Package marginnote Info: xpos seems to be 71.13188pt on input line 9460.
-Package marginnote Info: Margin note 369.2 is on absolute page 369 on input lin
 e 9465.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9465.
-Package marginnote Info: Margin note 369.3 is on absolute page 369 on input lin
+Package marginnote Info: Margin note 369.2 is on absolute page 369 on input lin
 e 9468.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9468.
-Package marginnote Info: Margin note 369.4 is on absolute page 369 on input lin
+Package marginnote Info: Margin note 369.3 is on absolute page 369 on input lin
 e 9469.
 Package marginnote Info: xpos seems to be 311.48985pt on input line 9469.
-Package marginnote Info: Margin note 369.5 is on absolute page 369 on input lin
+Package marginnote Info: Margin note 369.4 is on absolute page 369 on input lin
 e 9471.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9471.
-Package marginnote Info: Margin note 369.6 is on absolute page 369 on input lin
+Package marginnote Info: Margin note 369.5 is on absolute page 369 on input lin
 e 9476.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9476.
-Package marginnote Info: Margin note 369.7 is on absolute page 369 on input lin
+Package marginnote Info: Margin note 369.6 is on absolute page 369 on input lin
 e 9477.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 9477.
-Package marginnote Info: Margin note 369.8 is on absolute page 369 on input lin
+Package marginnote Info: Margin note 369.7 is on absolute page 369 on input lin
 e 9481.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9481.
-Package marginnote Info: Margin note 369.9 is on absolute page 369 on input lin
+Package marginnote Info: Margin note 369.8 is on absolute page 369 on input lin
 e 9484.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9484.
-Package marginnote Info: Margin note 369.10 is on absolute page 369 on input li
-ne 9485.
+Package marginnote Info: Margin note 369.9 is on absolute page 369 on input lin
+e 9485.
 Package marginnote Info: xpos seems to be 328.26869pt on input line 9485.
-Package marginnote Info: Margin note 369.11 is on absolute page 370 on input li
+Package marginnote Info: Margin note 369.10 is on absolute page 370 on input li
 ne 9489.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9489.
+Package marginnote Info: Margin note 369.11 is on absolute page 370 on input li
+ne 9490.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 9490.
+Package marginnote Info: Margin note 369.12 is on absolute page 370 on input li
+ne 9490.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 9490.
+Package marginnote Info: Margin note 369.13 is on absolute page 370 on input li
+ne 9490.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 9490.
  [333]
 Package marginnote Info: Margin note 370.1 is on absolute page 370 on input lin
-e 9490.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 9490.
-Package marginnote Info: Margin note 370.2 is on absolute page 370 on input lin
-e 9490.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 9490.
-Package marginnote Info: Margin note 370.3 is on absolute page 370 on input lin
-e 9490.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 9490.
-Package marginnote Info: Margin note 370.4 is on absolute page 370 on input lin
 e 9492.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9492.
-Package marginnote Info: Margin note 370.5 is on absolute page 370 on input lin
+Package marginnote Info: Margin note 370.2 is on absolute page 370 on input lin
 e 9495.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9495.
-Package marginnote Info: Margin note 370.6 is on absolute page 370 on input lin
+Package marginnote Info: Margin note 370.3 is on absolute page 370 on input lin
 e 9500.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9500.
-Package marginnote Info: Margin note 370.7 is on absolute page 370 on input lin
+Package marginnote Info: Margin note 370.4 is on absolute page 370 on input lin
 e 9501.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9501.
-Package marginnote Info: Margin note 370.8 is on absolute page 370 on input lin
+Package marginnote Info: Margin note 370.5 is on absolute page 370 on input lin
 e 9503.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9503.
-Package marginnote Info: Margin note 370.9 is on absolute page 370 on input lin
+Package marginnote Info: Margin note 370.6 is on absolute page 370 on input lin
 e 9506.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9506.
-Package marginnote Info: Margin note 370.10 is on absolute page 370 on input li
-ne 9511.
+Package marginnote Info: Margin note 370.7 is on absolute page 370 on input lin
+e 9511.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9511.
-Package marginnote Info: Margin note 370.11 is on absolute page 370 on input li
-ne 9516.
+Package marginnote Info: Margin note 370.8 is on absolute page 370 on input lin
+e 9516.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9516.
-Package marginnote Info: Margin note 370.12 is on absolute page 370 on input li
-ne 9519.
+Package marginnote Info: Margin note 370.9 is on absolute page 370 on input lin
+e 9519.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 9519.
-Package marginnote Info: Margin note 370.13 is on absolute page 371 on input li
+Package marginnote Info: Margin note 370.10 is on absolute page 371 on input li
 ne 9520.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 9520.
  [334]
@@ -10399,7 +10407,7 @@ e 10541.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 10541.
 Package marginnote Info: Margin note 403.8 is on absolute page 404 on input lin
 e 10542.
-Package marginnote Info: xpos seems to be 311.70886pt on input line 10542.
+Package marginnote Info: xpos seems to be 285.31258pt on input line 10542.
  [367]
 Package marginnote Info: Margin note 404.1 is on absolute page 404 on input lin
 e 10546.
@@ -10449,7 +10457,7 @@ e 10577.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 10577.
 Package marginnote Info: Margin note 405.9 is on absolute page 405 on input lin
 e 10577.
-Package marginnote Info: xpos seems to be 465.54614pt on input line 10577.
+Package marginnote Info: xpos seems to be 465.18507pt on input line 10577.
 Package marginnote Info: Margin note 405.10 is on absolute page 406 on input li
 ne 10579.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 10579.
@@ -10634,53 +10642,53 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 10962.
 Package marginnote Info: Margin note 414.4 is on absolute page 414 on input lin
 e 10981.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 10981.
-Package marginnote Info: Margin note 414.5 is on absolute page 414 on input lin
+Package marginnote Info: Margin note 414.5 is on absolute page 415 on input lin
 e 10983.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 10983.
-Package marginnote Info: Margin note 414.6 is on absolute page 415 on input lin
-e 10986.
-Package marginnote Info: xpos seems to be 71.13188pt on input line 10986.
  [378]
 Package marginnote Info: Margin note 415.1 is on absolute page 415 on input lin
+e 10986.
+Package marginnote Info: xpos seems to be 71.13188pt on input line 10986.
+Package marginnote Info: Margin note 415.2 is on absolute page 415 on input lin
 e 10989.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 10989.
-Package marginnote Info: Margin note 415.2 is on absolute page 415 on input lin
+Package marginnote Info: Margin note 415.3 is on absolute page 415 on input lin
 e 10992.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 10992.
-Package marginnote Info: Margin note 415.3 is on absolute page 415 on input lin
+Package marginnote Info: Margin note 415.4 is on absolute page 415 on input lin
 e 10995.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 10995.
-Package marginnote Info: Margin note 415.4 is on absolute page 415 on input lin
-e 10996.
-Package marginnote Info: xpos seems to be 274.08667pt on input line 10996.
 Package marginnote Info: Margin note 415.5 is on absolute page 415 on input lin
 e 10996.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 10996.
+Package marginnote Info: xpos seems to be 274.08667pt on input line 10996.
 Package marginnote Info: Margin note 415.6 is on absolute page 415 on input lin
+e 10996.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 10996.
+Package marginnote Info: Margin note 415.7 is on absolute page 415 on input lin
 e 10998.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 10998.
-Package marginnote Info: Margin note 415.7 is on absolute page 415 on input lin
+Package marginnote Info: Margin note 415.8 is on absolute page 415 on input lin
 e 10999.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 10999.
-Package marginnote Info: Margin note 415.8 is on absolute page 415 on input lin
+Package marginnote Info: Margin note 415.9 is on absolute page 415 on input lin
 e 11001.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11001.
-Package marginnote Info: Margin note 415.9 is on absolute page 415 on input lin
-e 11002.
-Package marginnote Info: xpos seems to be 85.5319pt on input line 11002.
 Package marginnote Info: Margin note 415.10 is on absolute page 415 on input li
+ne 11002.
+Package marginnote Info: xpos seems to be 85.5319pt on input line 11002.
+Package marginnote Info: Margin note 415.11 is on absolute page 415 on input li
 ne 11004.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11004.
-Package marginnote Info: Margin note 415.11 is on absolute page 415 on input li
+Package marginnote Info: Margin note 415.12 is on absolute page 415 on input li
 ne 11007.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11007.
-Package marginnote Info: Margin note 415.12 is on absolute page 415 on input li
+Package marginnote Info: Margin note 415.13 is on absolute page 415 on input li
 ne 11008.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 11008.
-Package marginnote Info: Margin note 415.13 is on absolute page 415 on input li
+Package marginnote Info: Margin note 415.14 is on absolute page 416 on input li
 ne 11010.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11010.
-Package marginnote Info: Margin note 415.14 is on absolute page 415 on input li
+Package marginnote Info: Margin note 415.15 is on absolute page 416 on input li
 ne 11011.
 Package marginnote Info: xpos seems to be 145.32611pt on input line 11011.
  [379]
@@ -10721,32 +10729,32 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 11063.
 Package marginnote Info: Margin note 417.5 is on absolute page 417 on input lin
 e 11066.
 Package marginnote Info: xpos seems to be 96.13188pt on input line 11066.
-Package marginnote Info: Margin note 417.6 is on absolute page 418 on input lin
-e 11082.
-Package marginnote Info: xpos seems to be 71.13188pt on input line 11082.
  [381]
 Package marginnote Info: Margin note 418.1 is on absolute page 418 on input lin
+e 11082.
+Package marginnote Info: xpos seems to be 71.13188pt on input line 11082.
+Package marginnote Info: Margin note 418.2 is on absolute page 418 on input lin
 e 11096.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 11096.
-Package marginnote Info: Margin note 418.2 is on absolute page 418 on input lin
+Package marginnote Info: Margin note 418.3 is on absolute page 418 on input lin
 e 11098.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11098.
-Package marginnote Info: Margin note 418.3 is on absolute page 418 on input lin
+Package marginnote Info: Margin note 418.4 is on absolute page 418 on input lin
 e 11099.
 Package marginnote Info: xpos seems to be 325.9376pt on input line 11099.
-Package marginnote Info: Margin note 418.4 is on absolute page 418 on input lin
+Package marginnote Info: Margin note 418.5 is on absolute page 418 on input lin
 e 11101.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11101.
-Package marginnote Info: Margin note 418.5 is on absolute page 418 on input lin
+Package marginnote Info: Margin note 418.6 is on absolute page 418 on input lin
 e 11104.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11104.
-Package marginnote Info: Margin note 418.6 is on absolute page 418 on input lin
+Package marginnote Info: Margin note 418.7 is on absolute page 418 on input lin
 e 11105.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 11105.
-Package marginnote Info: Margin note 418.7 is on absolute page 418 on input lin
+Package marginnote Info: Margin note 418.8 is on absolute page 418 on input lin
 e 11107.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11107.
-Package marginnote Info: Margin note 418.8 is on absolute page 418 on input lin
+Package marginnote Info: Margin note 418.9 is on absolute page 419 on input lin
 e 11110.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11110.
  [382]
@@ -10777,7 +10785,7 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 11137.
 Package marginnote Info: Margin note 419.9 is on absolute page 419 on input lin
 e 11138.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11138.
-Package marginnote Info: Margin note 419.10 is on absolute page 419 on input li
+Package marginnote Info: Margin note 419.10 is on absolute page 420 on input li
 ne 11140.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11140.
  [383] [384]
@@ -11153,7 +11161,7 @@ e 11513.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 11513.
 Package marginnote Info: Margin note 435.6 is on absolute page 435 on input lin
 e 11513.
-Package marginnote Info: xpos seems to be 383.4708pt on input line 11513.
+Package marginnote Info: xpos seems to be 381.27478pt on input line 11513.
 Package marginnote Info: Margin note 435.7 is on absolute page 435 on input lin
 e 11515.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11515.
@@ -11565,7 +11573,7 @@ e 11972.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11972.
 Package marginnote Info: Margin note 450.7 is on absolute page 450 on input lin
 e 11973.
-Package marginnote Info: xpos seems to be 443.5189pt on input line 11973.
+Package marginnote Info: xpos seems to be 443.029pt on input line 11973.
 Package marginnote Info: Margin note 450.8 is on absolute page 451 on input lin
 e 11978.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 11978.
@@ -11599,7 +11607,7 @@ e 12008.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 12008.
 Package marginnote Info: Margin note 451.10 is on absolute page 452 on input li
 ne 12009.
-Package marginnote Info: xpos seems to be 434.25783pt on input line 12009.
+Package marginnote Info: xpos seems to be 433.73988pt on input line 12009.
  [415]
 Package marginnote Info: Margin note 452.1 is on absolute page 452 on input lin
 e 12011.
@@ -11991,7 +11999,7 @@ e 12614.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 12614.
 Package marginnote Info: Margin note 467.5 is on absolute page 467 on input lin
 e 12615.
-Package marginnote Info: xpos seems to be 109.51816pt on input line 12615.
+Package marginnote Info: xpos seems to be 109.76819pt on input line 12615.
 Package marginnote Info: Margin note 467.6 is on absolute page 467 on input lin
 e 12615.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 12615.
@@ -12067,7 +12075,7 @@ e 12701.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 12701.
 Package marginnote Info: Margin note 470.2 is on absolute page 470 on input lin
 e 12702.
-Package marginnote Info: xpos seems to be 423.40742pt on input line 12702.
+Package marginnote Info: xpos seems to be 422.8743pt on input line 12702.
 Package marginnote Info: Margin note 470.3 is on absolute page 470 on input lin
 e 12704.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 12704.
@@ -13787,7 +13795,7 @@ e 14539.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 14539.
 Package marginnote Info: Margin note 542.6 is on absolute page 542 on input lin
 e 14539.
-Package marginnote Info: xpos seems to be 433.73952pt on input line 14539.
+Package marginnote Info: xpos seems to be 433.19258pt on input line 14539.
 Package marginnote Info: Margin note 542.7 is on absolute page 542 on input lin
 e 14543.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 14543.
@@ -14175,7 +14183,7 @@ e 14926.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 14926.
 Package marginnote Info: Margin note 558.2 is on absolute page 558 on input lin
 e 14927.
-Package marginnote Info: xpos seems to be 362.16306pt on input line 14927.
+Package marginnote Info: xpos seems to be 361.2437pt on input line 14927.
 Package marginnote Info: Margin note 558.3 is on absolute page 558 on input lin
 e 14927.
 Package marginnote Info: xpos seems to be 85.5319pt on input line 14927.
@@ -14265,7 +14273,7 @@ e 15026.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 15026.
 Package marginnote Info: Margin note 561.7 is on absolute page 561 on input lin
 e 15027.
-Package marginnote Info: xpos seems to be 267.70352pt on input line 15027.
+Package marginnote Info: xpos seems to be 268.79657pt on input line 15027.
 Package marginnote Info: Margin note 561.8 is on absolute page 561 on input lin
 e 15029.
 Package marginnote Info: xpos seems to be 71.13188pt on input line 15029.
@@ -14682,21 +14690,24 @@ Package marginnote Info: xpos seems to be 71.13188pt on input line 15552.
 
 \openout5 = vism.ptc
  [578] (./vism.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `vism.out' has not changed.
 (rerunfilecheck)             Checksum: BAA73DBEC6E2E4907E6A74BD4AE69AB1;82461.
 )
 
 Here is how much of LuaTeX's memory you used:
  30404 strings out of 477805
- 305808,2848258 words of node,token memory allocated
- 8884 words of node memory still in use:
+ 305810,2848258 words of node,token memory allocated
+ 8894 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 1 local_par, 750 glue, 3 kern, 1 penalty, 3 glyph, 
-762 attribute, 71 glue_spec, 762 attribute_list, 1 write, 9 pdf_action nodes
-   avail lists: 1:2,2:3589,3:1163,4:272,5:2324,6:579,7:23025,8:1015,9:3804,10:38
-,11:1568
+763 attribute, 71 glue_spec, 763 attribute_list, 1 write, 10 pdf_action nodes
+   avail lists: 1:3,2:3589,3:1163,4:272,5:2324,6:579,7:23019,8:1015,9:3804,10:38
+,11:1570
  42021 multiletter control sequences out of 65536+600000
  79 fonts using 12958503 bytes
- 68i,11n,112p,6208b,4794s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,112p,6207b,4794s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 warning  (pdf backend): unreferenced destination with name 'VII.n45'
 
@@ -14751,10 +14762,10 @@ warning  (pdf backend): unreferenced destination with name 'XVI.4n2'
 /usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></usr/sh
 are/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></usr/share/t
 exmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf>
-Output written on vism.pdf (614 pages, 3786885 bytes).
+Output written on vism.pdf (614 pages, 3787392 bytes).
 
-PDF statistics: 27619 PDF objects out of 31911 (max. 8388607)
- 26523 compressed objects within 266 object streams
+PDF statistics: 27629 PDF objects out of 31911 (max. 8388607)
+ 26533 compressed objects within 266 object streams
  8359 named destinations out of 8907 (max. 131072)
  2689 words of extra memory for PDF output out of 10000 (max. 100000000)
 
