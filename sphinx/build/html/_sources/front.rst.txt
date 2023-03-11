@@ -6,3 +6,4 @@
    
    ch-A.rst
    ch-B.rst
+   ch-C.rst
