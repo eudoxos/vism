@@ -37,13 +37,13 @@ Translations of the *Visuddhimagga*\
 
 *English:*\  *The Path of Purity*\  by Pe Maung Tin, PTS, London. 3 vols., 1922–31.
 
-*German:*\  *Visuddhimagga (der Weg zur Reinheit)*\ by Nyanatiloka, Verlag Christiani, Konstanz, 1952. Reprinted by Jhana-Verlag, Uttenbühl, 1997.
+*German:*\  *Visuddhimagga (der Weg zur Reinheit)*\  by Nyanatiloka, Verlag Christiani, Konstanz, 1952. Reprinted by Jhana-Verlag, Uttenbühl, 1997.
 
 *Sinhala:*\  *Visuddhimārga-mahāsannē*\ , ed. Ratanapala Medhaṅkara et al, 2 vols., Kalutara, 1949. (Also called *Parākramabāhu-sannaya*\ . A Pali-Sinhala paraphrase composed by King Paṇḍita Parākramabāhu II in the 13th cent. CE.) *Visuddhimārgaya*\ , Sinhala translation by Paṇḍita Mātara Sri Dharmavaṃsa Sthavira, Mātara, 1953. Etc.
 
 *French:*\  *Le Chemin de la pureté*\ , transl. by Christian Maës, Editions Fayard, Paris 2002.
 
-*Italian:*\ *Visuddhimagga: Il sentiero della purificazione*\ , transl. of *samādhi-bheda*\  by Antonella Serena Comba, Lulu.com, Raleigh, 2008.
+*Italian:*\  *Visuddhimagga: Il sentiero della purificazione*\ , transl. of *samādhi-bheda*\  by Antonella Serena Comba, Lulu.com, Raleigh, 2008.
 
 Other works
 -----------
@@ -76,7 +76,7 @@ Other works
 
 *Pali Literature and Language*\ , by W. Geiger, English translation by Batakrishna Ghosh, Calcutta University, 1943.
 
-*Paramatthamañjūsā*\ , Ācariya Dhammapāla, commentary to the *Visuddhimagga*\ (*Visuddhimaggamahā-ṭīkā*\ ). Vidyodaya ed. in Sinhalese script, Colombo (Chapters I to XVII only). P.C. Mundyne Pitaka Press ed. in Burmese script, Rangoon, 1909 (Chapters I to XI), 1910 (Chapters XII to XXIII). Siamese ed. in Siamese script, Bangkok. Latin script edition on *Chaṭṭha Saṅgāyana*\  CDROM of Vipassana Research Institute, Igatpuri. No English translation.
+*Paramatthamañjūsā*\ , Ācariya Dhammapāla, commentary to the *Visuddhimagga*\  (*Visuddhimaggamahā-ṭīkā*\ ). Vidyodaya ed. in Sinhalese script, Colombo (Chapters I to XVII only). P.C. Mundyne Pitaka Press ed. in Burmese script, Rangoon, 1909 (Chapters I to XI), 1910 (Chapters XII to XXIII). Siamese ed. in Siamese script, Bangkok. Latin script edition on *Chaṭṭha Saṅgāyana*\  CDROM of Vipassana Research Institute, Igatpuri. No English translation.
 
 *Theravada Buddhism in Burma*\ , by Niharranjan Ray, Calcutta University, 1946 (pp. 24 ff.).
 

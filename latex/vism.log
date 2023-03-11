@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.11)  11 MAR 2023 13:13
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.3.11)  11 MAR 2023 14:59
  restricted system commands enabled.
 **vism.tex
 (./vism.tex
@@ -14689,11 +14689,11 @@ Package rerunfilecheck Info: File `vism.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  30435 strings out of 477805
  305795,2848258 words of node,token memory allocated
- 8894 words of node memory still in use:
+ 8884 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 1 local_par, 750 glue, 3 kern, 1 penalty, 3 glyph, 
-763 attribute, 71 glue_spec, 763 attribute_list, 1 write, 10 pdf_action nodes
-   avail lists: 1:2,2:3589,3:1163,4:272,5:2323,6:579,7:23020,8:1015,9:3804,10:38
-,11:1570
+762 attribute, 71 glue_spec, 762 attribute_list, 1 write, 9 pdf_action nodes
+   avail lists: 1:2,2:3441,3:1141,4:265,5:2323,6:562,7:23019,8:994,9:3804,10:38,
+11:1570
  42041 multiletter control sequences out of 65536+600000
  79 fonts using 12958503 bytes
  68i,11n,112p,6207b,4794s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -14751,10 +14751,10 @@ warning  (pdf backend): unreferenced destination with name 'XVI.4n2'
 /usr/share/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></usr/sh
 are/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></usr/share/t
 exmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf>
-Output written on vism.pdf (616 pages, 3795406 bytes).
+Output written on vism.pdf (616 pages, 3795805 bytes).
 
-PDF statistics: 27686 PDF objects out of 31911 (max. 8388607)
- 26588 compressed objects within 266 object streams
+PDF statistics: 27733 PDF objects out of 31911 (max. 8388607)
+ 26634 compressed objects within 267 object streams
  8377 named destinations out of 8907 (max. 131072)
  2729 words of extra memory for PDF output out of 10000 (max. 100000000)
 
