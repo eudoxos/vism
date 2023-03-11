@@ -1558,7 +1558,7 @@ All references are to chapter and paragraph numbers.
           (*mettā*\ ) :ref:`III.57f. <III.57>`, :ref:`105f. <III.105>`, :ref:`122 <III.122>`; :ref:`VII.18 <VII.18>`, :ref:`28 <VII.28>`; :ref:`IX.1f. <IX.1>`, :ref:`92f. <IX.92>`, :ref:`98 <IX.98>`, :ref:`119f. <IX.119>`; :ref:`XII.34 <XII.34>`, :ref:`37 <XII.37>`; :ref:`XIII.34 <XIII.34>`; :ref:`XIV.154 <XIV.154>`
 
    lust
-          (*kāmacchanda*\ ) :ref:`I.140 <I.140>`; :ref:`IV.85 <IV.85>`, :ref:`104 <IV.104>`, :ref:`n.24 <IV.n24>`; :ref:`XVI.10 <XVI.10>`; :ref:`XXII.57 <XXII.57>`*;* (*rāga*\ ) :ref:`IX.6 <IX.6>`. See also greed 
+          (*kāmacchanda*\ ) :ref:`I.140 <I.140>`; :ref:`IV.85 <IV.85>`, :ref:`104 <IV.104>`, :ref:`n.24 <IV.n24>`; :ref:`XVI.10 <XVI.10>`; :ref:`XXII.57 <XXII.57>`*; (*\ *rāga*\ ) :ref:`IX.6 <IX.6>`. See also greed 
 
    Magadha
           :ref:`XIV.25 <XIV.25>`, :ref:`30 <XIV.30>`; :ref:`XVIII.25 <XVIII.25>`
